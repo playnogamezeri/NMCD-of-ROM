@@ -3,86 +3,58 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Search and explore the 160 Gods of Nu Miracles of ROM, their domains, generations, and divine genealogies.">
+<meta name="theme-color" content="#0d0b14">
 <title>The Pantheon — Nu Miracles of ROM</title>
 <link rel="stylesheet" href="style.css">
-
 </head>
 <body>
 <header class="site-head">
-  <div class="brand"><a href="index.html">Nu Miracles of ROM</a></div>
-  <nav><a href="index.html">Home</a><a href="pantheon.html">The Pantheon</a><a href="worlds.html">The Worlds</a><a href="stories.html">The Stories</a><a href="miracles.html">Nu Miracles Story</a><a href="numericals-story.html">Numericals Story</a><a href="forums.html">Forums & Debates</a><a href="game.html">The Game</a><a href="tools.html">Divine Toolbox</a><a href="divine-council.html">Divine Council</a><a href="questions.html">Open Questions</a></nav>
+  <div class="brand"><a href="index.html">✧ Nu Miracles of ROM</a></div>
+  <nav aria-label="Main navigation"><a href="index.html">Home</a><a href="pantheon.html" aria-current="page">The Pantheon</a><a href="worlds.html">The Five Societies</a><a href="stories.html">Stories</a><a href="miracles.html">Miracles</a><a href="numericals-story.html">160 Numerical Stories</a><a href="forums.html">Forums &amp; Debates</a><a href="game.html">The Game</a><a href="tools.html">Divine Toolbox</a><a href="divine-council.html">Divine Council</a><a href="questions.html">Open Questions</a></nav>
 </header>
-<main>
+<main class="pantheon-main">
+<section class="pantheon-hero">
+  <p class="eyebrow">The divine archive</p>
+  <h1>The Pantheon</h1>
+  <p>One hundred and sixty divine profiles, arranged in the recorded order. Explore each God’s domain, position, relationships, and dossier — while keeping the founder’s record distinct from creative drafts.</p>
+  <div class="pantheon-stats" aria-label="Pantheon statistics">
+    <div><strong id="stat-total">160</strong><span>Gods in the archive</span></div>
+    <div><strong id="stat-classes">—</strong><span>Recorded classes</span></div>
+    <div><strong id="stat-generations">—</strong><span>Generations</span></div>
+  </div>
+</section>
 
-<h1>The Pantheon — 160 Gods</h1>
-<p>Every god of Nu Miracles of ROM, with their <strong>position</strong> (house, descent, generation), their <strong>job</strong> (their work in the world), their <strong>role</strong>, and their <strong>function to the Heart</strong> — ysgnutcoh, the Supreme God, who is the Heart of the God of Sound. Each god holds <em>complete mastery</em> of their concept: they understand it wholly, they own it, and they can shape it toward the ideal world.</p>
-<p><strong>The Dossiers:</strong> every god is also being given a full dossier — an origin story, a description of their power, and a heroic tale of their importance to Earth — drafted class by class for the founder’s judgment, as drafts, not canon. Open a god’s card to read theirs as they arrive.</p>
-<p>The roles and functions are a draft written for the founder’s judgment, as is the sorting by class. The structure — who descends from whom — is the founder’s own record. Three gods are counted once though they stand in two places: the God of Passion (a double seat), the God of Black (a second seat under Colors), and the God of Yellow, who is also the God of Gold (one god, two names).</p>
-<p><input type="text" id="q" placeholder="Search the gods… (try: death, money, color, sea)"></p>
-<p>
-<select id="fclass"><option value="">All classes</option></select>
-<select id="fgen"><option value="">All generations</option></select>
-<select id="fhouse"><option value="">Both houses</option><option>Kyreason's line</option><option>Darkness's line</option></select>
-</p>
-<p id="count" class="pos"></p>
-<div class="grid" id="grid"></div>
-<script src="gods-data.js"></script>
-<script>
-const grid = document.getElementById('grid');
-const classes = [...new Set(GODS.map(g => g.class))].sort();
-classes.forEach(c => { const o = document.createElement('option'); o.textContent = c; document.getElementById('fclass').appendChild(o); });
-const gens = [...new Set(GODS.map(g => g.generation))].sort((a, b) => a - b);
-gens.forEach(g => { const o = document.createElement('option'); o.value = g; o.textContent = g < 0 ? 'Before Generation 0' : 'Generation ' + g; document.getElementById('fgen').appendChild(o); });
-function genLabel(g) { return g.generation < 0 ? 'Before Generation 0 — the First God' : 'Generation ' + g.generation; }
-function posLine(g) {
-  let p = genLabel(g) + ' · ' + g.house;
-  if (g.parents && g.parents.length) p += ' · under ' + g.parents.join(' and ');
-  return p;
-}
-function card(g) {
-  const d = document.createElement('div'); d.className = 'god-card';
-  let h = '<h3>' + g.name + '</h3>';
-  if (g.trueName) h += '<div class="pos">True name: ' + g.trueName + '</div>';
-  h += '<div class="pos">' + posLine(g) + '</div>';
-  h += '<div><span class="tag">' + g.class + '</span></div>';
-  h += '<p class="role"><strong>Job:</strong> ' + g.job + '.</p>';
-  h += '<details><summary>Role &amp; function</summary>';
-  h += '<p><strong>Role:</strong> ' + g.role + '</p>';
-  h += '<p><strong>Function to the Heart:</strong> ' + g.function + '</p>';
-  if (g.origin) h += '<p><strong>Origin:</strong> ' + g.origin + '</p>';
-  if (g.power) h += '<p><strong>Power:</strong> ' + g.power + '</p>';
-  if (g.tale) h += '<p><strong>For Earth:</strong> ' + g.tale + '</p>';
-  if (g.record) h += '<p><strong>In the founder’s words — the whole of the record:</strong> ' + g.record + '</p>';
-  if (g.children && g.children.length) h += '<p><strong>Children:</strong> ' + g.children.join(', ') + '</p>';
-  if (g.wisdom) h += '<p><strong>Recorded wisdom (simulation):</strong> ' + g.wisdom + '</p>';
-  h += '</details>';
-  d.innerHTML = h;
-  return d;
-}
-function render() {
-  const q = document.getElementById('q').value.toLowerCase();
-  const fc = document.getElementById('fclass').value;
-  const fg = document.getElementById('fgen').value;
-  const fh = document.getElementById('fhouse').value;
-  grid.innerHTML = '';
-  let n = 0;
-  GODS.forEach(g => {
-    if (fc && g.class !== fc) return;
-    if (fg !== '' && String(g.generation) !== fg) return;
-    if (fh && g.house !== fh) return;
-    if (q && !(g.name + ' ' + g.role + ' ' + g.class).toLowerCase().includes(q)) return;
-    grid.appendChild(card(g)); n++;
-  });
-  document.getElementById('count').textContent = n + ' gods shown';
-}
-['q', 'fclass', 'fgen', 'fhouse'].forEach(id => document.getElementById(id).addEventListener('input', render));
-render();
-</script>
+<section class="pantheon-explorer" aria-labelledby="explore-heading">
+  <div class="pantheon-section-head"><div><p class="eyebrow">Find a divine profile</p><h2 id="explore-heading">Explore the Gods</h2></div><p id="result-count" class="pos" aria-live="polite">Loading the pantheon…</p></div>
+  <div class="pantheon-filters">
+    <label class="pantheon-search-label">Search names, domains, roles, and dossiers
+      <input id="god-search" type="search" placeholder="Try: electricity, life, color, memory…" autocomplete="off">
+    </label>
+    <label>Class<select id="filter-class"><option value="">All classes</option></select></label>
+    <label>Generation<select id="filter-generation"><option value="">All generations</option></select></label>
+    <label>House<select id="filter-house"><option value="">Both houses</option><option value="Kyreason's line">Kyreason’s line</option><option value="Darkness's line">Darkness’s line</option><option value="The Heart itself">The Heart itself</option><option value="Before the Heart">Before the Heart</option></select></label>
+    <button id="clear-filters" class="filter-reset" type="button">Clear filters</button>
+  </div>
+  <div class="pantheon-layout">
+    <section class="god-results" aria-label="God search results">
+      <div id="god-grid" class="god-grid"></div>
+      <p id="no-results" class="empty-state" hidden>No Gods match those filters. Try a broader search or clear the filters.</p>
+    </section>
+    <aside class="god-profile" id="god-profile" aria-live="polite" aria-label="Selected divine profile">
+      <div class="profile-placeholder"><span>✧</span><h2>Select a God</h2><p>Choose any profile to open its dossier and explore its recorded relationships.</p></div>
+    </aside>
+  </div>
+</section>
 
+<section class="lineage-section" aria-labelledby="lineage-heading">
+  <div class="pantheon-section-head"><div><p class="eyebrow">Relationships, not assumptions</p><h2 id="lineage-heading">Divine Lineage Explorer</h2></div></div>
+  <p class="lineage-intro">Choose a God to see their recorded parents and children. Select any name to follow the genealogy. This explorer uses only the relationships recorded in the pantheon data; it does not infer missing connections.</p>
+  <div id="lineage-explorer" class="lineage-explorer"><p class="empty-state">Select a God from the pantheon to explore their lineage.</p></div>
+</section>
 </main>
-<footer>
-  <p>Nu Miracles of ROM — founded by Hoc, 2026. <em>Nu</em> means “new” — and “And You”: you are part of this story.</p>
-  <p class="fine">The founding record is kept by the founder. Stories are drafts awaiting the founder’s judgment; forums, debates, and simulations are the gods’ voices at play, not settled doctrine — each page says which is which.</p>
-</footer>
+<footer><p>Nu Miracles of ROM · The Pantheon</p><p class="fine">Profiles reflect the current project record. Creative dossiers and simulations remain drafts unless the author confirms them.</p></footer>
+<script src="gods-data.js"></script>
+<script src="pantheon-experience.js"></script>
 </body>
 </html>
