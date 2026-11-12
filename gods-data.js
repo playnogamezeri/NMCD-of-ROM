@@ -2125,7 +2125,13 @@ window.GODS = [
   "power": "Complete mastery of the shining standard. As Yellow, he holds joy and caution in a single shade — the ripened field and the warning sign, the sun's herald at dawn. As Gold, he is permanence: the metal that does not rust or tarnish, keeping value across any darkness — the Heart's incorruptible standard. Together he is the Heart's double witness: the same god shining as light above and standing as permanence below.",
   "tale": "His heroism is trust made solid. The wedding ring worn fifty years without tarnishing; the reserve in the vault that lets a stranger accept paper from another stranger; the caution light that holds a city's traffic one breath between go and stop. And every autumn his bright name covers the wheat at the exact moment it is ready — the ripened field, Earth's oldest announcement that the year's work succeeded. In a world of currencies that inflate and metals that rust, he never lied about lasting. Earth built its promises out of him for five thousand years. --- *Note: the God of Black, though seated in this class by his second seat, belongs by home and count to the Property & Information batch (Cosmos line, under God of Permanent) and is left to that batch — no dossier is written for him here.* ## Batch — Life & the Body *Draft dossiers for Hoc's judgment, NOT canon — matching the format of the god dossiers. God of Drug and God of Cell sit in this class by subject; their homes in the tree are elsewhere (Drug under God of Tools, Cell under God of Enforcement), and their origins say so.*",
   "job": "One god under two names (Hoc's ruling, 2026-11-10): as Yellow, the color of the sun's light, of caution, and of the ripened field, child of Colors",
-  "number": 122
+  "number": 122,
+  "aliases": [
+   "God of Yellow"
+  ],
+  "alsoGenerations": [
+   8
+  ]
  },
  {
   "name": "God of Human World",
