@@ -7,6 +7,7 @@
   const profile = el("god-profile");
   const lineage = el("lineage-explorer");
   const search = el("god-search");  const generationFilter = el("filter-generation");
+  const groupFilter = el("filter-group");
   const houseFilter = el("filter-house");
   let selected = null;
 
@@ -32,7 +33,8 @@
     return;
   }
 
-  el("stat-total").textContent = String(gods.length);  el("stat-generations").textContent = String(new Set(gods.map(g => g.generation)).size);  [...new Set(gods.map(g => g.generation).filter(v => v !== undefined && v !== null))].sort((a,b) => a-b).forEach(value => {
+  el("stat-total").textContent = String(gods.length);
+  [...new Set(gods.map(g => g.group).filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = document.createElement("option"); option.value = value; option.textContent = value; groupFilter.appendChild(option); });  el("stat-generations").textContent = String(new Set(gods.map(g => g.generation)).size);  [...new Set(gods.map(g => g.generation).filter(v => v !== undefined && v !== null))].sort((a,b) => a-b).forEach(value => {
     const option = document.createElement("option"); option.value = String(value); option.textContent = generationLabel(value); generationFilter.appendChild(option);
   });
 
@@ -69,7 +71,7 @@
     profile.appendChild(top);
 
     const identity = document.createElement("div"); identity.className = "profile-facts";
-    [["Position", g.group || "Not recorded"], ["Parents", parentLine(g)], ["Children", childLine(g)]].forEach(([label,value]) => {
+    [["Subject group", g.group || "Not recorded"], ["Parents", parentLine(g)], ["Children", childLine(g)]].forEach(([label,value]) => {
       const item = document.createElement("div"); item.className = "profile-fact";
       addText(item, "span", label, "fact-label"); addText(item, "p", value);
       identity.appendChild(item);
@@ -163,9 +165,10 @@
   }
 
   function renderGrid() {
-    const q = search.value.trim().toLocaleLowerCase();    const fg = generationFilter.value, fh = houseFilter.value;
+    const q = search.value.trim().toLocaleLowerCase();    const fg = generationFilter.value, fh = houseFilter.value, fc = groupFilter.value;
     const filtered = gods.filter(g => {      if (fg !== "" && String(g.generation) !== fg) return false;
       if (fh && g.house !== fh) return false;
+      if (fc && g.group !== fc) return false;
       if (q) {
         const haystack = [g.name,g.trueName,g.role,g.job,g.function,g.group,g.house,g.origin,g.power,g.tale,g.wisdom,...listNames(g.parents),...listNames(g.children)].filter(Boolean).join(" ").toLocaleLowerCase();
         if (!haystack.includes(q)) return false;
@@ -182,9 +185,9 @@
     }
   }
 
-  [search,generationFilter,houseFilter].forEach(control => control.addEventListener(control === search ? "input" : "change", renderGrid));
+  [search,generationFilter,houseFilter,groupFilter].forEach(control => control.addEventListener(control === search ? "input" : "change", renderGrid));
   el("clear-filters").addEventListener("click", () => {
-    search.value = ""; generationFilter.value = ""; houseFilter.value = "";
+    search.value = ""; generationFilter.value = ""; houseFilter.value = ""; groupFilter.value = "";
     renderGrid(); search.focus();
   });
   renderGrid();
