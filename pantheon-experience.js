@@ -89,6 +89,25 @@
       ["Recorded wisdom · simulation", "wisdom", "wisdom"],
       ["Founder’s record", "record", "record"]
     ];
+    if (g.domainMastery) {
+      const mastery = g.domainMastery;
+      const section = document.createElement("section"); section.className = "dossier-section domain-mastery";
+      addText(section, "h3", "Domain mastery");
+      addText(section, "p", mastery.title + " · " + mastery.level, "mastery-level");
+      addText(section, "p", "Mastery scope: " + mastery.scope);
+      addText(section, "p", mastery.categoryContext, "profile-note");
+      addText(section, "h4", "Master capabilities");
+      const capabilities = document.createElement("ul"); capabilities.className = "ability-list";
+      (mastery.abilities || []).forEach(item => addText(capabilities, "li", item));
+      section.appendChild(capabilities);
+      addText(section, "h4", "Applications");
+      const applications = document.createElement("ul"); applications.className = "ability-list";
+      (mastery.applications || []).forEach(item => addText(applications, "li", item));
+      section.appendChild(applications);
+      addText(section, "h4", "Boundaries of authority");
+      addText(section, "p", mastery.boundary);
+      profile.appendChild(section);
+    }
     if (g.abilities && g.abilities.length) {
       const section = document.createElement("section"); section.className = "dossier-section";
       addText(section, "h3", "Abilities");
