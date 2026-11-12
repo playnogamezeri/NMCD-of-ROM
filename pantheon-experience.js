@@ -4,7 +4,6 @@
   const byName = new Map(gods.map(g => [g.name, g]));
   const el = id => document.getElementById(id);
   const grid = el("god-grid");
-  const profile = el("god-profile");
   const lineage = el("lineage-explorer");
   const search = el("god-search");  const generationFilter = el("filter-generation");
   const groupFilter = el("filter-group");
@@ -56,7 +55,7 @@
     section.appendChild(wrap); parent.appendChild(section);
   }
 
-  function renderProfile(g) {
+  function renderProfile(g, profile) {
     profile.replaceChildren();
     const top = document.createElement("div"); top.className = "profile-top";
     addText(top, "p", "DIVINE DOSSIER", "eyebrow");
@@ -179,25 +178,30 @@
     lineage.appendChild(note);
   }
 
-  function selectGod(g, scrollProfile) {
+  function selectGod(g, expandProfile = true) {
     if (!g) return;
     selected = g;
-    renderProfile(g);
     renderLineage(g);
     document.querySelectorAll(".god-card-button").forEach(button => {
       const active = button.dataset.god === g.name;
       button.classList.toggle("is-selected", active);
       button.setAttribute("aria-pressed", active ? "true" : "false");
     });
-    if (scrollProfile && window.matchMedia("(max-width: 900px)").matches) {
-      profile.scrollIntoView({behavior:"smooth", block:"start"});
+    const cardButton = grid.querySelector('.god-card-button[data-god="' + CSS.escape(g.name) + '"]');
+    const panel = cardButton && cardButton.parentElement.querySelector(".god-inline-profile");
+    if (expandProfile && panel) {
+      panel.hidden = false;
+      cardButton.setAttribute("aria-expanded", "true");
+      renderProfile(g, panel);
+      panel.scrollIntoView({behavior:"smooth", block:"nearest"});
     }
   }
 
   function cardFor(g) {
+    const item = document.createElement("article"); item.className = "god-card-item";
     const button = document.createElement("button");
     button.type = "button"; button.className = "god-card-button";
-    button.dataset.god = g.name; button.setAttribute("aria-pressed", "false");
+    button.dataset.god = g.name; button.setAttribute("aria-pressed", "false"); button.setAttribute("aria-expanded", "false");
     const top = document.createElement("div"); top.className = "god-card-top";
     addText(top, "span", "#" + g.number + " · " + generationLabel(g.generation), "god-generation");
     addText(top, "span", g.house || "House unrecorded", "god-house");
@@ -205,9 +209,18 @@
     addText(button, "p", g.group || "Category unassigned", "god-card-group");
     addText(button, "h3", g.name, "god-card-name");    addText(button, "p", g.job || g.role || "No role description recorded.", "god-card-role");
     const footer = document.createElement("span"); footer.className = "god-card-footer";
-    footer.textContent = "Open divine profile ↗"; button.appendChild(footer);
-    button.addEventListener("click", () => selectGod(g, false));
-    return button;
+    footer.textContent = "Open divine profile ＋"; button.appendChild(footer);
+    const panel = document.createElement("div"); panel.className = "god-inline-profile"; panel.hidden = true;
+    button.addEventListener("click", () => {
+      const opening = panel.hidden;
+      panel.hidden = !opening;
+      button.setAttribute("aria-expanded", opening ? "true" : "false");
+      button.setAttribute("aria-pressed", opening ? "true" : "false");
+      button.classList.toggle("is-selected", opening);
+      if (opening) { selectGod(g, false); renderProfile(g, panel); }
+    });
+    item.append(button, panel);
+    return item;
   }
 
   function renderGrid() {
@@ -225,10 +238,7 @@
     filtered.forEach(g => grid.appendChild(cardFor(g)));
     el("result-count").textContent = filtered.length + " of " + gods.length + " Gods shown";
     el("no-results").hidden = filtered.length !== 0;
-    if (selected && filtered.some(g => g.name === selected.name)) {
-      const active = grid.querySelector('[data-god="' + CSS.escape(selected.name) + '"]');
-      if (active) { active.classList.add("is-selected"); active.setAttribute("aria-pressed","true"); }
-    }
+
   }
 
   [search,generationFilter,houseFilter,groupFilter].forEach(control => control.addEventListener(control === search ? "input" : "change", renderGrid));
@@ -237,5 +247,4 @@
     renderGrid(); search.focus();
   });
   renderGrid();
-  selectGod(gods[0], false);
 })();
