@@ -33,16 +33,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Sound is not all creation",
-    "description": "He may originate sound and vibration, but this does not grant authorship over every substance, life-form, law, or divine domain."
+    "name": "Boundary of Sound, vibration, and primordial creative expression",
+    "description": "Sound, vibration, and primordial creative expression: He may originate sound and vibration, but this does not grant authorship over every substance, life-form, law, or divine domain."
    },
    {
-    "name": "Resonance needs a relation",
-    "description": "Effects that travel through a medium, reach a listener, or alter an object must respect the relevant medium and the target's properties."
+    "name": "Conditions for mastering Sound, vibration, and primordial creative expression",
+    "description": "Sound, vibration, and primordial creative expression: Effects that travel through a medium, reach a listener, or alter an object must respect the relevant medium and the target's properties."
    },
    {
-    "name": "The first song cannot dictate its listeners",
-    "description": "The ultimate offers form, signal, and possibility; it cannot dictate how independent beings interpret or develop what they hear."
+    "name": "Cost and constraint of Sound, vibration, and primordial creative expression's ultimate",
+    "description": "Sound, vibration, and primordial creative expression: The ultimate offers form, signal, and possibility; it cannot dictate how independent beings interpret or develop what they hear."
    }
   ]
  },
@@ -80,16 +80,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Goodness must remain good",
-    "description": "His ultimate purpose cannot be used as a pretext for cruelty, coercion, or treating living beings as disposable instruments."
+    "name": "Boundary of the Supreme Heart and ideal direction",
+    "description": "the Supreme Heart and ideal direction: His ultimate purpose cannot be used as a pretext for cruelty, coercion, or treating living beings as disposable instruments."
    },
    {
-    "name": "Distinct domains remain distinct",
-    "description": "Supreme responsibility does not make him the specialist of every concept or erase the independent mastery and duties of the other Gods."
+    "name": "Conditions for mastering the Supreme Heart and ideal direction",
+    "description": "the Supreme Heart and ideal direction: Supreme responsibility does not make him the specialist of every concept or erase the independent mastery and duties of the other Gods."
    },
    {
-    "name": "Unity requires honest alignment",
-    "description": "He can guide, appoint, and correct, but genuine cooperation cannot be sustained by denying disagreement, evidence, or consequences."
+    "name": "Cost and constraint of the Supreme Heart and ideal direction's ultimate",
+    "description": "the Supreme Heart and ideal direction: He can guide, appoint, and correct, but genuine cooperation cannot be sustained by denying disagreement, evidence, or consequences."
    }
   ]
  },
@@ -127,16 +127,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Balance is not sameness",
-    "description": "He cannot make Light and Darkness identical; his mastery depends on preserving their meaningful differences."
+    "name": "Boundary of the balance of Light and Darkness",
+    "description": "the balance of Light and Darkness: He cannot make Light and Darkness identical; his mastery depends on preserving their meaningful differences."
    },
    {
-    "name": "Balance is contextual",
-    "description": "The correct proportion changes with circumstances; a fixed ratio imposed everywhere would itself become imbalance."
+    "name": "Conditions for mastering the balance of Light and Darkness",
+    "description": "the balance of Light and Darkness: The correct proportion changes with circumstances; a fixed ratio imposed everywhere would itself become imbalance."
    },
    {
-    "name": "He does not own every descendant domain",
-    "description": "His capability enables his line, but each descendant retains its own concept and responsibility."
+    "name": "Cost and constraint of the balance of Light and Darkness's ultimate",
+    "description": "the balance of Light and Darkness: His capability enables his line, but each descendant retains its own concept and responsibility."
    }
   ]
  },
@@ -174,16 +174,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Unknown is not automatically false",
-    "description": "Concealment does not make a claim true or untrue; Darkness cannot replace evidence with mystery."
+    "name": "Boundary of the Unknown",
+    "description": "the Unknown: Concealment does not make a claim true or untrue; Darkness cannot replace evidence with mystery."
    },
    {
-    "name": "The unknown has edges",
-    "description": "He governs what is hidden or not yet understood, not every event, night, secret, or harmful act."
+    "name": "Conditions for mastering the Unknown",
+    "description": "the Unknown: He governs what is hidden or not yet understood, not every event, night, secret, or harmful act."
    },
    {
-    "name": "Revelation requires a threshold",
-    "description": "The ultimate cannot force meaningful understanding into existence; discovery still requires observation, interpretation, and readiness."
+    "name": "Cost and constraint of the Unknown's ultimate",
+    "description": "the Unknown: The ultimate cannot force meaningful understanding into existence; discovery still requires observation, interpretation, and readiness."
    }
   ]
  },
@@ -221,16 +221,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "name": "Boundary of Life",
+    "description": "Life: The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
-    "name": "Operational condition",
-    "description": "Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
+    "name": "Conditions for mastering Life",
+    "description": "Life: Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
+    "name": "Cost and constraint of Life's ultimate",
+    "description": "Life: Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
    }
   ]
  },
@@ -268,16 +268,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Matter",
+    "description": "Matter: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Matter",
+    "description": "Matter: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Matter's ultimate",
+    "description": "Matter: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -315,16 +315,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Yield",
+    "description": "Yield: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Yield",
+    "description": "Yield: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Yield's ultimate",
+    "description": "Yield: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -362,16 +362,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Time",
+    "description": "Time: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Time",
+    "description": "Time: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Time's ultimate",
+    "description": "Time: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -409,16 +409,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
+    "name": "Boundary of Space",
+    "description": "Space: Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
    },
    {
-    "name": "Operational condition",
-    "description": "A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
+    "name": "Conditions for mastering Space",
+    "description": "Space: A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
+    "name": "Cost and constraint of Space's ultimate",
+    "description": "Space: Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
    }
   ]
  },
@@ -456,16 +456,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Primordial creation establishes conditions; it does not grant authorship over every independent concept that emerges."
+    "name": "Boundary of Chaos",
+    "description": "Chaos: Primordial creation establishes conditions; it does not grant authorship over every independent concept that emerges."
    },
    {
-    "name": "Operational condition",
-    "description": "Contradictory beginnings cannot be imposed simultaneously in the same respect; the God must resolve the contradiction or preserve it as possibility."
+    "name": "Conditions for mastering Chaos",
+    "description": "Chaos: Contradictory beginnings cannot be imposed simultaneously in the same respect; the God must resolve the contradiction or preserve it as possibility."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "An ultimate act reshapes foundational conditions and leaves instability that must be harmonized before another such act."
+    "name": "Cost and constraint of Chaos's ultimate",
+    "description": "Chaos: An ultimate act reshapes foundational conditions and leaves instability that must be harmonized before another such act."
    }
   ]
  },
@@ -503,16 +503,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Culture",
+    "description": "Culture: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Culture",
+    "description": "Culture: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Culture's ultimate",
+    "description": "Culture: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -550,16 +550,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Elements",
+    "description": "Elements: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Elements",
+    "description": "Elements: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Elements's ultimate",
+    "description": "Elements: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -597,16 +597,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spiritual mastery does not automatically control bodily biology, another God's domain, or every afterlife rule."
+    "name": "Boundary of Spirit",
+    "description": "Spirit: Spiritual mastery does not automatically control bodily biology, another God's domain, or every afterlife rule."
    },
    {
-    "name": "Operational condition",
-    "description": "A spiritual truth cannot be forced into a being who is unwilling or unready to receive it; guidance is not ownership."
+    "name": "Conditions for mastering Spirit",
+    "description": "Spirit: A spiritual truth cannot be forced into a being who is unwilling or unready to receive it; guidance is not ownership."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spiritual manifestation requires profound alignment and cannot be sustained indefinitely in the material world."
+    "name": "Cost and constraint of Spirit's ultimate",
+    "description": "Spirit: Ultimate spiritual manifestation requires profound alignment and cannot be sustained indefinitely in the material world."
    }
   ]
  },
@@ -644,16 +644,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Senses",
+    "description": "Senses: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Senses",
+    "description": "Senses: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Senses's ultimate",
+    "description": "Senses: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -691,16 +691,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Value",
+    "description": "Value: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Value",
+    "description": "Value: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Value's ultimate",
+    "description": "Value: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -738,16 +738,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
+    "name": "Boundary of Tools",
+    "description": "Tools: A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
    },
    {
-    "name": "Operational condition",
-    "description": "Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
+    "name": "Conditions for mastering Tools",
+    "description": "Tools: Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
+    "name": "Cost and constraint of Tools's ultimate",
+    "description": "Tools: The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
    }
   ]
  },
@@ -785,16 +785,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Minerals",
+    "description": "Minerals: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Minerals",
+    "description": "Minerals: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Minerals's ultimate",
+    "description": "Minerals: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -832,16 +832,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Number",
+    "description": "Number: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Number",
+    "description": "Number: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Number's ultimate",
+    "description": "Number: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -879,16 +879,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Order",
+    "description": "Order: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Order",
+    "description": "Order: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Order's ultimate",
+    "description": "Order: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -926,16 +926,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A possibility is not automatically an actuality; realization requires coherent conditions and cannot bypass every other domain."
+    "name": "Boundary of Property",
+    "description": "Property: A possibility is not automatically an actuality; realization requires coherent conditions and cannot bypass every other domain."
    },
    {
-    "name": "Operational condition",
-    "description": "Mutually exclusive states cannot be simultaneously actual in the same respect."
+    "name": "Conditions for mastering Property",
+    "description": "Property: Mutually exclusive states cannot be simultaneously actual in the same respect."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate actualization closes alternatives within its chosen scope and carries responsibility for every consequence it makes real."
+    "name": "Cost and constraint of Property's ultimate",
+    "description": "Property: The ultimate actualization closes alternatives within its chosen scope and carries responsibility for every consequence it makes real."
    }
   ]
  },
@@ -973,16 +973,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
+    "name": "Boundary of World",
+    "description": "World: Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
    },
    {
-    "name": "Operational condition",
-    "description": "A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
+    "name": "Conditions for mastering World",
+    "description": "World: A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
+    "name": "Cost and constraint of World's ultimate",
+    "description": "World: Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
    }
   ]
  },
@@ -1020,16 +1020,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
+    "name": "Boundary of Antimatter",
+    "description": "Antimatter: Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
    },
    {
-    "name": "Operational condition",
-    "description": "A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
+    "name": "Conditions for mastering Antimatter",
+    "description": "Antimatter: A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
+    "name": "Cost and constraint of Antimatter's ultimate",
+    "description": "Antimatter: Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
    }
   ]
  },
@@ -1067,16 +1067,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God masters the named strategic concept but cannot guarantee victory over every independent will or unpredictable event."
+    "name": "Boundary of Disaster",
+    "description": "Disaster: The God masters the named strategic concept but cannot guarantee victory over every independent will or unpredictable event."
    },
    {
-    "name": "Operational condition",
-    "description": "Information may be incomplete or misleading; strategy cannot remove uncertainty from every conflict."
+    "name": "Conditions for mastering Disaster",
+    "description": "Disaster: Information may be incomplete or misleading; strategy cannot remove uncertainty from every conflict."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate maneuver commits resources and closes options; it is strongest when used to end danger, not prolong domination."
+    "name": "Cost and constraint of Disaster's ultimate",
+    "description": "Disaster: The ultimate maneuver commits resources and closes options; it is strongest when used to end danger, not prolong domination."
    }
   ]
  },
@@ -1114,16 +1114,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Proton",
+    "description": "Proton: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Proton",
+    "description": "Proton: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Proton's ultimate",
+    "description": "Proton: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -1161,16 +1161,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Electron",
+    "description": "Electron: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Electron",
+    "description": "Electron: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Electron's ultimate",
+    "description": "Electron: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -1208,16 +1208,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Neutron",
+    "description": "Neutron: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Neutron",
+    "description": "Neutron: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Neutron's ultimate",
+    "description": "Neutron: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -1255,16 +1255,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Zero",
+    "description": "Zero: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Zero",
+    "description": "Zero: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Zero's ultimate",
+    "description": "Zero: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -1302,16 +1302,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of One",
+    "description": "One: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering One",
+    "description": "One: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of One's ultimate",
+    "description": "One: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -1349,16 +1349,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Two",
+    "description": "Two: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Two",
+    "description": "Two: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Two's ultimate",
+    "description": "Two: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -1396,16 +1396,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Three",
+    "description": "Three: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Three",
+    "description": "Three: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Three's ultimate",
+    "description": "Three: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -1443,16 +1443,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Four",
+    "description": "Four: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Four",
+    "description": "Four: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Four's ultimate",
+    "description": "Four: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -1490,16 +1490,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Five",
+    "description": "Five: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Five",
+    "description": "Five: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Five's ultimate",
+    "description": "Five: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -1537,16 +1537,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Six",
+    "description": "Six: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Six",
+    "description": "Six: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Six's ultimate",
+    "description": "Six: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -1584,16 +1584,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Seven",
+    "description": "Seven: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Seven",
+    "description": "Seven: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Seven's ultimate",
+    "description": "Seven: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -1631,16 +1631,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Eight",
+    "description": "Eight: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Eight",
+    "description": "Eight: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Eight's ultimate",
+    "description": "Eight: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -1678,16 +1678,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Nine",
+    "description": "Nine: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Nine",
+    "description": "Nine: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Nine's ultimate",
+    "description": "Nine: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -1725,16 +1725,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Knowledge",
+    "description": "Knowledge: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Knowledge",
+    "description": "Knowledge: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Knowledge's ultimate",
+    "description": "Knowledge: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -1772,16 +1772,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Experience",
+    "description": "Experience: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Experience",
+    "description": "Experience: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Experience's ultimate",
+    "description": "Experience: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -1819,16 +1819,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Entertainment",
+    "description": "Entertainment: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Entertainment",
+    "description": "Entertainment: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Entertainment's ultimate",
+    "description": "Entertainment: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -1866,16 +1866,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Institution",
+    "description": "Institution: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Institution",
+    "description": "Institution: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Institution's ultimate",
+    "description": "Institution: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -1913,16 +1913,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "name": "Boundary of Growth",
+    "description": "Growth: The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
-    "name": "Operational condition",
-    "description": "Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
+    "name": "Conditions for mastering Growth",
+    "description": "Growth: Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
+    "name": "Cost and constraint of Growth's ultimate",
+    "description": "Growth: Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
    }
   ]
  },
@@ -1960,16 +1960,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
+    "name": "Boundary of Decay",
+    "description": "Decay: The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
    },
    {
-    "name": "Operational condition",
-    "description": "A completed transition cannot be casually undone without the proper conditions and cooperation of relevant domains."
+    "name": "Conditions for mastering Decay",
+    "description": "Decay: A completed transition cannot be casually undone without the proper conditions and cooperation of relevant domains."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate transition is irreversible in its intended scope and cannot control unrelated beings or outcomes."
+    "name": "Cost and constraint of Decay's ultimate",
+    "description": "Decay: The ultimate transition is irreversible in its intended scope and cannot control unrelated beings or outcomes."
    }
   ]
  },
@@ -2007,16 +2007,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Fire",
+    "description": "Fire: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Fire",
+    "description": "Fire: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Fire's ultimate",
+    "description": "Fire: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -2054,16 +2054,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Water",
+    "description": "Water: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Water",
+    "description": "Water: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Water's ultimate",
+    "description": "Water: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -2101,16 +2101,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Air",
+    "description": "Air: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Air",
+    "description": "Air: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Air's ultimate",
+    "description": "Air: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -2148,16 +2148,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Earth",
+    "description": "Earth: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Earth",
+    "description": "Earth: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Earth's ultimate",
+    "description": "Earth: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -2195,16 +2195,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Intuition",
+    "description": "Intuition: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Intuition",
+    "description": "Intuition: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Intuition's ultimate",
+    "description": "Intuition: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -2242,16 +2242,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Intention",
+    "description": "Intention: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Intention",
+    "description": "Intention: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Intention's ultimate",
+    "description": "Intention: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -2289,16 +2289,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Worth",
+    "description": "Worth: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Worth",
+    "description": "Worth: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Worth's ultimate",
+    "description": "Worth: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -2336,16 +2336,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Intangible",
+    "description": "Intangible: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Intangible",
+    "description": "Intangible: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Intangible's ultimate",
+    "description": "Intangible: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -2383,16 +2383,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "name": "Boundary of Drug",
+    "description": "Drug: The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
-    "name": "Operational condition",
-    "description": "Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
+    "name": "Conditions for mastering Drug",
+    "description": "Drug: Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
+    "name": "Cost and constraint of Drug's ultimate",
+    "description": "Drug: Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
    }
   ]
  },
@@ -2430,16 +2430,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
+    "name": "Boundary of Technology",
+    "description": "Technology: A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
    },
    {
-    "name": "Operational condition",
-    "description": "Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
+    "name": "Conditions for mastering Technology",
+    "description": "Technology: Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
+    "name": "Cost and constraint of Technology's ultimate",
+    "description": "Technology: The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
    }
   ]
  },
@@ -2477,16 +2477,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Music",
+    "description": "Music: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Music",
+    "description": "Music: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Music's ultimate",
+    "description": "Music: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -2524,16 +2524,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Government",
+    "description": "Government: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Government",
+    "description": "Government: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Government's ultimate",
+    "description": "Government: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -2571,16 +2571,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Friendship",
+    "description": "Friendship: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Friendship",
+    "description": "Friendship: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Friendship's ultimate",
+    "description": "Friendship: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -2618,16 +2618,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Rank",
+    "description": "Rank: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Rank",
+    "description": "Rank: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Rank's ultimate",
+    "description": "Rank: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -2665,16 +2665,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Algorithms",
+    "description": "Algorithms: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Algorithms",
+    "description": "Algorithms: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Algorithms's ultimate",
+    "description": "Algorithms: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -2712,16 +2712,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Command",
+    "description": "Command: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Command",
+    "description": "Command: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Command's ultimate",
+    "description": "Command: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -2759,16 +2759,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Structure",
+    "description": "Structure: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Structure",
+    "description": "Structure: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Structure's ultimate",
+    "description": "Structure: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -2806,16 +2806,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of December",
+    "description": "December: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering December",
+    "description": "December: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of December's ultimate",
+    "description": "December: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -2853,16 +2853,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of January",
+    "description": "January: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering January",
+    "description": "January: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of January's ultimate",
+    "description": "January: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -2900,16 +2900,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of February",
+    "description": "February: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering February",
+    "description": "February: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of February's ultimate",
+    "description": "February: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -2947,16 +2947,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of March",
+    "description": "March: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering March",
+    "description": "March: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of March's ultimate",
+    "description": "March: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -2994,16 +2994,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of April",
+    "description": "April: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering April",
+    "description": "April: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of April's ultimate",
+    "description": "April: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -3041,16 +3041,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of May",
+    "description": "May: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering May",
+    "description": "May: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of May's ultimate",
+    "description": "May: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -3088,16 +3088,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of June",
+    "description": "June: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering June",
+    "description": "June: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of June's ultimate",
+    "description": "June: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -3135,16 +3135,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of July",
+    "description": "July: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering July",
+    "description": "July: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of July's ultimate",
+    "description": "July: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -3182,16 +3182,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of August",
+    "description": "August: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering August",
+    "description": "August: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of August's ultimate",
+    "description": "August: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -3229,16 +3229,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of September",
+    "description": "September: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering September",
+    "description": "September: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of September's ultimate",
+    "description": "September: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -3276,16 +3276,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of October",
+    "description": "October: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering October",
+    "description": "October: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of October's ultimate",
+    "description": "October: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -3323,16 +3323,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of November",
+    "description": "November: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering November",
+    "description": "November: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of November's ultimate",
+    "description": "November: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -3370,16 +3370,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
+    "name": "Boundary of Information",
+    "description": "Information: Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
    },
    {
-    "name": "Operational condition",
-    "description": "A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
+    "name": "Conditions for mastering Information",
+    "description": "Information: A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
+    "name": "Cost and constraint of Information's ultimate",
+    "description": "Information: The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
    }
   ]
  },
@@ -3417,16 +3417,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A possibility is not automatically an actuality; realization requires coherent conditions and cannot bypass every other domain."
+    "name": "Boundary of Permanent",
+    "description": "Permanent: A possibility is not automatically an actuality; realization requires coherent conditions and cannot bypass every other domain."
    },
    {
-    "name": "Operational condition",
-    "description": "Mutually exclusive states cannot be simultaneously actual in the same respect."
+    "name": "Conditions for mastering Permanent",
+    "description": "Permanent: Mutually exclusive states cannot be simultaneously actual in the same respect."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate actualization closes alternatives within its chosen scope and carries responsibility for every consequence it makes real."
+    "name": "Cost and constraint of Permanent's ultimate",
+    "description": "Permanent: The ultimate actualization closes alternatives within its chosen scope and carries responsibility for every consequence it makes real."
    }
   ]
  },
@@ -3464,16 +3464,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Magnet",
+    "description": "Magnet: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Magnet",
+    "description": "Magnet: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Magnet's ultimate",
+    "description": "Magnet: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -3511,16 +3511,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
+    "name": "Boundary of Dimension",
+    "description": "Dimension: Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
    },
    {
-    "name": "Operational condition",
-    "description": "A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
+    "name": "Conditions for mastering Dimension",
+    "description": "Dimension: A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
+    "name": "Cost and constraint of Dimension's ultimate",
+    "description": "Dimension: Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
    }
   ]
  },
@@ -3558,16 +3558,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Nature",
+    "description": "Nature: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Nature",
+    "description": "Nature: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Nature's ultimate",
+    "description": "Nature: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -3605,16 +3605,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "name": "Boundary of Biology",
+    "description": "Biology: The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
-    "name": "Operational condition",
-    "description": "Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
+    "name": "Conditions for mastering Biology",
+    "description": "Biology: Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
+    "name": "Cost and constraint of Biology's ultimate",
+    "description": "Biology: Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
    }
   ]
  },
@@ -3652,16 +3652,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Ecology",
+    "description": "Ecology: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Ecology",
+    "description": "Ecology: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Ecology's ultimate",
+    "description": "Ecology: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -3699,16 +3699,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Headings",
+    "description": "Headings: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Headings",
+    "description": "Headings: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Headings's ultimate",
+    "description": "Headings: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -3746,16 +3746,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of T",
+    "description": "T: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering T",
+    "description": "T: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of T's ultimate",
+    "description": "T: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -3793,16 +3793,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Y",
+    "description": "Y: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Y",
+    "description": "Y: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Y's ultimate",
+    "description": "Y: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -3840,16 +3840,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Forecast",
+    "description": "Forecast: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Forecast",
+    "description": "Forecast: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Forecast's ultimate",
+    "description": "Forecast: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -3887,16 +3887,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Prediction",
+    "description": "Prediction: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Prediction",
+    "description": "Prediction: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Prediction's ultimate",
+    "description": "Prediction: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -3934,16 +3934,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Science",
+    "description": "Science: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Science",
+    "description": "Science: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Science's ultimate",
+    "description": "Science: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -3981,16 +3981,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Equation",
+    "description": "Equation: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Equation",
+    "description": "Equation: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Equation's ultimate",
+    "description": "Equation: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -4028,16 +4028,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Formula",
+    "description": "Formula: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Formula",
+    "description": "Formula: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Formula's ultimate",
+    "description": "Formula: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -4075,16 +4075,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Accumulated",
+    "description": "Accumulated: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Accumulated",
+    "description": "Accumulated: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Accumulated's ultimate",
+    "description": "Accumulated: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -4122,16 +4122,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Conscious",
+    "description": "Conscious: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Conscious",
+    "description": "Conscious: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Conscious's ultimate",
+    "description": "Conscious: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -4169,16 +4169,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Wisdom",
+    "description": "Wisdom: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Wisdom",
+    "description": "Wisdom: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Wisdom's ultimate",
+    "description": "Wisdom: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -4216,16 +4216,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "name": "Boundary of Birth",
+    "description": "Birth: The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
-    "name": "Operational condition",
-    "description": "Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
+    "name": "Conditions for mastering Birth",
+    "description": "Birth: Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
+    "name": "Cost and constraint of Birth's ultimate",
+    "description": "Birth: Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
    }
   ]
  },
@@ -4263,16 +4263,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "name": "Boundary of Improvement",
+    "description": "Improvement: The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
-    "name": "Operational condition",
-    "description": "Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
+    "name": "Conditions for mastering Improvement",
+    "description": "Improvement: Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
+    "name": "Cost and constraint of Improvement's ultimate",
+    "description": "Improvement: Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
    }
   ]
  },
@@ -4310,16 +4310,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
+    "name": "Boundary of Death",
+    "description": "Death: The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
    },
    {
-    "name": "Operational condition",
-    "description": "A completed transition cannot be casually undone without the proper conditions and cooperation of relevant domains."
+    "name": "Conditions for mastering Death",
+    "description": "Death: A completed transition cannot be casually undone without the proper conditions and cooperation of relevant domains."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate transition is irreversible in its intended scope and cannot control unrelated beings or outcomes."
+    "name": "Cost and constraint of Death's ultimate",
+    "description": "Death: The ultimate transition is irreversible in its intended scope and cannot control unrelated beings or outcomes."
    }
   ]
  },
@@ -4357,16 +4357,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
+    "name": "Boundary of Destruction",
+    "description": "Destruction: The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
    },
    {
-    "name": "Operational condition",
-    "description": "A completed transition cannot be casually undone without the proper conditions and cooperation of relevant domains."
+    "name": "Conditions for mastering Destruction",
+    "description": "Destruction: A completed transition cannot be casually undone without the proper conditions and cooperation of relevant domains."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate transition is irreversible in its intended scope and cannot control unrelated beings or outcomes."
+    "name": "Cost and constraint of Destruction's ultimate",
+    "description": "Destruction: The ultimate transition is irreversible in its intended scope and cannot control unrelated beings or outcomes."
    }
   ]
  },
@@ -4404,16 +4404,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Electricity",
+    "description": "Electricity: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Electricity",
+    "description": "Electricity: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Electricity's ultimate",
+    "description": "Electricity: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -4451,16 +4451,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "name": "Boundary of Heal",
+    "description": "Heal: The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
-    "name": "Operational condition",
-    "description": "Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
+    "name": "Conditions for mastering Heal",
+    "description": "Heal: Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
+    "name": "Cost and constraint of Heal's ultimate",
+    "description": "Heal: Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
    }
   ]
  },
@@ -4498,16 +4498,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Metal",
+    "description": "Metal: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Metal",
+    "description": "Metal: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Metal's ultimate",
+    "description": "Metal: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -4545,16 +4545,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Wood",
+    "description": "Wood: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Wood",
+    "description": "Wood: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Wood's ultimate",
+    "description": "Wood: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -4592,16 +4592,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Money",
+    "description": "Money: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Money",
+    "description": "Money: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Money's ultimate",
+    "description": "Money: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -4639,16 +4639,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Reputation",
+    "description": "Reputation: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Reputation",
+    "description": "Reputation: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Reputation's ultimate",
+    "description": "Reputation: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -4686,16 +4686,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spiritual mastery does not automatically control bodily biology, another God's domain, or every afterlife rule."
+    "name": "Boundary of Soul",
+    "description": "Soul: Spiritual mastery does not automatically control bodily biology, another God's domain, or every afterlife rule."
    },
    {
-    "name": "Operational condition",
-    "description": "A spiritual truth cannot be forced into a being who is unwilling or unready to receive it; guidance is not ownership."
+    "name": "Conditions for mastering Soul",
+    "description": "Soul: A spiritual truth cannot be forced into a being who is unwilling or unready to receive it; guidance is not ownership."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spiritual manifestation requires profound alignment and cannot be sustained indefinitely in the material world."
+    "name": "Cost and constraint of Soul's ultimate",
+    "description": "Soul: Ultimate spiritual manifestation requires profound alignment and cannot be sustained indefinitely in the material world."
    }
   ]
  },
@@ -4733,16 +4733,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Relation",
+    "description": "Relation: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Relation",
+    "description": "Relation: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Relation's ultimate",
+    "description": "Relation: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -4780,16 +4780,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Domestic",
+    "description": "Domestic: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Domestic",
+    "description": "Domestic: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Domestic's ultimate",
+    "description": "Domestic: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -4827,16 +4827,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of International",
+    "description": "International: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering International",
+    "description": "International: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of International's ultimate",
+    "description": "International: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -4874,16 +4874,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
+    "name": "Boundary of Software",
+    "description": "Software: A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
    },
    {
-    "name": "Operational condition",
-    "description": "Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
+    "name": "Conditions for mastering Software",
+    "description": "Software: Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
+    "name": "Cost and constraint of Software's ultimate",
+    "description": "Software: The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
    }
   ]
  },
@@ -4921,16 +4921,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
+    "name": "Boundary of Hardware",
+    "description": "Hardware: A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
    },
    {
-    "name": "Operational condition",
-    "description": "Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
+    "name": "Conditions for mastering Hardware",
+    "description": "Hardware: Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
+    "name": "Cost and constraint of Hardware's ultimate",
+    "description": "Hardware: The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
    }
   ]
  },
@@ -4968,16 +4968,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
+    "name": "Boundary of Internet",
+    "description": "Internet: A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
    },
    {
-    "name": "Operational condition",
-    "description": "Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
+    "name": "Conditions for mastering Internet",
+    "description": "Internet: Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
+    "name": "Cost and constraint of Internet's ultimate",
+    "description": "Internet: The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
    }
   ]
  },
@@ -5015,16 +5015,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Competition",
+    "description": "Competition: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Competition",
+    "description": "Competition: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Competition's ultimate",
+    "description": "Competition: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -5062,16 +5062,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Forum",
+    "description": "Forum: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Forum",
+    "description": "Forum: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Forum's ultimate",
+    "description": "Forum: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -5109,16 +5109,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Variables",
+    "description": "Variables: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Variables",
+    "description": "Variables: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Variables's ultimate",
+    "description": "Variables: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -5156,16 +5156,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Relativity",
+    "description": "Relativity: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Relativity",
+    "description": "Relativity: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Relativity's ultimate",
+    "description": "Relativity: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -5203,16 +5203,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Enforcement",
+    "description": "Enforcement: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Enforcement",
+    "description": "Enforcement: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Enforcement's ultimate",
+    "description": "Enforcement: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -5250,16 +5250,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Hierarchy",
+    "description": "Hierarchy: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Hierarchy",
+    "description": "Hierarchy: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Hierarchy's ultimate",
+    "description": "Hierarchy: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -5297,16 +5297,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Responsibility",
+    "description": "Responsibility: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Responsibility",
+    "description": "Responsibility: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Responsibility's ultimate",
+    "description": "Responsibility: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -5344,16 +5344,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Caution",
+    "description": "Caution: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Caution",
+    "description": "Caution: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Caution's ultimate",
+    "description": "Caution: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -5391,16 +5391,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Family",
+    "description": "Family: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Family",
+    "description": "Family: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Family's ultimate",
+    "description": "Family: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -5438,16 +5438,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Economy",
+    "description": "Economy: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Economy",
+    "description": "Economy: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Economy's ultimate",
+    "description": "Economy: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -5485,16 +5485,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Cycle",
+    "description": "Cycle: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Cycle",
+    "description": "Cycle: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Cycle's ultimate",
+    "description": "Cycle: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -5532,16 +5532,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
+    "name": "Boundary of Communication",
+    "description": "Communication: Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
    },
    {
-    "name": "Operational condition",
-    "description": "A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
+    "name": "Conditions for mastering Communication",
+    "description": "Communication: A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
+    "name": "Cost and constraint of Communication's ultimate",
+    "description": "Communication: The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
    }
   ]
  },
@@ -5579,16 +5579,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
+    "name": "Boundary of Access",
+    "description": "Access: Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
    },
    {
-    "name": "Operational condition",
-    "description": "A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
+    "name": "Conditions for mastering Access",
+    "description": "Access: A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
+    "name": "Cost and constraint of Access's ultimate",
+    "description": "Access: The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
    }
   ]
  },
@@ -5626,16 +5626,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
+    "name": "Boundary of Changes",
+    "description": "Changes: Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
    },
    {
-    "name": "Operational condition",
-    "description": "A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
+    "name": "Conditions for mastering Changes",
+    "description": "Changes: A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
+    "name": "Cost and constraint of Changes's ultimate",
+    "description": "Changes: The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
    }
   ]
  },
@@ -5673,16 +5673,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Black",
+    "description": "Black: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Black",
+    "description": "Black: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Black's ultimate",
+    "description": "Black: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -5720,16 +5720,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Yellow and Gold",
+    "description": "Yellow and Gold: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Yellow and Gold",
+    "description": "Yellow and Gold: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Yellow and Gold's ultimate",
+    "description": "Yellow and Gold: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -5767,16 +5767,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Human World",
+    "description": "Human World: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Human World",
+    "description": "Human World: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Human World's ultimate",
+    "description": "Human World: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -5814,16 +5814,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
+    "name": "Boundary of Cyber World",
+    "description": "Cyber World: A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
    },
    {
-    "name": "Operational condition",
-    "description": "Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
+    "name": "Conditions for mastering Cyber World",
+    "description": "Cyber World: Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
+    "name": "Cost and constraint of Cyber World's ultimate",
+    "description": "Cyber World: The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
    }
   ]
  },
@@ -5861,16 +5861,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A possibility is not automatically an actuality; realization requires coherent conditions and cannot bypass every other domain."
+    "name": "Boundary of Levels",
+    "description": "Levels: A possibility is not automatically an actuality; realization requires coherent conditions and cannot bypass every other domain."
    },
    {
-    "name": "Operational condition",
-    "description": "Mutually exclusive states cannot be simultaneously actual in the same respect."
+    "name": "Conditions for mastering Levels",
+    "description": "Levels: Mutually exclusive states cannot be simultaneously actual in the same respect."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate actualization closes alternatives within its chosen scope and carries responsibility for every consequence it makes real."
+    "name": "Cost and constraint of Levels's ultimate",
+    "description": "Levels: The ultimate actualization closes alternatives within its chosen scope and carries responsibility for every consequence it makes real."
    }
   ]
  },
@@ -5908,16 +5908,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Sky",
+    "description": "Sky: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Sky",
+    "description": "Sky: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Sky's ultimate",
+    "description": "Sky: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -5955,16 +5955,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Ocean",
+    "description": "Ocean: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Ocean",
+    "description": "Ocean: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Ocean's ultimate",
+    "description": "Ocean: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -6002,16 +6002,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Land",
+    "description": "Land: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Land",
+    "description": "Land: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Land's ultimate",
+    "description": "Land: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -6049,16 +6049,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of the zodiac as an integrated symbolic system",
+    "description": "the zodiac as an integrated symbolic system: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering the zodiac as an integrated symbolic system",
+    "description": "the zodiac as an integrated symbolic system: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of the zodiac as an integrated symbolic system's ultimate",
+    "description": "the zodiac as an integrated symbolic system: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -6096,16 +6096,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "name": "Boundary of Vitamin",
+    "description": "Vitamin: The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
-    "name": "Operational condition",
-    "description": "Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
+    "name": "Conditions for mastering Vitamin",
+    "description": "Vitamin: Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
+    "name": "Cost and constraint of Vitamin's ultimate",
+    "description": "Vitamin: Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
    }
   ]
  },
@@ -6143,16 +6143,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Volume",
+    "description": "Volume: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Volume",
+    "description": "Volume: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Volume's ultimate",
+    "description": "Volume: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -6190,16 +6190,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
+    "name": "Boundary of Density",
+    "description": "Density: Transformations must respect the properties and exchanges of the physical system; mastery is not a license to ignore all costs."
    },
    {
-    "name": "Operational condition",
-    "description": "The God controls only the named substance or phenomenon, not every neighboring force or material category."
+    "name": "Conditions for mastering Density",
+    "description": "Density: The God controls only the named substance or phenomenon, not every neighboring force or material category."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
+    "name": "Cost and constraint of Density's ultimate",
+    "description": "Density: Extreme transformations create recoil, heat, stress, depletion, or instability that must be managed before repeating them."
    }
   ]
  },
@@ -6237,16 +6237,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Imaginery",
+    "description": "Imaginery: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Imaginery",
+    "description": "Imaginery: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Imaginery's ultimate",
+    "description": "Imaginery: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -6284,16 +6284,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Possession",
+    "description": "Possession: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Possession",
+    "description": "Possession: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Possession's ultimate",
+    "description": "Possession: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -6331,16 +6331,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spiritual mastery does not automatically control bodily biology, another God's domain, or every afterlife rule."
+    "name": "Boundary of Readings",
+    "description": "Readings: Spiritual mastery does not automatically control bodily biology, another God's domain, or every afterlife rule."
    },
    {
-    "name": "Operational condition",
-    "description": "A spiritual truth cannot be forced into a being who is unwilling or unready to receive it; guidance is not ownership."
+    "name": "Conditions for mastering Readings",
+    "description": "Readings: A spiritual truth cannot be forced into a being who is unwilling or unready to receive it; guidance is not ownership."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spiritual manifestation requires profound alignment and cannot be sustained indefinitely in the material world."
+    "name": "Cost and constraint of Readings's ultimate",
+    "description": "Readings: Ultimate spiritual manifestation requires profound alignment and cannot be sustained indefinitely in the material world."
    }
   ]
  },
@@ -6378,16 +6378,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
+    "name": "Boundary of Cleanse",
+    "description": "Cleanse: The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
    },
    {
-    "name": "Operational condition",
-    "description": "A completed transition cannot be casually undone without the proper conditions and cooperation of relevant domains."
+    "name": "Conditions for mastering Cleanse",
+    "description": "Cleanse: A completed transition cannot be casually undone without the proper conditions and cooperation of relevant domains."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate transition is irreversible in its intended scope and cannot control unrelated beings or outcomes."
+    "name": "Cost and constraint of Cleanse's ultimate",
+    "description": "Cleanse: The ultimate transition is irreversible in its intended scope and cannot control unrelated beings or outcomes."
    }
   ]
  },
@@ -6425,16 +6425,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Passion",
+    "description": "Passion: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Passion",
+    "description": "Passion: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Passion's ultimate",
+    "description": "Passion: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -6472,16 +6472,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
+    "name": "Boundary of Artificial Intelligence",
+    "description": "Artificial Intelligence: A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
    },
    {
-    "name": "Operational condition",
-    "description": "Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
+    "name": "Conditions for mastering Artificial Intelligence",
+    "description": "Artificial Intelligence: Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
+    "name": "Cost and constraint of Artificial Intelligence's ultimate",
+    "description": "Artificial Intelligence: The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
    }
   ]
  },
@@ -6519,16 +6519,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
+    "name": "Boundary of Computing",
+    "description": "Computing: A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
    },
    {
-    "name": "Operational condition",
-    "description": "Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
+    "name": "Conditions for mastering Computing",
+    "description": "Computing: Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
+    "name": "Cost and constraint of Computing's ultimate",
+    "description": "Computing: The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
    }
   ]
  },
@@ -6566,16 +6566,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
+    "name": "Boundary of Machinery",
+    "description": "Machinery: A design still needs compatible materials, energy, information, and operating conditions; engineering does not make contradictions functional."
    },
    {
-    "name": "Operational condition",
-    "description": "Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
+    "name": "Conditions for mastering Machinery",
+    "description": "Machinery: Mastery of one tool or system does not grant authority over all technologies, their users, or their consequences."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
+    "name": "Cost and constraint of Machinery's ultimate",
+    "description": "Machinery: The ultimate system requires testing and maintenance; a well-designed mechanism can still fail under unknown conditions."
    }
   ]
  },
@@ -6613,16 +6613,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Market",
+    "description": "Market: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Market",
+    "description": "Market: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Market's ultimate",
+    "description": "Market: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -6660,16 +6660,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A proof is only as sound as its premises; calculation cannot make a false premise true."
+    "name": "Boundary of Efficiency",
+    "description": "Efficiency: A proof is only as sound as its premises; calculation cannot make a false premise true."
    },
    {
-    "name": "Operational condition",
-    "description": "A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
+    "name": "Conditions for mastering Efficiency",
+    "description": "Efficiency: A mathematical model cannot decide values, consent, or moral choices that are not mathematical facts."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
+    "name": "Cost and constraint of Efficiency's ultimate",
+    "description": "Efficiency: Ultimate computation requires complete, well-defined inputs; undecidable or missing information remains unresolved rather than guessed."
    }
   ]
  },
@@ -6707,16 +6707,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Authority cannot turn an unjust decision into a just one merely by making it binding."
+    "name": "Boundary of Planning",
+    "description": "Planning: Authority cannot turn an unjust decision into a just one merely by making it binding."
    },
    {
-    "name": "Operational condition",
-    "description": "Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
+    "name": "Conditions for mastering Planning",
+    "description": "Planning: Institutions depend on people, resources, legitimacy, and accountability; divine structure cannot substitute for all four."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
+    "name": "Cost and constraint of Planning's ultimate",
+    "description": "Planning: Ultimate governance design requires consent and review, and must remain open to correction when it harms those it serves."
    }
   ]
  },
@@ -6754,16 +6754,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "name": "Boundary of Cell",
+    "description": "Cell: The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
-    "name": "Operational condition",
-    "description": "Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
+    "name": "Conditions for mastering Cell",
+    "description": "Cell: Healing and growth require a viable living basis; mastery does not automatically reverse every death or grant immortality."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
+    "name": "Cost and constraint of Cell's ultimate",
+    "description": "Cell: Large-scale restoration consumes time and biological resources; forced change can damage an organism's natural balance."
    }
   ]
  },
@@ -6801,16 +6801,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Monday",
+    "description": "Monday: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Monday",
+    "description": "Monday: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Monday's ultimate",
+    "description": "Monday: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -6848,16 +6848,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Tuesday",
+    "description": "Tuesday: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Tuesday",
+    "description": "Tuesday: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Tuesday's ultimate",
+    "description": "Tuesday: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -6895,16 +6895,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Wednesday",
+    "description": "Wednesday: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Wednesday",
+    "description": "Wednesday: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Wednesday's ultimate",
+    "description": "Wednesday: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -6942,16 +6942,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Thursday",
+    "description": "Thursday: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Thursday",
+    "description": "Thursday: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Thursday's ultimate",
+    "description": "Thursday: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -6989,16 +6989,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Friday",
+    "description": "Friday: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Friday",
+    "description": "Friday: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Friday's ultimate",
+    "description": "Friday: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -7036,16 +7036,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Saturday",
+    "description": "Saturday: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Saturday",
+    "description": "Saturday: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Saturday's ultimate",
+    "description": "Saturday: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -7083,16 +7083,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Sunday",
+    "description": "Sunday: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Sunday",
+    "description": "Sunday: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Sunday's ultimate",
+    "description": "Sunday: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -7130,16 +7130,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
+    "name": "Boundary of Language",
+    "description": "Language: Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
    },
    {
-    "name": "Operational condition",
-    "description": "A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
+    "name": "Conditions for mastering Language",
+    "description": "Language: A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
+    "name": "Cost and constraint of Language's ultimate",
+    "description": "Language: The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
    }
   ]
  },
@@ -7177,16 +7177,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God masters the named strategic concept but cannot guarantee victory over every independent will or unpredictable event."
+    "name": "Boundary of Trickery",
+    "description": "Trickery: The God masters the named strategic concept but cannot guarantee victory over every independent will or unpredictable event."
    },
    {
-    "name": "Operational condition",
-    "description": "Information may be incomplete or misleading; strategy cannot remove uncertainty from every conflict."
+    "name": "Conditions for mastering Trickery",
+    "description": "Trickery: Information may be incomplete or misleading; strategy cannot remove uncertainty from every conflict."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate maneuver commits resources and closes options; it is strongest when used to end danger, not prolong domination."
+    "name": "Cost and constraint of Trickery's ultimate",
+    "description": "Trickery: The ultimate maneuver commits resources and closes options; it is strongest when used to end danger, not prolong domination."
    }
   ]
  },
@@ -7224,16 +7224,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Rat",
+    "description": "Rat: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Rat",
+    "description": "Rat: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Rat's ultimate",
+    "description": "Rat: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7271,16 +7271,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Tiger",
+    "description": "Tiger: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Tiger",
+    "description": "Tiger: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Tiger's ultimate",
+    "description": "Tiger: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7318,16 +7318,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Ox",
+    "description": "Ox: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Ox",
+    "description": "Ox: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Ox's ultimate",
+    "description": "Ox: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7365,16 +7365,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Rabbit",
+    "description": "Rabbit: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Rabbit",
+    "description": "Rabbit: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Rabbit's ultimate",
+    "description": "Rabbit: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7412,16 +7412,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Dragon",
+    "description": "Dragon: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Dragon",
+    "description": "Dragon: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Dragon's ultimate",
+    "description": "Dragon: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7459,16 +7459,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Snake",
+    "description": "Snake: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Snake",
+    "description": "Snake: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Snake's ultimate",
+    "description": "Snake: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7506,16 +7506,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Horse",
+    "description": "Horse: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Horse",
+    "description": "Horse: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Horse's ultimate",
+    "description": "Horse: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7553,16 +7553,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Goat",
+    "description": "Goat: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Goat",
+    "description": "Goat: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Goat's ultimate",
+    "description": "Goat: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7600,16 +7600,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Monkey",
+    "description": "Monkey: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Monkey",
+    "description": "Monkey: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Monkey's ultimate",
+    "description": "Monkey: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7647,16 +7647,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Dog",
+    "description": "Dog: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Dog",
+    "description": "Dog: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Dog's ultimate",
+    "description": "Dog: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7694,16 +7694,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Rooster",
+    "description": "Rooster: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Rooster",
+    "description": "Rooster: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Rooster's ultimate",
+    "description": "Rooster: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7741,16 +7741,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Pig",
+    "description": "Pig: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Pig",
+    "description": "Pig: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Pig's ultimate",
+    "description": "Pig: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7788,16 +7788,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
+    "name": "Boundary of Sun",
+    "description": "Sun: Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
    },
    {
-    "name": "Operational condition",
-    "description": "A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
+    "name": "Conditions for mastering Sun",
+    "description": "Sun: A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
+    "name": "Cost and constraint of Sun's ultimate",
+    "description": "Sun: Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
    }
   ]
  },
@@ -7835,16 +7835,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
+    "name": "Boundary of Moon",
+    "description": "Moon: Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
    },
    {
-    "name": "Operational condition",
-    "description": "A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
+    "name": "Conditions for mastering Moon",
+    "description": "Moon: A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
+    "name": "Cost and constraint of Moon's ultimate",
+    "description": "Moon: Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
    }
   ]
  },
@@ -7882,16 +7882,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
+    "name": "Boundary of Stars",
+    "description": "Stars: Spatial mastery does not automatically alter time, destiny, or physical laws belonging to other domains."
    },
    {
-    "name": "Operational condition",
-    "description": "A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
+    "name": "Conditions for mastering Stars",
+    "description": "Stars: A stable spatial effect needs a defined reference, boundary, or coordinate; unanchored expanses are harder to shape precisely."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
+    "name": "Cost and constraint of Stars's ultimate",
+    "description": "Stars: Ultimate spatial rearrangement requires immense concentration and can temporarily disrupt navigation and local orientation."
    }
   ]
  },
@@ -7929,16 +7929,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Cloud",
+    "description": "Cloud: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Cloud",
+    "description": "Cloud: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Cloud's ultimate",
+    "description": "Cloud: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -7976,16 +7976,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Rainbow",
+    "description": "Rainbow: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Rainbow",
+    "description": "Rainbow: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Rainbow's ultimate",
+    "description": "Rainbow: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -8023,16 +8023,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Mountain",
+    "description": "Mountain: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Mountain",
+    "description": "Mountain: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Mountain's ultimate",
+    "description": "Mountain: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -8070,16 +8070,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Forest",
+    "description": "Forest: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Forest",
+    "description": "Forest: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Forest's ultimate",
+    "description": "Forest: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -8117,16 +8117,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Possible",
+    "description": "Possible: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Possible",
+    "description": "Possible: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Possible's ultimate",
+    "description": "Possible: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -8164,16 +8164,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Fantasy",
+    "description": "Fantasy: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Fantasy",
+    "description": "Fantasy: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Fantasy's ultimate",
+    "description": "Fantasy: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -8211,16 +8211,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Idea",
+    "description": "Idea: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Idea",
+    "description": "Idea: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Idea's ultimate",
+    "description": "Idea: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -8258,16 +8258,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Memory",
+    "description": "Memory: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Memory",
+    "description": "Memory: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Memory's ultimate",
+    "description": "Memory: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -8305,16 +8305,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spiritual mastery does not automatically control bodily biology, another God's domain, or every afterlife rule."
+    "name": "Boundary of Magic",
+    "description": "Magic: Spiritual mastery does not automatically control bodily biology, another God's domain, or every afterlife rule."
    },
    {
-    "name": "Operational condition",
-    "description": "A spiritual truth cannot be forced into a being who is unwilling or unready to receive it; guidance is not ownership."
+    "name": "Conditions for mastering Magic",
+    "description": "Magic: A spiritual truth cannot be forced into a being who is unwilling or unready to receive it; guidance is not ownership."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spiritual manifestation requires profound alignment and cannot be sustained indefinitely in the material world."
+    "name": "Cost and constraint of Magic's ultimate",
+    "description": "Magic: Ultimate spiritual manifestation requires profound alignment and cannot be sustained indefinitely in the material world."
    }
   ]
  },
@@ -8352,16 +8352,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Mind",
+    "description": "Mind: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Mind",
+    "description": "Mind: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Mind's ultimate",
+    "description": "Mind: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -8399,16 +8399,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God masters the named strategic concept but cannot guarantee victory over every independent will or unpredictable event."
+    "name": "Boundary of Attack",
+    "description": "Attack: The God masters the named strategic concept but cannot guarantee victory over every independent will or unpredictable event."
    },
    {
-    "name": "Operational condition",
-    "description": "Information may be incomplete or misleading; strategy cannot remove uncertainty from every conflict."
+    "name": "Conditions for mastering Attack",
+    "description": "Attack: Information may be incomplete or misleading; strategy cannot remove uncertainty from every conflict."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate maneuver commits resources and closes options; it is strongest when used to end danger, not prolong domination."
+    "name": "Cost and constraint of Attack's ultimate",
+    "description": "Attack: The ultimate maneuver commits resources and closes options; it is strongest when used to end danger, not prolong domination."
    }
   ]
  },
@@ -8446,16 +8446,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God masters the named strategic concept but cannot guarantee victory over every independent will or unpredictable event."
+    "name": "Boundary of Defense",
+    "description": "Defense: The God masters the named strategic concept but cannot guarantee victory over every independent will or unpredictable event."
    },
    {
-    "name": "Operational condition",
-    "description": "Information may be incomplete or misleading; strategy cannot remove uncertainty from every conflict."
+    "name": "Conditions for mastering Defense",
+    "description": "Defense: Information may be incomplete or misleading; strategy cannot remove uncertainty from every conflict."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate maneuver commits resources and closes options; it is strongest when used to end danger, not prolong domination."
+    "name": "Cost and constraint of Defense's ultimate",
+    "description": "Defense: The ultimate maneuver commits resources and closes options; it is strongest when used to end danger, not prolong domination."
    }
   ]
  },
@@ -8493,16 +8493,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Spiritual mastery does not automatically control bodily biology, another God's domain, or every afterlife rule."
+    "name": "Boundary of Destiny",
+    "description": "Destiny: Spiritual mastery does not automatically control bodily biology, another God's domain, or every afterlife rule."
    },
    {
-    "name": "Operational condition",
-    "description": "A spiritual truth cannot be forced into a being who is unwilling or unready to receive it; guidance is not ownership."
+    "name": "Conditions for mastering Destiny",
+    "description": "Destiny: A spiritual truth cannot be forced into a being who is unwilling or unready to receive it; guidance is not ownership."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate spiritual manifestation requires profound alignment and cannot be sustained indefinitely in the material world."
+    "name": "Cost and constraint of Destiny's ultimate",
+    "description": "Destiny: Ultimate spiritual manifestation requires profound alignment and cannot be sustained indefinitely in the material world."
    }
   ]
  },
@@ -8540,16 +8540,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Colors",
+    "description": "Colors: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Colors",
+    "description": "Colors: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Colors's ultimate",
+    "description": "Colors: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -8587,16 +8587,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Story",
+    "description": "Story: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Story",
+    "description": "Story: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Story's ultimate",
+    "description": "Story: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -8634,16 +8634,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of astrology and the interpretation of celestial patterns",
+    "description": "astrology and the interpretation of celestial patterns: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering astrology and the interpretation of celestial patterns",
+    "description": "astrology and the interpretation of celestial patterns: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of astrology and the interpretation of celestial patterns's ultimate",
+    "description": "astrology and the interpretation of celestial patterns: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -8681,16 +8681,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
+    "name": "Boundary of Storage",
+    "description": "Storage: Access to information is not omniscience; unknown, unrecorded, or never-created information cannot be retrieved as fact."
    },
    {
-    "name": "Operational condition",
-    "description": "A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
+    "name": "Conditions for mastering Storage",
+    "description": "Storage: A message can be transmitted faithfully without making its contents true or its recipient understand it correctly."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
+    "name": "Cost and constraint of Storage's ultimate",
+    "description": "Storage: The ultimate archive requires context and provenance; stripping context can corrupt even perfectly stored information."
    }
   ]
  },
@@ -8728,16 +8728,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God guides the named mental process but cannot guarantee every interpretation is true."
+    "name": "Boundary of Emotion",
+    "description": "Emotion: The God guides the named mental process but cannot guarantee every interpretation is true."
    },
    {
-    "name": "Operational condition",
-    "description": "Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
+    "name": "Conditions for mastering Emotion",
+    "description": "Emotion: Insight does not erase another being's agency, privacy, or right to reach their own conclusion."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
+    "name": "Cost and constraint of Emotion's ultimate",
+    "description": "Emotion: Ultimate mental synthesis risks overload and requires rest, integration, and a return to ordinary perspective."
    }
   ]
  },
@@ -8775,16 +8775,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Beauty",
+    "description": "Beauty: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Beauty",
+    "description": "Beauty: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Beauty's ultimate",
+    "description": "Beauty: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -8822,16 +8822,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Sex",
+    "description": "Sex: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Sex",
+    "description": "Sex: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Sex's ultimate",
+    "description": "Sex: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -8869,16 +8869,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Birch",
+    "description": "Birch: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Birch",
+    "description": "Birch: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Birch's ultimate",
+    "description": "Birch: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -8916,16 +8916,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Rowan",
+    "description": "Rowan: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Rowan",
+    "description": "Rowan: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Rowan's ultimate",
+    "description": "Rowan: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -8963,16 +8963,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Ash",
+    "description": "Ash: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Ash",
+    "description": "Ash: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Ash's ultimate",
+    "description": "Ash: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9010,16 +9010,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Alder",
+    "description": "Alder: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Alder",
+    "description": "Alder: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Alder's ultimate",
+    "description": "Alder: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9057,16 +9057,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Willow",
+    "description": "Willow: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Willow",
+    "description": "Willow: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Willow's ultimate",
+    "description": "Willow: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9104,16 +9104,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Hawthorn",
+    "description": "Hawthorn: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Hawthorn",
+    "description": "Hawthorn: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Hawthorn's ultimate",
+    "description": "Hawthorn: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9151,16 +9151,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Oak",
+    "description": "Oak: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Oak",
+    "description": "Oak: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Oak's ultimate",
+    "description": "Oak: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9198,16 +9198,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Holly",
+    "description": "Holly: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Holly",
+    "description": "Holly: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Holly's ultimate",
+    "description": "Holly: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9245,16 +9245,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Hazel",
+    "description": "Hazel: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Hazel",
+    "description": "Hazel: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Hazel's ultimate",
+    "description": "Hazel: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9292,16 +9292,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Vine",
+    "description": "Vine: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Vine",
+    "description": "Vine: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Vine's ultimate",
+    "description": "Vine: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9339,16 +9339,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Ivy",
+    "description": "Ivy: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Ivy",
+    "description": "Ivy: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Ivy's ultimate",
+    "description": "Ivy: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9386,16 +9386,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Reed",
+    "description": "Reed: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Reed",
+    "description": "Reed: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Reed's ultimate",
+    "description": "Reed: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9433,16 +9433,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Elder",
+    "description": "Elder: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Elder",
+    "description": "Elder: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Elder's ultimate",
+    "description": "Elder: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9480,16 +9480,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Freedom",
+    "description": "Freedom: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Freedom",
+    "description": "Freedom: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Freedom's ultimate",
+    "description": "Freedom: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -9527,16 +9527,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Power",
+    "description": "Power: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Power",
+    "description": "Power: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Power's ultimate",
+    "description": "Power: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -9574,16 +9574,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named organism or natural feature, not every species, habitat, or ecological process."
+    "name": "Boundary of Plant",
+    "description": "Plant: The God governs the named organism or natural feature, not every species, habitat, or ecological process."
    },
    {
-    "name": "Operational condition",
-    "description": "A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
+    "name": "Conditions for mastering Plant",
+    "description": "Plant: A living ecosystem depends on relationships and conditions; no single species or feature can flourish without regard for its surroundings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
+    "name": "Cost and constraint of Plant's ultimate",
+    "description": "Plant: Ultimate restoration cannot instantly erase accumulated ecological damage; recovery requires succession, adaptation, and time."
    }
   ]
  },
@@ -9621,16 +9621,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Red",
+    "description": "Red: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Red",
+    "description": "Red: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Red's ultimate",
+    "description": "Red: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -9668,16 +9668,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Blue",
+    "description": "Blue: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Blue",
+    "description": "Blue: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Blue's ultimate",
+    "description": "Blue: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -9715,16 +9715,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of White",
+    "description": "White: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering White",
+    "description": "White: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of White's ultimate",
+    "description": "White: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -9762,16 +9762,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Purple",
+    "description": "Purple: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Purple",
+    "description": "Purple: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Purple's ultimate",
+    "description": "Purple: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -9809,16 +9809,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Violet",
+    "description": "Violet: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Violet",
+    "description": "Violet: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Violet's ultimate",
+    "description": "Violet: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -9856,16 +9856,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Green",
+    "description": "Green: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Green",
+    "description": "Green: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Green's ultimate",
+    "description": "Green: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -9903,16 +9903,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Brown",
+    "description": "Brown: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Brown",
+    "description": "Brown: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Brown's ultimate",
+    "description": "Brown: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -9950,16 +9950,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Orange",
+    "description": "Orange: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Orange",
+    "description": "Orange: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Orange's ultimate",
+    "description": "Orange: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -9997,16 +9997,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
+    "name": "Boundary of Pink",
+    "description": "Pink: The God governs the named sensory or aesthetic quality, not every observer's interpretation or emotional response."
    },
    {
-    "name": "Operational condition",
-    "description": "Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
+    "name": "Conditions for mastering Pink",
+    "description": "Pink: Perception depends on the receiver and conditions; the same stimulus may be experienced differently by different beings."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
+    "name": "Cost and constraint of Pink's ultimate",
+    "description": "Pink: The ultimate expression can overwhelm attention if imposed without restraint and cannot dictate what another being must find beautiful."
    }
   ]
  },
@@ -10044,16 +10044,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
+    "name": "Boundary of Reward",
+    "description": "Reward: The God cannot create genuine resources or value merely by declaring a price; scarcity and real costs still matter."
    },
    {
-    "name": "Operational condition",
-    "description": "An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
+    "name": "Conditions for mastering Reward",
+    "description": "Reward: An exchange is not fair simply because it is mathematically balanced; consent, context, and bargaining power matter."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
+    "name": "Cost and constraint of Reward's ultimate",
+    "description": "Reward: Ultimate allocation requires transparent information and voluntary cooperation, and cannot guarantee limitless abundance."
    }
   ]
  },
@@ -10091,16 +10091,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "A possibility is not automatically an actuality; realization requires coherent conditions and cannot bypass every other domain."
+    "name": "Boundary of Option",
+    "description": "Option: A possibility is not automatically an actuality; realization requires coherent conditions and cannot bypass every other domain."
    },
    {
-    "name": "Operational condition",
-    "description": "Mutually exclusive states cannot be simultaneously actual in the same respect."
+    "name": "Conditions for mastering Option",
+    "description": "Option: Mutually exclusive states cannot be simultaneously actual in the same respect."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "The ultimate actualization closes alternatives within its chosen scope and carries responsibility for every consequence it makes real."
+    "name": "Cost and constraint of Option's ultimate",
+    "description": "Option: The ultimate actualization closes alternatives within its chosen scope and carries responsibility for every consequence it makes real."
    }
   ]
  },
@@ -10138,16 +10138,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
+    "name": "Boundary of Love",
+    "description": "Love: The God cannot manufacture genuine consent, affection, trust, or friendship by force; authentic relationships require agency."
    },
    {
-    "name": "Operational condition",
-    "description": "Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
+    "name": "Conditions for mastering Love",
+    "description": "Love: Social effects vary among people and communities, so one solution cannot be imposed as universally suitable."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
+    "name": "Cost and constraint of Love's ultimate",
+    "description": "Love: Ultimate accord requires voluntary participation and ongoing care; it dissolves where its participants are coerced."
    }
   ]
  },
@@ -10185,16 +10185,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Aries",
+    "description": "Aries: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Aries",
+    "description": "Aries: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Aries's ultimate",
+    "description": "Aries: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10232,16 +10232,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Taurus",
+    "description": "Taurus: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Taurus",
+    "description": "Taurus: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Taurus's ultimate",
+    "description": "Taurus: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10279,16 +10279,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Gemini",
+    "description": "Gemini: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Gemini",
+    "description": "Gemini: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Gemini's ultimate",
+    "description": "Gemini: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10326,16 +10326,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Cancer",
+    "description": "Cancer: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Cancer",
+    "description": "Cancer: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Cancer's ultimate",
+    "description": "Cancer: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10373,16 +10373,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Leo",
+    "description": "Leo: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Leo",
+    "description": "Leo: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Leo's ultimate",
+    "description": "Leo: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10420,16 +10420,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Virgo",
+    "description": "Virgo: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Virgo",
+    "description": "Virgo: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Virgo's ultimate",
+    "description": "Virgo: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10467,16 +10467,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Libra",
+    "description": "Libra: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Libra",
+    "description": "Libra: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Libra's ultimate",
+    "description": "Libra: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10514,16 +10514,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Scorpio",
+    "description": "Scorpio: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Scorpio",
+    "description": "Scorpio: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Scorpio's ultimate",
+    "description": "Scorpio: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10561,16 +10561,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Sagittarius",
+    "description": "Sagittarius: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Sagittarius",
+    "description": "Sagittarius: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Sagittarius's ultimate",
+    "description": "Sagittarius: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10608,16 +10608,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Capricorn",
+    "description": "Capricorn: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Capricorn",
+    "description": "Capricorn: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Capricorn's ultimate",
+    "description": "Capricorn: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10655,16 +10655,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Aquarius",
+    "description": "Aquarius: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Aquarius",
+    "description": "Aquarius: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Aquarius's ultimate",
+    "description": "Aquarius: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  },
@@ -10702,16 +10702,16 @@ window.GOD_TECHNIQUES = {
   },
   "limitations": [
    {
-    "name": "Domain boundary",
-    "description": "Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
+    "name": "Boundary of Pisces",
+    "description": "Pisces: Mastery is restricted to this God's specific temporal unit or symbolic system; it does not confer unrestricted control over all time."
    },
    {
-    "name": "Operational condition",
-    "description": "A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
+    "name": "Conditions for mastering Pisces",
+    "description": "Pisces: A calendar can mark, compare, and coordinate events but cannot by itself cause every event it records."
    },
    {
-    "name": "Ultimate constraint",
-    "description": "Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
+    "name": "Cost and constraint of Pisces's ultimate",
+    "description": "Pisces: Ultimate cycle alignment requires a complete cycle or reliable temporal reference and cannot be repeated while its pattern settles."
    }
   ]
  }
