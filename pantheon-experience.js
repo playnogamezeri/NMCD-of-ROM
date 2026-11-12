@@ -192,6 +192,8 @@
     if (expandProfile && panel) {
       panel.hidden = false;
       cardButton.setAttribute("aria-expanded", "true");
+      const footer = cardButton.querySelector(".god-card-footer");
+      if (footer) footer.textContent = "Close divine profile −";
       renderProfile(g, panel);
       panel.scrollIntoView({behavior:"smooth", block:"nearest"});
     }
@@ -217,6 +219,7 @@
       button.setAttribute("aria-expanded", opening ? "true" : "false");
       button.setAttribute("aria-pressed", opening ? "true" : "false");
       button.classList.toggle("is-selected", opening);
+      footer.textContent = opening ? "Close divine profile −" : "Open divine profile ＋";
       if (opening) { selectGod(g, false); renderProfile(g, panel); }
     });
     item.append(button, panel);
