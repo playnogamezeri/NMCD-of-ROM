@@ -233,3 +233,5 @@ footer p{color:var(--muted)}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}}
 
 .god-card-group{color:var(--gold);font-size:.75rem;letter-spacing:.02em;margin:.45rem 0 -.35rem}
+
+.ability-list{margin:.45rem 0 0;padding-left:1.25rem;color:var(--dim);line-height:1.6}.ability-list li{margin:.35rem 0}
