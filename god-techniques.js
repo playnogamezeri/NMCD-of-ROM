@@ -8835,7 +8835,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Birch": {
+ "Goddess of Birch": {
   "number": 189,
   "concept": "Birch",
   "category": "Natural Ecosystems",
@@ -8882,7 +8882,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Rowan": {
+ "Goddess of Rowan": {
   "number": 190,
   "concept": "Rowan",
   "category": "Natural Ecosystems",
@@ -8929,7 +8929,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Ash": {
+ "Goddess of Ash": {
   "number": 191,
   "concept": "Ash",
   "category": "Natural Ecosystems",
@@ -8976,7 +8976,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Alder": {
+ "Goddess of Alder": {
   "number": 192,
   "concept": "Alder",
   "category": "Natural Ecosystems",
@@ -9023,7 +9023,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Willow": {
+ "Goddess of Willow": {
   "number": 193,
   "concept": "Willow",
   "category": "Natural Ecosystems",
@@ -9070,7 +9070,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Hawthorn": {
+ "Goddess of Hawthorn": {
   "number": 194,
   "concept": "Hawthorn",
   "category": "Natural Ecosystems",
@@ -9117,7 +9117,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Oak": {
+ "Goddess of Oak": {
   "number": 195,
   "concept": "Oak",
   "category": "Natural Ecosystems",
@@ -9164,7 +9164,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Holly": {
+ "Goddess of Holly": {
   "number": 196,
   "concept": "Holly",
   "category": "Natural Ecosystems",
@@ -9211,7 +9211,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Hazel": {
+ "Goddess of Hazel": {
   "number": 197,
   "concept": "Hazel",
   "category": "Natural Ecosystems",
@@ -9258,7 +9258,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Vine": {
+ "Goddess of Vine": {
   "number": 198,
   "concept": "Vine",
   "category": "Natural Ecosystems",
@@ -9305,7 +9305,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Ivy": {
+ "Goddess of Ivy": {
   "number": 199,
   "concept": "Ivy",
   "category": "Natural Ecosystems",
@@ -9352,7 +9352,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Reed": {
+ "Goddess of Reed": {
   "number": 200,
   "concept": "Reed",
   "category": "Natural Ecosystems",
@@ -9399,7 +9399,7 @@ window.GOD_TECHNIQUES = {
    }
   ]
  },
- "God of Elder": {
+ "Goddess of Elder": {
   "number": 201,
   "concept": "Elder",
   "category": "Natural Ecosystems",
