@@ -975,7 +975,19 @@ window.GODS = [
     ],
     "children": [
       "God of Command",
-      "God of Structure"
+      "God of Structure",
+      "God of December",
+      "God of January",
+      "God of February",
+      "God of March",
+      "God of April",
+      "God of May",
+      "God of June",
+      "God of July",
+      "God of August",
+      "God of September",
+      "God of October",
+      "God of November"
     ],
     "house": "Darkness's line",
     "origin": "Across the family from Chaos stands his opposite — and the family resemblance is real, for both descend from the same dark beginnings. The God of Order is Time's child and the father of Command and Structure. Where his uncle Chaos is the unformed at the root, Order is arrangement that holds: the pattern set once and kept, so the re-created world does not slide back to the unformed. He was not born in a battle against Chaos; he was born as the other half of the sentence. Form exists because one brother keeps what the other makes possible.",
@@ -3006,9 +3018,11 @@ window.GODS = [
     "name": "God of December",
     "role": "Divine steward of December: december. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize december where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 60,
     "group": "Time & Calendrical Systems",
@@ -3048,9 +3062,11 @@ window.GODS = [
     "name": "God of January",
     "role": "Divine steward of January: january. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize january where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 61,
     "group": "Time & Calendrical Systems",
@@ -3090,9 +3106,11 @@ window.GODS = [
     "name": "God of February",
     "role": "Divine steward of February: february. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize february where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 62,
     "group": "Time & Calendrical Systems",
@@ -3132,9 +3150,11 @@ window.GODS = [
     "name": "God of March",
     "role": "Divine steward of March: march. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize march where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 63,
     "group": "Time & Calendrical Systems",
@@ -3174,9 +3194,11 @@ window.GODS = [
     "name": "God of April",
     "role": "Divine steward of April: april. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize april where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 64,
     "group": "Time & Calendrical Systems",
@@ -3216,9 +3238,11 @@ window.GODS = [
     "name": "God of May",
     "role": "Divine steward of May: may. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize may where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 65,
     "group": "Time & Calendrical Systems",
@@ -3258,9 +3282,11 @@ window.GODS = [
     "name": "God of June",
     "role": "Divine steward of June: june. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize june where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 66,
     "group": "Time & Calendrical Systems",
@@ -3300,9 +3326,11 @@ window.GODS = [
     "name": "God of July",
     "role": "Divine steward of July: july. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize july where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 67,
     "group": "Time & Calendrical Systems",
@@ -3342,9 +3370,11 @@ window.GODS = [
     "name": "God of August",
     "role": "Divine steward of August: august. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize august where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 68,
     "group": "Time & Calendrical Systems",
@@ -3384,9 +3414,11 @@ window.GODS = [
     "name": "God of September",
     "role": "Divine steward of September: september. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize september where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 69,
     "group": "Time & Calendrical Systems",
@@ -3426,9 +3458,11 @@ window.GODS = [
     "name": "God of October",
     "role": "Divine steward of October: october. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize october where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 70,
     "group": "Time & Calendrical Systems",
@@ -3468,9 +3502,11 @@ window.GODS = [
     "name": "God of November",
     "role": "Divine steward of November: november. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize november where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Order"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 4,
     "number": 71,
     "group": "Time & Calendrical Systems",
@@ -5494,7 +5530,14 @@ window.GODS = [
       "God of Command"
     ],
     "children": [
-      "God of Cell"
+      "God of Cell",
+      "God of Monday",
+      "God of Tuesday",
+      "God of Wednesday",
+      "God of Thursday",
+      "God of Friday",
+      "God of Saturday",
+      "God of Sunday"
     ],
     "house": "Darkness's line",
     "origin": "God of Enforcement is Command's child, born in the gap between the order given and the deed done. An order spoken and ignored is worse than silence — it teaches the whole world that words are weightless, and the next order dies before it is spoken. So the Heart's house of measure raised a second god to stand in that gap and close it. His reach runs the full length of his father's chain, down to his own child, the God of Cell, whose work — in Hoc's words — is to practice on locating and controling single cells to respond: enforcement, at the smallest jurisdiction there is.",
@@ -7191,9 +7234,11 @@ window.GODS = [
     "name": "God of Monday",
     "role": "Divine steward of Monday: monday. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize monday where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Enforcement"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 6,
     "number": 145,
     "group": "Time & Calendrical Systems",
@@ -7233,9 +7278,11 @@ window.GODS = [
     "name": "God of Tuesday",
     "role": "Divine steward of Tuesday: tuesday. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize tuesday where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Enforcement"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 6,
     "number": 146,
     "group": "Time & Calendrical Systems",
@@ -7275,9 +7322,11 @@ window.GODS = [
     "name": "God of Wednesday",
     "role": "Divine steward of Wednesday: wednesday. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize wednesday where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Enforcement"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 6,
     "number": 147,
     "group": "Time & Calendrical Systems",
@@ -7317,9 +7366,11 @@ window.GODS = [
     "name": "God of Thursday",
     "role": "Divine steward of Thursday: thursday. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize thursday where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Enforcement"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 6,
     "number": 148,
     "group": "Time & Calendrical Systems",
@@ -7359,9 +7410,11 @@ window.GODS = [
     "name": "God of Friday",
     "role": "Divine steward of Friday: friday. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize friday where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Enforcement"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 6,
     "number": 149,
     "group": "Time & Calendrical Systems",
@@ -7401,9 +7454,11 @@ window.GODS = [
     "name": "God of Saturday",
     "role": "Divine steward of Saturday: saturday. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize saturday where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Enforcement"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 6,
     "number": 150,
     "group": "Time & Calendrical Systems",
@@ -7443,9 +7498,11 @@ window.GODS = [
     "name": "God of Sunday",
     "role": "Divine steward of Sunday: sunday. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize sunday where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Enforcement"
+    ],
     "children": [],
-    "house": "",
+    "house": "Darkness's line",
     "generation": 6,
     "number": 151,
     "group": "Time & Calendrical Systems",
