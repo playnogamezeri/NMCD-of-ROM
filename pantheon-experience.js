@@ -61,7 +61,8 @@
     addText(top, "h2", g.name, "profile-name");
     addText(top, "p", "Pantheon number " + g.number, "profile-number");
     if (g.trueName && g.trueName !== g.name) addText(top, "p", "True name: " + g.trueName, "profile-true-name");
-    if (g.alsoGenerations && g.alsoGenerations.length) addText(top, "p", "Also listed in Generation " + g.alsoGenerations.join(", ") + " as " + (g.aliases || []).join(" / "), "profile-true-name");
+    if (g.listedUnderGeneration) addText(top, "p", "Cross-listed at #" + g.number + " in the Generation " + g.listedUnderGeneration + " sequence; this God belongs to Generation " + g.generation + ".", "profile-true-name");
+    else if (g.aliases && g.aliases.length) addText(top, "p", "Also known as " + g.aliases.join(" / "), "profile-true-name");
     const tags = document.createElement("div"); tags.className = "profile-tags";
     [generationLabel(g.generation), g.house].filter(Boolean).forEach(v => tags.appendChild(text("span", v, "tag")));
     top.appendChild(tags);
