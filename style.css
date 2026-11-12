@@ -243,3 +243,13 @@ footer p{color:var(--muted)}
 .technique-entry{padding:.8rem 0;border-bottom:1px solid var(--line,rgba(255,255,255,.08))}
 .technique-entry h5{margin:0 0 .35rem;font-size:.98rem;color:var(--text)}
 .technique-entry p{margin:0;color:var(--dim);line-height:1.65}
+
+/* Expandable divine profiles: each God opens directly beneath its own card. */
+.pantheon-layout{display:block}
+.god-card-item{min-width:0;align-self:start}
+.god-inline-profile{margin-top:.55rem;padding:1rem;background:linear-gradient(160deg,#211a30,#14101c);border:1px solid rgba(216,177,109,.38);border-radius:14px;scroll-margin-top:7.5rem;}
+.god-inline-profile[hidden]{display:none}
+.god-inline-profile .profile-top h2{font-size:1.5rem}
+.god-card-button[aria-expanded="true"] .god-card-footer::after{content:""}
+.god-card-button[aria-expanded="true"] .god-card-footer{color:var(--gold-bright)}
+@media(max-width:700px){.god-inline-profile{padding:.85rem;}.god-inline-profile .profile-facts{grid-template-columns:1fr}}
