@@ -80,15 +80,23 @@
     profile.appendChild(identity);
 
     const sections = [
-      ["Domain & role", "role", "role"],
-      ["Job", "job", "job"],
-      ["Function to the Heart", "function", "function"],
+      ["Divine role", "role", "role"],
+      ["Divine job", "job", "job"],
+      ["Function in the world", "function", "function"],
       ["Origin", "origin", "origin"],
-      ["Power", "power", "power"],
+      ["Domain powers & authority", "power", "power"],
       ["For Earth", "tale", "tale"],
       ["Recorded wisdom · simulation", "wisdom", "wisdom"],
       ["Founder’s record", "record", "record"]
     ];
+    if (g.abilities && g.abilities.length) {
+      const section = document.createElement("section"); section.className = "dossier-section";
+      addText(section, "h3", "Abilities");
+      const list = document.createElement("ul"); list.className = "ability-list";
+      g.abilities.forEach(ability => addText(list, "li", ability));
+      section.appendChild(list); profile.appendChild(section);
+    }
+    if (g.service) { const section = document.createElement("section"); section.className = "dossier-section"; addText(section, "h3", "Divine service"); addText(section, "p", g.service); profile.appendChild(section); }
     sections.forEach(([heading,key]) => {
       if (!g[key]) return;
       const section = document.createElement("section"); section.className = "dossier-section";
