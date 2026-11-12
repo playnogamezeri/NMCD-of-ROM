@@ -89,6 +89,23 @@
       ["Recorded wisdom · simulation", "wisdom", "wisdom"],
       ["Founder’s record", "record", "record"]
     ];
+    const techniqueSet = window.GOD_TECHNIQUES && window.GOD_TECHNIQUES[g.name];
+    if (techniqueSet) {
+      const section = document.createElement("section"); section.className = "dossier-section divine-techniques";
+      addText(section, "h3", "Divine techniques");
+      addText(section, "p", "A progression from signature mastery to each God's highest expression, with limits that preserve the boundaries of their concept.", "profile-note");
+      const groups = [["Signature techniques", techniqueSet.signature],["Advanced techniques", techniqueSet.advanced],["Ultimate ability", techniqueSet.ultimate ? [techniqueSet.ultimate] : []],["Specific limitations", techniqueSet.limitations]];
+      groups.forEach(([heading, entries]) => {
+        const group = document.createElement("div"); group.className = "technique-group";
+        addText(group, "h4", heading);
+        (entries || []).forEach(entry => {
+          const card = document.createElement("article"); card.className = "technique-entry";
+          addText(card, "h5", entry.name); addText(card, "p", entry.description); group.appendChild(card);
+        });
+        section.appendChild(group);
+      });
+      profile.appendChild(section);
+    }
     if (g.domainMastery) {
       const mastery = g.domainMastery;
       const section = document.createElement("section"); section.className = "dossier-section domain-mastery";
