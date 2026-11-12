@@ -61,6 +61,7 @@
     addText(top, "h2", g.name, "profile-name");
     addText(top, "p", "Pantheon number " + g.number, "profile-number");
     if (g.trueName && g.trueName !== g.name) addText(top, "p", "True name: " + g.trueName, "profile-true-name");
+    if (g.alsoGenerations && g.alsoGenerations.length) addText(top, "p", "Also listed in Generation " + g.alsoGenerations.join(", ") + " as " + (g.aliases || []).join(" / "), "profile-true-name");
     const tags = document.createElement("div"); tags.className = "profile-tags";
     [generationLabel(g.generation), g.house].filter(Boolean).forEach(v => tags.appendChild(text("span", v, "tag")));
     top.appendChild(tags);
