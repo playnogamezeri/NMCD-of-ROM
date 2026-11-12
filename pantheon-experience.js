@@ -64,6 +64,7 @@
     addText(top, "p", "Pantheon number " + g.number, "profile-number");
     if (g.trueName && g.trueName !== g.name) addText(top, "p", "True name: " + g.trueName, "profile-true-name");
     if (g.listedUnderGeneration) addText(top, "p", "Cross-listed at #" + g.number + " in the Generation " + g.listedUnderGeneration + " sequence; this God belongs to Generation " + g.generation + ".", "profile-true-name");
+    if (g.relatedGroups && g.relatedGroups.length) addText(top, "p", "Related domains: " + g.relatedGroups.join(" · "), "profile-true-name");
     else if (g.aliases && g.aliases.length) addText(top, "p", "Also known as " + g.aliases.join(" / "), "profile-true-name");
     const tags = document.createElement("div"); tags.className = "profile-tags";
     [generationLabel(g.generation), g.house].filter(Boolean).forEach(v => tags.appendChild(text("span", v, "tag")));
@@ -71,7 +72,7 @@
     profile.appendChild(top);
 
     const identity = document.createElement("div"); identity.className = "profile-facts";
-    [["Subject group", g.group || "Not recorded"], ["Parents", parentLine(g)], ["Children", childLine(g)]].forEach(([label,value]) => {
+    [["Domain category", g.group || "Not recorded"], ["Parents", parentLine(g)], ["Children", childLine(g)]].forEach(([label,value]) => {
       const item = document.createElement("div"); item.className = "profile-fact";
       addText(item, "span", label, "fact-label"); addText(item, "p", value);
       identity.appendChild(item);
@@ -157,6 +158,7 @@
     addText(top, "span", "#" + g.number + " · " + generationLabel(g.generation), "god-generation");
     addText(top, "span", g.house || "House unrecorded", "god-house");
     button.appendChild(top);
+    addText(button, "p", g.group || "Category unassigned", "god-card-group");
     addText(button, "h3", g.name, "god-card-name");    addText(button, "p", g.job || g.role || "No role description recorded.", "god-card-role");
     const footer = document.createElement("span"); footer.className = "god-card-footer";
     footer.textContent = "Open divine profile ↗"; button.appendChild(footer);
