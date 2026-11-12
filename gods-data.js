@@ -6445,9 +6445,48 @@ window.GODS = [
     "parents": [
       "God of Nature",
       "God of Astrology",
-      "God of Forest"
+      "God of Forest",
+      "God of Life"
     ],
-    "children": [],
+    "children": [
+      "God of Rat",
+      "God of Tiger",
+      "God of Ox",
+      "God of Rabbit",
+      "God of Dragon",
+      "God of Snake",
+      "God of Horse",
+      "God of Goat",
+      "God of Monkey",
+      "God of Dog",
+      "God of Rooster",
+      "God of Pig",
+      "God of Aries",
+      "God of Taurus",
+      "God of Gemini",
+      "God of Cancer",
+      "God of Leo",
+      "God of Libra",
+      "God of Virgo",
+      "God of Scorpio",
+      "God of Sagittarius",
+      "God of Capricorn",
+      "God of Aquarius",
+      "God of Pisces",
+      "Goddess of Birch",
+      "Goddess of Rowan",
+      "Goddess of Ash",
+      "Goddess of Alder",
+      "Goddess of Willow",
+      "Goddess of Hawthorn",
+      "Goddess of Oak",
+      "Goddess of Holly",
+      "Goddess of Hazel",
+      "Goddess of Vine",
+      "Goddess of Ivy",
+      "Goddess of Reed",
+      "Goddess of Elder"
+    ],
     "house": "",
     "generation": 5,
     "number": 129,
@@ -7640,7 +7679,9 @@ window.GODS = [
     "name": "God of Rat",
     "role": "Divine steward of Rat: rat. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain rat where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -7682,7 +7723,9 @@ window.GODS = [
     "name": "God of Tiger",
     "role": "Divine steward of Tiger: tiger. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain tiger where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -7724,7 +7767,9 @@ window.GODS = [
     "name": "God of Ox",
     "role": "Divine steward of Ox: ox. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain ox where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -7766,7 +7811,9 @@ window.GODS = [
     "name": "God of Rabbit",
     "role": "Divine steward of Rabbit: rabbit. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain rabbit where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -7808,7 +7855,9 @@ window.GODS = [
     "name": "God of Dragon",
     "role": "Divine steward of Dragon: dragon. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain dragon where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -7850,7 +7899,9 @@ window.GODS = [
     "name": "God of Snake",
     "role": "Divine steward of Snake: snake. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain snake where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -7892,7 +7943,9 @@ window.GODS = [
     "name": "God of Horse",
     "role": "Divine steward of Horse: horse. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain horse where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -7934,7 +7987,9 @@ window.GODS = [
     "name": "God of Goat",
     "role": "Divine steward of Goat: goat. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain goat where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -7976,7 +8031,9 @@ window.GODS = [
     "name": "God of Monkey",
     "role": "Divine steward of Monkey: monkey. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain monkey where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -8018,7 +8075,9 @@ window.GODS = [
     "name": "God of Dog",
     "role": "Divine steward of Dog: dog. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain dog where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -8060,7 +8119,9 @@ window.GODS = [
     "name": "God of Rooster",
     "role": "Divine steward of Rooster: rooster. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain rooster where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -8102,7 +8163,9 @@ window.GODS = [
     "name": "God of Pig",
     "role": "Divine steward of Pig: pig. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain pig where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 6,
@@ -9314,10 +9377,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Birch",
+    "name": "Goddess of Birch",
     "role": "Divine steward of Birch: birch. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain birch where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9356,10 +9421,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Rowan",
+    "name": "Goddess of Rowan",
     "role": "Divine steward of Rowan: rowan. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain rowan where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9398,10 +9465,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Ash",
+    "name": "Goddess of Ash",
     "role": "Divine steward of Ash: ash. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain ash where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9440,10 +9509,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Alder",
+    "name": "Goddess of Alder",
     "role": "Divine steward of Alder: alder. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain alder where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9482,10 +9553,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Willow",
+    "name": "Goddess of Willow",
     "role": "Divine steward of Willow: willow. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain willow where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9524,10 +9597,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Hawthorn",
+    "name": "Goddess of Hawthorn",
     "role": "Divine steward of Hawthorn: hawthorn. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain hawthorn where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9566,10 +9641,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Oak",
+    "name": "Goddess of Oak",
     "role": "Divine steward of Oak: oak. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain oak where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9608,10 +9685,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Holly",
+    "name": "Goddess of Holly",
     "role": "Divine steward of Holly: holly. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain holly where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9650,10 +9729,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Hazel",
+    "name": "Goddess of Hazel",
     "role": "Divine steward of Hazel: hazel. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain hazel where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9692,10 +9773,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Vine",
+    "name": "Goddess of Vine",
     "role": "Divine steward of Vine: vine. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain vine where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9734,10 +9817,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Ivy",
+    "name": "Goddess of Ivy",
     "role": "Divine steward of Ivy: ivy. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain ivy where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9776,10 +9861,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Reed",
+    "name": "Goddess of Reed",
     "role": "Divine steward of Reed: reed. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain reed where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -9818,10 +9905,12 @@ window.GODS = [
     }
   },
   {
-    "name": "God of Elder",
+    "name": "Goddess of Elder",
     "role": "Divine steward of Elder: elder. This God holds a distinct responsibility within organisms in their environments, habitats, ecological relationships, and natural cycles.",
     "job": "To cultivate and sustain elder where needed; to balance its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 8,
@@ -10604,7 +10693,9 @@ window.GODS = [
     "name": "God of Aries",
     "role": "Divine steward of Aries: aries. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize aries where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -10646,7 +10737,9 @@ window.GODS = [
     "name": "God of Taurus",
     "role": "Divine steward of Taurus: taurus. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize taurus where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -10688,7 +10781,9 @@ window.GODS = [
     "name": "God of Gemini",
     "role": "Divine steward of Gemini: gemini. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize gemini where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -10730,7 +10825,9 @@ window.GODS = [
     "name": "God of Cancer",
     "role": "Divine steward of Cancer: cancer. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize cancer where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -10772,7 +10869,9 @@ window.GODS = [
     "name": "God of Leo",
     "role": "Divine steward of Leo: leo. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize leo where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -10814,7 +10913,9 @@ window.GODS = [
     "name": "God of Virgo",
     "role": "Divine steward of Virgo: virgo. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize virgo where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -10856,7 +10957,9 @@ window.GODS = [
     "name": "God of Libra",
     "role": "Divine steward of Libra: libra. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize libra where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -10898,7 +11001,9 @@ window.GODS = [
     "name": "God of Scorpio",
     "role": "Divine steward of Scorpio: scorpio. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize scorpio where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -10940,7 +11045,9 @@ window.GODS = [
     "name": "God of Sagittarius",
     "role": "Divine steward of Sagittarius: sagittarius. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize sagittarius where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -10982,7 +11089,9 @@ window.GODS = [
     "name": "God of Capricorn",
     "role": "Divine steward of Capricorn: capricorn. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize capricorn where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -11024,7 +11133,9 @@ window.GODS = [
     "name": "God of Aquarius",
     "role": "Divine steward of Aquarius: aquarius. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize aquarius where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
@@ -11066,7 +11177,9 @@ window.GODS = [
     "name": "God of Pisces",
     "role": "Divine steward of Pisces: pisces. This God holds a distinct responsibility within sequence, duration, cycles, calendars, and systems for locating events in time.",
     "job": "To sequence and synchronize pisces where needed; to measure its proper operation; and to support the world's wellbeing through responsible mastery of this domain.",
-    "parents": [],
+    "parents": [
+      "God of Zodiac"
+    ],
     "children": [],
     "house": "",
     "generation": 9,
