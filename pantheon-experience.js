@@ -59,6 +59,7 @@
     const top = document.createElement("div"); top.className = "profile-top";
     addText(top, "p", "DIVINE DOSSIER", "eyebrow");
     addText(top, "h2", g.name, "profile-name");
+    addText(top, "p", "Pantheon number " + g.number, "profile-number");
     if (g.trueName && g.trueName !== g.name) addText(top, "p", "True name: " + g.trueName, "profile-true-name");
     const tags = document.createElement("div"); tags.className = "profile-tags";
     [generationLabel(g.generation), g.house].filter(Boolean).forEach(v => tags.appendChild(text("span", v, "tag")));
@@ -149,7 +150,7 @@
     button.type = "button"; button.className = "god-card-button";
     button.dataset.god = g.name; button.setAttribute("aria-pressed", "false");
     const top = document.createElement("div"); top.className = "god-card-top";
-    addText(top, "span", generationLabel(g.generation), "god-generation");
+    addText(top, "span", "#" + g.number + " · " + generationLabel(g.generation), "god-generation");
     addText(top, "span", g.house || "House unrecorded", "god-house");
     button.appendChild(top);
     addText(button, "h3", g.name, "god-card-name");    addText(button, "p", g.job || g.role || "No role description recorded.", "god-card-role");
