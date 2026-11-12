@@ -6,9 +6,7 @@
   const grid = el("god-grid");
   const profile = el("god-profile");
   const lineage = el("lineage-explorer");
-  const search = el("god-search");
-  const classFilter = el("filter-class");
-  const generationFilter = el("filter-generation");
+  const search = el("god-search");  const generationFilter = el("filter-generation");
   const houseFilter = el("filter-house");
   let selected = null;
 
@@ -34,14 +32,7 @@
     return;
   }
 
-  el("stat-total").textContent = String(gods.length);
-  el("stat-classes").textContent = String(new Set(gods.map(g => g.class).filter(Boolean)).size);
-  el("stat-generations").textContent = String(new Set(gods.map(g => g.generation)).size);
-
-  [...new Set(gods.map(g => g.class).filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => {
-    const option = document.createElement("option"); option.value = value; option.textContent = value; classFilter.appendChild(option);
-  });
-  [...new Set(gods.map(g => g.generation).filter(v => v !== undefined && v !== null))].sort((a,b) => a-b).forEach(value => {
+  el("stat-total").textContent = String(gods.length);  el("stat-generations").textContent = String(new Set(gods.map(g => g.generation)).size);  [...new Set(gods.map(g => g.generation).filter(v => v !== undefined && v !== null))].sort((a,b) => a-b).forEach(value => {
     const option = document.createElement("option"); option.value = String(value); option.textContent = generationLabel(value); generationFilter.appendChild(option);
   });
 
@@ -70,12 +61,12 @@
     addText(top, "h2", g.name, "profile-name");
     if (g.trueName && g.trueName !== g.name) addText(top, "p", "True name: " + g.trueName, "profile-true-name");
     const tags = document.createElement("div"); tags.className = "profile-tags";
-    [g.class, generationLabel(g.generation), g.house].filter(Boolean).forEach(v => tags.appendChild(text("span", v, "tag")));
+    [generationLabel(g.generation), g.house].filter(Boolean).forEach(v => tags.appendChild(text("span", v, "tag")));
     top.appendChild(tags);
     profile.appendChild(top);
 
     const identity = document.createElement("div"); identity.className = "profile-facts";
-    [["Position", g.group || g.class || "Not recorded"], ["Parents", parentLine(g)], ["Children", childLine(g)]].forEach(([label,value]) => {
+    [["Position", g.group || "Not recorded"], ["Parents", parentLine(g)], ["Children", childLine(g)]].forEach(([label,value]) => {
       const item = document.createElement("div"); item.className = "profile-fact";
       addText(item, "span", label, "fact-label"); addText(item, "p", value);
       identity.appendChild(item);
@@ -121,7 +112,7 @@
     const center = document.createElement("section"); center.className = "lineage-column lineage-current";
     addText(center, "p", "SELECTED", "eyebrow");
     addText(center, "h3", g.name);
-    addText(center, "p", (g.class || "Class not recorded") + " · " + generationLabel(g.generation), "muted");
+    addText(center, "p", generationLabel(g.generation), "muted");
     const current = text("span", "✧", "lineage-star"); center.appendChild(current);
 
     const descendants = document.createElement("section"); descendants.className = "lineage-column";
@@ -161,9 +152,7 @@
     addText(top, "span", generationLabel(g.generation), "god-generation");
     addText(top, "span", g.house || "House unrecorded", "god-house");
     button.appendChild(top);
-    addText(button, "h3", g.name, "god-card-name");
-    addText(button, "p", g.class || "Class unrecorded", "god-card-class");
-    addText(button, "p", g.job || g.role || "No role description recorded.", "god-card-role");
+    addText(button, "h3", g.name, "god-card-name");    addText(button, "p", g.job || g.role || "No role description recorded.", "god-card-role");
     const footer = document.createElement("span"); footer.className = "god-card-footer";
     footer.textContent = "Open divine profile ↗"; button.appendChild(footer);
     button.addEventListener("click", () => selectGod(g, false));
@@ -171,14 +160,11 @@
   }
 
   function renderGrid() {
-    const q = search.value.trim().toLocaleLowerCase();
-    const fc = classFilter.value, fg = generationFilter.value, fh = houseFilter.value;
-    const filtered = gods.filter(g => {
-      if (fc && g.class !== fc) return false;
-      if (fg !== "" && String(g.generation) !== fg) return false;
+    const q = search.value.trim().toLocaleLowerCase();    const fg = generationFilter.value, fh = houseFilter.value;
+    const filtered = gods.filter(g => {      if (fg !== "" && String(g.generation) !== fg) return false;
       if (fh && g.house !== fh) return false;
       if (q) {
-        const haystack = [g.name,g.trueName,g.role,g.job,g.function,g.class,g.group,g.house,g.origin,g.power,g.tale,g.wisdom,...listNames(g.parents),...listNames(g.children)].filter(Boolean).join(" ").toLocaleLowerCase();
+        const haystack = [g.name,g.trueName,g.role,g.job,g.function,g.group,g.house,g.origin,g.power,g.tale,g.wisdom,...listNames(g.parents),...listNames(g.children)].filter(Boolean).join(" ").toLocaleLowerCase();
         if (!haystack.includes(q)) return false;
       }
       return true;
@@ -193,9 +179,9 @@
     }
   }
 
-  [search,classFilter,generationFilter,houseFilter].forEach(control => control.addEventListener(control === search ? "input" : "change", renderGrid));
+  [search,generationFilter,houseFilter].forEach(control => control.addEventListener(control === search ? "input" : "change", renderGrid));
   el("clear-filters").addEventListener("click", () => {
-    search.value = ""; classFilter.value = ""; generationFilter.value = ""; houseFilter.value = "";
+    search.value = ""; generationFilter.value = ""; houseFilter.value = "";
     renderGrid(); search.focus();
   });
   renderGrid();
