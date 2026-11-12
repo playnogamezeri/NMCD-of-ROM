@@ -2114,7 +2114,7 @@ window.GODS = [
   "role": "one god under two names (Hoc's ruling, 2026-11-10): as Yellow, the color of the sun's light, of caution, and of the ripened field, child of Colors; as Gold, the untarnishing metal under God of Permanent.",
   "function": "he is the Heart's double witness — the same god shining as light in the Heavens and as permanence in the deep places, counted once wherever he stands.",
   "group": "The Heavens & Fate",
-  "generation": 5,
+  "generation": 8,
   "parents": [
    "God of Colors",
    "God of Permanent"
@@ -2131,7 +2131,8 @@ window.GODS = [
   ],
   "alsoGenerations": [
    8
-  ]
+  ],
+  "listedUnderGeneration": 5
  },
  {
   "name": "God of Human World",
