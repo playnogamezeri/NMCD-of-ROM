@@ -529,7 +529,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 3,
-  "number": 27
+  "number": 27,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of One",
@@ -539,7 +540,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 3,
-  "number": 28
+  "number": 28,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Two",
@@ -549,7 +551,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 3,
-  "number": 29
+  "number": 29,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Three",
@@ -559,7 +562,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 3,
-  "number": 30
+  "number": 30,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Four",
@@ -569,7 +573,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 3,
-  "number": 31
+  "number": 31,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Five",
@@ -579,7 +584,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 3,
-  "number": 32
+  "number": 32,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Six",
@@ -589,7 +595,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 3,
-  "number": 33
+  "number": 33,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Seven",
@@ -599,7 +606,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 3,
-  "number": 34
+  "number": 34,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Eight",
@@ -609,7 +617,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 3,
-  "number": 35
+  "number": 35,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Nine",
@@ -619,7 +628,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 3,
-  "number": 36
+  "number": 36,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Knowledge",
@@ -1083,7 +1093,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 60
+  "number": 60,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of January",
@@ -1093,7 +1104,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 61
+  "number": 61,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of February",
@@ -1103,7 +1115,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 62
+  "number": 62,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of March",
@@ -1113,7 +1126,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 63
+  "number": 63,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of April",
@@ -1123,7 +1137,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 64
+  "number": 64,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of May",
@@ -1133,7 +1148,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 65
+  "number": 65,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of June",
@@ -1143,7 +1159,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 66
+  "number": 66,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of July",
@@ -1153,7 +1170,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 67
+  "number": 67,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of August",
@@ -1163,7 +1181,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 68
+  "number": 68,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of September",
@@ -1173,7 +1192,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 69
+  "number": 69,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of October",
@@ -1183,7 +1203,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 70
+  "number": 70,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of November",
@@ -1193,7 +1214,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 4,
-  "number": 71
+  "number": 71,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Information",
@@ -2257,7 +2279,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 5,
-  "number": 129
+  "number": 129,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Vitamin",
@@ -2527,7 +2550,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 145
+  "number": 145,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Tuesday",
@@ -2537,7 +2561,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 146
+  "number": 146,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Wednesday",
@@ -2547,7 +2572,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 147
+  "number": 147,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Thursday",
@@ -2557,7 +2583,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 148
+  "number": 148,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Friday",
@@ -2567,7 +2594,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 149
+  "number": 149,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Saturday",
@@ -2577,7 +2605,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 150
+  "number": 150,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Sunday",
@@ -2587,7 +2616,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 151
+  "number": 151,
+  "group": "Time, Number & Order"
  },
  {
   "name": "God of Language",
@@ -2631,7 +2661,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 154
+  "number": 154,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Tiger",
@@ -2641,7 +2672,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 155
+  "number": 155,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Ox",
@@ -2651,7 +2683,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 156
+  "number": 156,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Rabbit",
@@ -2661,7 +2694,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 157
+  "number": 157,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Dragon",
@@ -2671,7 +2705,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 158
+  "number": 158,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Snake",
@@ -2681,7 +2716,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 159
+  "number": 159,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Horse",
@@ -2691,7 +2727,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 160
+  "number": 160,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Goat",
@@ -2701,7 +2738,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 161
+  "number": 161,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Monkey",
@@ -2711,7 +2749,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 162
+  "number": 162,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Dog",
@@ -2721,7 +2760,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 163
+  "number": 163,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Rooster",
@@ -2731,7 +2771,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 164
+  "number": 164,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Pig",
@@ -2741,7 +2782,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 6,
-  "number": 165
+  "number": 165,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Sun",
@@ -3094,7 +3136,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 7,
-  "number": 184
+  "number": 184,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Storage",
@@ -3176,7 +3219,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 189
+  "number": 189,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Rowan",
@@ -3186,7 +3230,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 190
+  "number": 190,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Ash",
@@ -3196,7 +3241,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 191
+  "number": 191,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Alder",
@@ -3206,7 +3252,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 192
+  "number": 192,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Willow",
@@ -3216,7 +3263,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 193
+  "number": 193,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Hawthorn",
@@ -3226,7 +3274,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 194
+  "number": 194,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Oak",
@@ -3236,7 +3285,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 195
+  "number": 195,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Holly",
@@ -3246,7 +3296,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 196
+  "number": 196,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Hazel",
@@ -3256,7 +3307,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 197
+  "number": 197,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Vine",
@@ -3266,7 +3318,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 198
+  "number": 198,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Ivy",
@@ -3276,7 +3329,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 199
+  "number": 199,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Reed",
@@ -3286,7 +3340,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 200
+  "number": 200,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Elder",
@@ -3296,7 +3351,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 8,
-  "number": 201
+  "number": 201,
+  "group": "Nature & the Living World"
  },
  {
   "name": "God of Freedom",
@@ -3561,7 +3617,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 217
+  "number": 217,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Taurus",
@@ -3571,7 +3628,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 218
+  "number": 218,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Gemini",
@@ -3581,7 +3639,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 219
+  "number": 219,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Cancer",
@@ -3591,7 +3650,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 220
+  "number": 220,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Leo",
@@ -3601,7 +3661,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 221
+  "number": 221,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Virgo",
@@ -3611,7 +3672,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 222
+  "number": 222,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Libra",
@@ -3621,7 +3683,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 223
+  "number": 223,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Scorpio",
@@ -3631,7 +3694,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 224
+  "number": 224,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Sagittarius",
@@ -3641,7 +3705,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 225
+  "number": 225,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Capricorn",
@@ -3651,7 +3716,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 226
+  "number": 226,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Aquarius",
@@ -3661,7 +3727,8 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 227
+  "number": 227,
+  "group": "The Heavens & Fate"
  },
  {
   "name": "God of Pisces",
@@ -3671,6 +3738,7 @@ window.GODS = [
   "children": [],
   "house": "",
   "generation": 9,
-  "number": 228
+  "number": 228,
+  "group": "The Heavens & Fate"
  }
 ];
