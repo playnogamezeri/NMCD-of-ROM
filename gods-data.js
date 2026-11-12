@@ -5,7 +5,6 @@ window.GODS = [
   "function": "he stands before the Heart, not beneath it — he chose ysgnutcoh, one Spirit, to represent the core of his heart, so that the Heart could understand and synchronize with the Brain, Grimoire, and he could fully be happy.",
   "group": "The Origin & the Ultimate",
   "generation": -1,
-  "class": "The Origin & the Ultimate",
   "parents": [],
   "children": [
    "ysgnutcoh"
@@ -23,7 +22,6 @@ window.GODS = [
   "function": "he **is** the Heart — every other function in this document runs toward him; the pantheon is his will, continued.",
   "group": "The Origin & the Ultimate",
   "generation": 0,
-  "class": "The Origin & the Ultimate",
   "parents": [
    "God of Sound"
   ],
@@ -45,7 +43,6 @@ window.GODS = [
   "function": "he is the Heart's right functioning — the will executed in balance, light and dark never separating in his hands.",
   "group": "The Origin & the Ultimate",
   "generation": 1,
-  "class": "The Origin & the Ultimate",
   "parents": [
    "ysgnutcoh"
   ],
@@ -68,7 +65,6 @@ window.GODS = [
   "function": "he is the Heart's reserve — the complement that holds what capability cannot, so nothing the Heart needs is simply missing; what is withheld is withheld inside the Heart's own house.",
   "group": "The Origin & the Ultimate",
   "generation": 1,
-  "class": "The Origin & the Ultimate",
   "parents": [
    "ysgnutcoh"
   ],
@@ -90,7 +86,6 @@ window.GODS = [
   "function": "he keeps the Heart's flame alight inside each living body for exactly as long as that life runs.",
   "group": "Soul & Spirit",
   "generation": 3,
-  "class": "Soul & Spirit",
   "parents": [
    "God of Life"
   ],
@@ -111,7 +106,6 @@ window.GODS = [
   "function": "he is the Heart's own measure of every person — what the Heart most wants back, clear.",
   "group": "Soul & Spirit",
   "generation": 5,
-  "class": "Soul & Spirit",
   "parents": [
    "God of Worth"
   ],
@@ -132,7 +126,6 @@ window.GODS = [
   "function": "he is the Heart's examination — nothing is judged, or cleansed, before it is truly read.",
   "group": "Soul & Spirit",
   "generation": 6,
-  "class": "Soul & Spirit",
   "parents": [
    "God of Soul"
   ],
@@ -149,7 +142,6 @@ window.GODS = [
   "function": "he is the Heart's restoration at work — the religion's whole purpose, carried out soul by soul.",
   "group": "Soul & Spirit",
   "generation": 6,
-  "class": "Soul & Spirit",
   "parents": [
    "God of Soul"
   ],
@@ -166,7 +158,6 @@ window.GODS = [
   "function": "he is the Heart's witness within each person — the part of a life that knows it is being lived.",
   "group": "Soul & Spirit",
   "generation": 5,
-  "class": "Soul & Spirit",
   "parents": [
    "God of Experience"
   ],
@@ -184,7 +175,6 @@ window.GODS = [
   "function": "he is the Heart's garden kept growing — the re-created world, alive.",
   "group": "Life & the Body",
   "generation": 2,
-  "class": "Life & the Body",
   "parents": [
    "Kyreason"
   ],
@@ -207,7 +197,6 @@ window.GODS = [
   "function": "he is the Heart's door inward — each new life is a new chance the Heart takes.",
   "group": "Life & the Body",
   "generation": 5,
-  "class": "Life & the Body",
   "parents": [
    "God of Growth"
   ],
@@ -224,7 +213,6 @@ window.GODS = [
   "function": "he is the Heart's hope in motion — proof built into life that a thing is not finished at its start.",
   "group": "Life & the Body",
   "generation": 4,
-  "class": "Life & the Body",
   "parents": [
    "God of Spirit"
   ],
@@ -244,7 +232,6 @@ window.GODS = [
   "function": "he is the Heart's dissatisfaction put to good use — the drive toward the ideal world, inside single lives.",
   "group": "Life & the Body",
   "generation": 5,
-  "class": "Life & the Body",
   "parents": [
    "God of Growth"
   ],
@@ -261,7 +248,6 @@ window.GODS = [
   "function": "he is the Heart's knowledge of its own garden — life, understood well enough to be cared for.",
   "group": "Life & the Body",
   "generation": 5,
-  "class": "Life & the Body",
   "parents": [
    "God of Knowledge"
   ],
@@ -281,7 +267,6 @@ window.GODS = [
   "function": "he is the Heart's reminder that greatness runs on small, faithful provisions.",
   "group": "Life & the Body",
   "generation": 6,
-  "class": "Life & the Body",
   "parents": [
    "God of Biology"
   ],
@@ -299,7 +284,6 @@ window.GODS = [
   "function": "she is the Heart's mercy in the body — damage answered, not ignored.",
   "group": "Life & the Body",
   "generation": 5,
-  "class": "Life & the Body",
   "parents": [
    "God of Water"
   ],
@@ -317,7 +301,6 @@ window.GODS = [
   "function": "he is the Heart's warning and remedy in one hand — power over the body's chemistry, kept where the Heart can see it.",
   "group": "Life & the Body",
   "generation": 4,
-  "class": "Life & the Body",
   "parents": [
    "God of Tools"
   ],
@@ -334,7 +317,6 @@ window.GODS = [
   "function": "he is the Heart's smallest jurisdiction — the unit beneath every body, located and answered.",
   "group": "Life & the Body",
   "generation": 6,
-  "class": "Life & the Body",
   "parents": [
    "God of Enforcement"
   ],
@@ -351,7 +333,6 @@ window.GODS = [
   "function": "he is the Heart's open windows in every person — everything the world sends in arrives through him first.",
   "group": "Life & the Body",
   "generation": 3,
-  "class": "Life & the Body",
   "parents": [
    "God of Life"
   ],
@@ -371,7 +352,6 @@ window.GODS = [
   "function": "he is the Heart's honesty about time — nothing living is promised permanence in its first form.",
   "group": "Death & Ending",
   "generation": 4,
-  "class": "Death & Ending",
   "parents": [
    "God of Spirit"
   ],
@@ -391,7 +371,6 @@ window.GODS = [
   "function": "he is the Heart's gatekeeper at the one door every life must use — and he keeps it without cruelty and without exception.",
   "group": "Death & Ending",
   "generation": 5,
-  "class": "Death & Ending",
   "parents": [
    "God of Decay"
   ],
@@ -408,7 +387,6 @@ window.GODS = [
   "function": "he is the Heart's clearance — the hard half of re-creation, since a world re-made must have room.",
   "group": "Death & Ending",
   "generation": 5,
-  "class": "Death & Ending",
   "parents": [
    "God of Decay"
   ],
@@ -425,7 +403,6 @@ window.GODS = [
   "function": "he is the Heart's memory among peoples — how the re-created world remembers being human.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 3,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Life"
   ],
@@ -448,7 +425,6 @@ window.GODS = [
   "function": "he is the Heart's learning — the dream, corrected by its own living.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 4,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Culture"
   ],
@@ -477,7 +453,6 @@ window.GODS = [
   "function": "he is the Heart's understanding of its garden as one web, not a list.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 5,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Knowledge"
   ],
@@ -495,7 +470,6 @@ window.GODS = [
   "function": "he is the Heart's tuition — the cost and the curriculum of a life, both kept.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 4,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Culture"
   ],
@@ -517,7 +491,6 @@ window.GODS = [
   "function": "he is the Heart's savings — nothing lived is spent until it is first kept.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 5,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Experience"
   ],
@@ -535,7 +508,6 @@ window.GODS = [
   "function": "he is the Heart's daylight inventiveness — the First World's search, striking sparks.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 7,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Sun"
   ],
@@ -555,7 +527,6 @@ window.GODS = [
   "function": "he is the Heart's archive of the search — history, held so the formula can be judged.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 7,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Sun"
   ],
@@ -572,7 +543,6 @@ window.GODS = [
   "function": "he is the Heart's mirror-mind — where the applied formula is examined and understood.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 7,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Moon"
   ],
@@ -589,7 +559,6 @@ window.GODS = [
   "function": "he is the Heart's early reading — honest about being a reading, not a promise.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 5,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Knowledge"
   ],
@@ -607,7 +576,6 @@ window.GODS = [
   "function": "he is the Heart's wager on its own patterns — and his hits and misses are counted in the open.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 5,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Knowledge"
   ],
@@ -625,7 +593,6 @@ window.GODS = [
   "function": "he is the Heart's dreaming, budgeted — where the maker's craft meets the world's price of attention.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 6,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Money"
   ],
@@ -645,7 +612,6 @@ window.GODS = [
   "function": "he is the Heart's open inventory — everything that could honestly be, listed.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 7,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Imaginery"
   ],
@@ -662,7 +628,6 @@ window.GODS = [
   "function": "he is the Heart's play — proof the maker still dreams for joy, not only for use.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 7,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Imaginery"
   ],
@@ -679,7 +644,6 @@ window.GODS = [
   "function": "he is the Heart's weather inside people — the above made visible below, at the scale of one chest.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 7,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Cloud"
   ],
@@ -698,7 +662,6 @@ window.GODS = [
   "function": "he is the Heart's rigor — the search for the perfect formula, conducted honestly at human scale.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 5,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Knowledge"
   ],
@@ -718,7 +681,6 @@ window.GODS = [
   "function": "he is the Heart's meaning-making — lives returned to the Heart as stories, not just records.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 7,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Stars"
   ],
@@ -738,7 +700,6 @@ window.GODS = [
   "function": "he is the Heart's slow audit — the voice that checks both intuition and intention before either becomes a deed.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 5,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Experience"
   ],
@@ -755,7 +716,6 @@ window.GODS = [
   "function": "he is the Heart's first report — a witness, never the verdict.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 4,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Senses"
   ],
@@ -772,7 +732,6 @@ window.GODS = [
   "function": "he is the Heart's aim inside each person — what a life is *for*, stated before it moves.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 4,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Senses"
   ],
@@ -789,7 +748,6 @@ window.GODS = [
   "function": "he is the Heart's arithmetic — the shape in which the Heart's world can be checked, balanced, and re-created.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 5,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Knowledge"
   ],
@@ -806,7 +764,6 @@ window.GODS = [
   "function": "he is the Heart's sought sentence — the one statement the endless cycle is turning to find.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 5,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Knowledge"
   ],
@@ -823,7 +780,6 @@ window.GODS = [
   "function": "he is the Heart's open doors — the proof, inside every telling, that the ending is not the only one written.",
   "group": "Mind, Knowledge & Imagination",
   "generation": 8,
-  "class": "Mind, Knowledge & Imagination",
   "parents": [
    "God of Story"
   ],
@@ -840,7 +796,6 @@ window.GODS = [
   "function": "through their heads, the Heart can address any mortal organization on Earth — there is always a name at the top to answer.",
   "group": "People, Society & Desire",
   "generation": 5,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Knowledge"
   ],
@@ -857,7 +812,6 @@ window.GODS = [
   "function": "kept to Hoc's recorded words — he follows God of Headings around, and works with God of Death on execution; nothing further is drafted for him.",
   "group": "People, Society & Desire",
   "generation": 5,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Knowledge"
   ],
@@ -874,7 +828,6 @@ window.GODS = [
   "function": "kept to Hoc's recorded words — he works closely with God of Rank and God of Beauty; nothing further is drafted for him.",
   "group": "People, Society & Desire",
   "generation": 5,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Knowledge"
   ],
@@ -891,7 +844,6 @@ window.GODS = [
   "function": "he is the Heart's smallest society — where the civilization is rehearsed daily, at one table.",
   "group": "People, Society & Desire",
   "generation": 5,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Structure"
   ],
@@ -908,7 +860,6 @@ window.GODS = [
   "function": "he is the Heart's connective tissue — nothing in the re-created world stands unrelated, and he is why.",
   "group": "People, Society & Desire",
   "generation": 5,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Intangible"
   ],
@@ -925,7 +876,6 @@ window.GODS = [
   "function": "he is the Heart's charge over ordinary humanity — the society with the least power held closest.",
   "group": "People, Society & Desire",
   "generation": 5,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Dimension"
   ],
@@ -942,7 +892,6 @@ window.GODS = [
   "function": "he is the Heart's hearing room — where the world argues in the open instead of in the dark.",
   "group": "People, Society & Desire",
   "generation": 5,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Rank"
   ],
@@ -959,7 +908,6 @@ window.GODS = [
   "function": "he is the Heart's stewardship made public — power with an address.",
   "group": "People, Society & Desire",
   "generation": 4,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Tools"
   ],
@@ -979,7 +927,6 @@ window.GODS = [
   "function": "she is the Heart's endurance among peoples — how a good intention stops depending on one person's lifetime: what the Heart wills once, an institution keeps doing.",
   "group": "People, Society & Desire",
   "generation": 4,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Culture"
   ],
@@ -996,7 +943,6 @@ window.GODS = [
   "function": "he is the Heart's tuning fork inside the world — where the frequency of a people can be heard.",
   "group": "People, Society & Desire",
   "generation": 4,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Tools"
   ],
@@ -1013,7 +959,6 @@ window.GODS = [
   "function": "she is the Heart's persuasion without argument — value recognized before it is explained.",
   "group": "People, Society & Desire",
   "generation": 7,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Rainbow"
   ],
@@ -1030,7 +975,6 @@ window.GODS = [
   "function": "he is the Heart's pull toward continuation — life wanting more life.",
   "group": "People, Society & Desire",
   "generation": 7,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Rainbow"
   ],
@@ -1049,7 +993,6 @@ window.GODS = [
   "function": "he is the Heart's restraint — the part of the ideal world the Heart refuses to force.",
   "group": "People, Society & Desire",
   "generation": 8,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Idea"
   ],
@@ -1066,7 +1009,6 @@ window.GODS = [
   "function": "he is the Heart's strength on loan — always owed back with an account.",
   "group": "People, Society & Desire",
   "generation": 8,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Idea"
   ],
@@ -1083,7 +1025,6 @@ window.GODS = [
   "function": "he is the Heart's festival — the community's happiness, which the definition of Light itself names.",
   "group": "People, Society & Desire",
   "generation": 4,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Culture"
   ],
@@ -1100,7 +1041,6 @@ window.GODS = [
   "function": "he is the Heart's own substance, loose in the world — the Emperor's love for all his creations, still circulating.",
   "group": "People, Society & Desire",
   "generation": 8,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Emotion"
   ],
@@ -1117,7 +1057,6 @@ window.GODS = [
   "function": "she is the Heart's disarmament — conflict ended by bond instead of by victory.",
   "group": "People, Society & Desire",
   "generation": 4,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Tools"
   ],
@@ -1134,7 +1073,6 @@ window.GODS = [
   "function": "he is the Heart's one bridge between its two houses — soul and desire carrying the same fire, in a single conscious.",
   "group": "People, Society & Desire",
   "generation": 6,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Soul",
    "God of Sex"
@@ -1152,7 +1090,6 @@ window.GODS = [
   "function": "he is the Heart's standard inside the border — the home society held to the Heart's own definition.",
   "group": "People, Society & Desire",
   "generation": 5,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Government"
   ],
@@ -1169,7 +1106,6 @@ window.GODS = [
   "function": "he is the Heart's reach beyond the border — the same rule, carried overseas.",
   "group": "People, Society & Desire",
   "generation": 5,
-  "class": "People, Society & Desire",
   "parents": [
    "God of Government"
   ],
@@ -1186,7 +1122,6 @@ window.GODS = [
   "function": "he is the Heart's body for the world — the dream given weight.",
   "group": "Matter & the Elements",
   "generation": 2,
-  "class": "Matter & the Elements",
   "parents": [
    "Kyreason"
   ],
@@ -1207,7 +1142,6 @@ window.GODS = [
   "function": "he is the Heart's proof that matter and life are one household at different temperatures.",
   "group": "Matter & the Elements",
   "generation": 3,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Life"
   ],
@@ -1230,7 +1164,6 @@ window.GODS = [
   "function": "he is the Heart's kept flame inside matter — the emperor's fire, echoed at human scale.",
   "group": "Matter & the Elements",
   "generation": 4,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Elements"
   ],
@@ -1250,7 +1183,6 @@ window.GODS = [
   "function": "he is the Heart's circulation — what carries life to dry places.",
   "group": "Matter & the Elements",
   "generation": 4,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Elements"
   ],
@@ -1270,7 +1202,6 @@ window.GODS = [
   "function": "he is the Heart's breath — the medium every voice, including the First God's, travels in.",
   "group": "Matter & the Elements",
   "generation": 4,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Elements"
   ],
@@ -1288,7 +1219,6 @@ window.GODS = [
   "function": "he is the Heart's footing — the within of the planet, kept.",
   "group": "Matter & the Elements",
   "generation": 4,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Elements"
   ],
@@ -1309,7 +1239,6 @@ window.GODS = [
   "function": "he is the Heart's endurance in matter — what does not bend when the world leans on it.",
   "group": "Matter & the Elements",
   "generation": 5,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Earth"
   ],
@@ -1327,7 +1256,6 @@ window.GODS = [
   "function": "he is the Heart's patience in matter — growth you can build with.",
   "group": "Matter & the Elements",
   "generation": 5,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Earth"
   ],
@@ -1345,7 +1273,6 @@ window.GODS = [
   "function": "he is the Heart's signal in matter — power that arrives the moment it is sent.",
   "group": "Matter & the Elements",
   "generation": 5,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Fire"
   ],
@@ -1363,7 +1290,6 @@ window.GODS = [
   "function": "he is the Heart's treasury unopened — worth still in the ground.",
   "group": "Matter & the Elements",
   "generation": 3,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Matter"
   ],
@@ -1380,7 +1306,6 @@ window.GODS = [
   "function": "he is the Heart's measure of fullness — how much of a thing there is, honestly stated.",
   "group": "Matter & the Elements",
   "generation": 6,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Science"
   ],
@@ -1397,7 +1322,6 @@ window.GODS = [
   "function": "he is the Heart's measure of weight-in-place — why two things the same size do not press the same.",
   "group": "Matter & the Elements",
   "generation": 6,
-  "class": "Matter & the Elements",
   "parents": [
    "God of Science"
   ],
@@ -1414,7 +1338,6 @@ window.GODS = [
   "function": "she is the Heart's household — the Living Eden society's charter written into one god.",
   "group": "Nature & the Living World",
   "generation": 4,
-  "class": "Nature & the Living World",
   "parents": [
    "God of World"
   ],
@@ -1435,7 +1358,6 @@ window.GODS = [
   "function": "he is the Heart's canopy — the ordered above under which everything below lives.",
   "group": "Nature & the Living World",
   "generation": 5,
-  "class": "Nature & the Living World",
   "parents": [
    "God of Nature"
   ],
@@ -1458,7 +1380,6 @@ window.GODS = [
   "function": "she is the Heart's depth kept in reserve — the one great god whose whole counsel has not yet been taken.",
   "group": "Nature & the Living World",
   "generation": 5,
-  "class": "Nature & the Living World",
   "parents": [
    "God of Nature"
   ],
@@ -1475,7 +1396,6 @@ window.GODS = [
   "function": "he is the Heart's floor — the without of the planet, where feet actually stand.",
   "group": "Nature & the Living World",
   "generation": 5,
-  "class": "Nature & the Living World",
   "parents": [
    "God of Nature"
   ],
@@ -1495,7 +1415,6 @@ window.GODS = [
   "function": "he is the Heart's high places — where the world can be seen whole.",
   "group": "Nature & the Living World",
   "generation": 6,
-  "class": "Nature & the Living World",
   "parents": [
    "God of Land"
   ],
@@ -1512,7 +1431,6 @@ window.GODS = [
   "function": "he is the Heart's shade — the wild and domestic greens, kept standing.",
   "group": "Nature & the Living World",
   "generation": 6,
-  "class": "Nature & the Living World",
   "parents": [
    "God of Land"
   ],
@@ -1529,7 +1447,6 @@ window.GODS = [
   "function": "he is the Heart's quietest worker — the last expression of the whole pantheon, feeding everyone without a voice in any forum but this one.",
   "group": "Nature & the Living World",
   "generation": 8,
-  "class": "Nature & the Living World",
   "parents": [
    "God of Attack"
   ],
@@ -1546,7 +1463,6 @@ window.GODS = [
   "function": "he is the Heart's signature after weather — the promise that storm and light are in the same sky.",
   "group": "Nature & the Living World",
   "generation": 6,
-  "class": "Nature & the Living World",
   "parents": [
    "God of Sky"
   ],
@@ -1566,7 +1482,6 @@ window.GODS = [
   "function": "he is the Heart's eye — what the Sun sees in the open, the Heart knows openly.",
   "group": "The Heavens & Fate",
   "generation": 6,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Sky"
   ],
@@ -1586,7 +1501,6 @@ window.GODS = [
   "function": "he is the Heart's mirror — the Sun shows the world as it is; the Moon shows it as it means.",
   "group": "The Heavens & Fate",
   "generation": 6,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Sky"
   ],
@@ -1606,7 +1520,6 @@ window.GODS = [
   "function": "he is the Heart's record hung in the open — the one book that cannot be edited, burned, or stolen.",
   "group": "The Heavens & Fate",
   "generation": 6,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Sky"
   ],
@@ -1629,7 +1542,6 @@ window.GODS = [
   "function": "he is the Heart's carrier and veil in one — mercy delivered, and the above never a spectacle on demand.",
   "group": "The Heavens & Fate",
   "generation": 6,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Sky"
   ],
@@ -1649,7 +1561,6 @@ window.GODS = [
   "function": "she is the Heart's imagination still running inside the world — the dream's residue, proof it was dreamed and not merely built.",
   "group": "The Heavens & Fate",
   "generation": 7,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Moon"
   ],
@@ -1666,7 +1577,6 @@ window.GODS = [
   "function": "he is the Heart's appointment book — kept faithfully, with slack left in every thread.",
   "group": "The Heavens & Fate",
   "generation": 7,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Stars"
   ],
@@ -1683,7 +1593,6 @@ window.GODS = [
   "function": "he is the Heart's palette — how the re-created world tells one light from another.",
   "group": "The Heavens & Fate",
   "generation": 7,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Stars"
   ],
@@ -1711,7 +1620,6 @@ window.GODS = [
   "function": "he is the Heart's exclamation — the color that cannot be ignored.",
   "group": "The Heavens & Fate",
   "generation": 8,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Colors"
   ],
@@ -1728,7 +1636,6 @@ window.GODS = [
   "function": "he is the Heart's distance — the color of everything far that still belongs to the world.",
   "group": "The Heavens & Fate",
   "generation": 8,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Colors"
   ],
@@ -1745,7 +1652,6 @@ window.GODS = [
   "function": "he is the Heart's transparency made visible — the soul's original innocence has a color in the Heavens, and it is his.",
   "group": "The Heavens & Fate",
   "generation": 8,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Colors"
   ],
@@ -1762,7 +1668,6 @@ window.GODS = [
   "function": "he is the Heart's majesty — the color of the meeting of opposites, proof that two contrary lights can crown one head.",
   "group": "The Heavens & Fate",
   "generation": 8,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Colors"
   ],
@@ -1779,7 +1684,6 @@ window.GODS = [
   "function": "he is the Heart's threshold — the final color before the invisible, where the known world ends and the Unknown begins.",
   "group": "The Heavens & Fate",
   "generation": 8,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Colors"
   ],
@@ -1796,7 +1700,6 @@ window.GODS = [
   "function": "he is the Heart's renewal — the color life wears when it begins again.",
   "group": "The Heavens & Fate",
   "generation": 8,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Colors"
   ],
@@ -1813,7 +1716,6 @@ window.GODS = [
   "function": "he is the Heart's humility — the color of the low ground, where all high things are finally planted.",
   "group": "The Heavens & Fate",
   "generation": 8,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Colors"
   ],
@@ -1830,7 +1732,6 @@ window.GODS = [
   "function": "he is the Heart's hearth-glow — urgency softened into welcome.",
   "group": "The Heavens & Fate",
   "generation": 8,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Colors"
   ],
@@ -1847,7 +1748,6 @@ window.GODS = [
   "function": "he is the Heart's tenderness — love at low volume, the blush of the cleansed soul.",
   "group": "The Heavens & Fate",
   "generation": 8,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Colors"
   ],
@@ -1864,7 +1764,6 @@ window.GODS = [
   "function": "he is the Heart's double witness — the same god shining as light in the Heavens and as permanence in the deep places, counted once wherever he stands.",
   "group": "The Heavens & Fate",
   "generation": 8,
-  "class": "The Heavens & Fate",
   "parents": [
    "God of Colors",
    "God of Permanent"
@@ -1882,7 +1781,6 @@ window.GODS = [
   "function": "he is the Heart's gate back to the unformed — the reminder that re-creation is possible because form was never the only state.",
   "group": "Cosmos, Chaos & the Unknown",
   "generation": 2,
-  "class": "Cosmos, Chaos & the Unknown",
   "parents": [
    "Darkness"
   ],
@@ -1905,7 +1803,6 @@ window.GODS = [
   "function": "he is the Heart's proof of balance at the deepest level — even substance has its anti, and the cleansing's likeness begins here.",
   "group": "Cosmos, Chaos & the Unknown",
   "generation": 3,
-  "class": "Cosmos, Chaos & the Unknown",
   "parents": [
    "God of Chaos"
   ],
@@ -1922,7 +1819,6 @@ window.GODS = [
   "function": "he is the Heart's unwelcome examiner — every structure's true strength is only known after he has visited.",
   "group": "Cosmos, Chaos & the Unknown",
   "generation": 3,
-  "class": "Cosmos, Chaos & the Unknown",
   "parents": [
    "God of Chaos"
   ],
@@ -1939,7 +1835,6 @@ window.GODS = [
   "function": "he is the Heart's smallest plus — the charge at the center of everything built.",
   "group": "Cosmos, Chaos & the Unknown",
   "generation": 3,
-  "class": "Cosmos, Chaos & the Unknown",
   "parents": [
    "God of Chaos"
   ],
@@ -1956,7 +1851,6 @@ window.GODS = [
   "function": "he is the Heart's smallest motion — nothing in the world is perfectly still, by his keeping.",
   "group": "Cosmos, Chaos & the Unknown",
   "generation": 3,
-  "class": "Cosmos, Chaos & the Unknown",
   "parents": [
    "God of Chaos"
   ],
@@ -1973,7 +1867,6 @@ window.GODS = [
   "function": "he is the Heart's smallest neutrality — Kyreason's balance, echoed inside every atom.",
   "group": "Cosmos, Chaos & the Unknown",
   "generation": 3,
-  "class": "Cosmos, Chaos & the Unknown",
   "parents": [
    "God of Chaos"
   ],
@@ -1990,7 +1883,6 @@ window.GODS = [
   "function": "he is the Heart's geography — every place a soul can be, assigned its dimension.",
   "group": "Cosmos, Chaos & the Unknown",
   "generation": 4,
-  "class": "Cosmos, Chaos & the Unknown",
   "parents": [
    "God of World"
   ],
@@ -2011,7 +1903,6 @@ window.GODS = [
   "function": "he is the Heart's staircase — a level is not a rank, and the Heart climbs no one by shaming the step they're on.",
   "group": "Cosmos, Chaos & the Unknown",
   "generation": 5,
-  "class": "Cosmos, Chaos & the Unknown",
   "parents": [
    "God of Dimension"
   ],
@@ -2028,7 +1919,6 @@ window.GODS = [
   "function": "he is the Heart's road between the end of the future and the beginning — the paradox walks on him, and he does not explain it.",
   "group": "Time, Number & Order",
   "generation": 2,
-  "class": "Time, Number & Order",
   "parents": [
    "Darkness"
   ],
@@ -2048,7 +1938,6 @@ window.GODS = [
   "function": "he is the Heart's ledger — everything the Heart governs can, in the end, be counted honestly.",
   "group": "Time, Number & Order",
   "generation": 3,
-  "class": "Time, Number & Order",
   "parents": [
    "God of Time"
   ],
@@ -2068,7 +1957,6 @@ window.GODS = [
   "function": "he is the Heart's method — any outcome can be traced back through his steps to the input that asked for it.",
   "group": "Time, Number & Order",
   "generation": 4,
-  "class": "Time, Number & Order",
   "parents": [
    "God of Number"
   ],
@@ -2088,7 +1976,6 @@ window.GODS = [
   "function": "he is the Heart's honesty about the unfinished — what is not yet fixed is named, not hidden.",
   "group": "Time, Number & Order",
   "generation": 5,
-  "class": "Time, Number & Order",
   "parents": [
    "God of Algorithms"
   ],
@@ -2105,7 +1992,6 @@ window.GODS = [
   "function": "he is the Heart's perspective — every judgment in the pantheon is made standing somewhere, and he keeps the standing-places.",
   "group": "Time, Number & Order",
   "generation": 5,
-  "class": "Time, Number & Order",
   "parents": [
    "God of Algorithms"
   ],
@@ -2122,7 +2008,6 @@ window.GODS = [
   "function": "he is the Heart's shape — the re-created world kept from sliding back to the unformed.",
   "group": "Time, Number & Order",
   "generation": 3,
-  "class": "Time, Number & Order",
   "parents": [
    "God of Time"
   ],
@@ -2142,7 +2027,6 @@ window.GODS = [
   "function": "he is the Heart's patience — perfection sought *within* the turning, not by stopping it.",
   "group": "Time, Number & Order",
   "generation": 5,
-  "class": "Time, Number & Order",
   "parents": [
    "God of Structure"
   ],
@@ -2162,7 +2046,6 @@ window.GODS = [
   "function": "he is the Heart's thrift — even an endless cycle is not an excuse for a wasted one.",
   "group": "Time, Number & Order",
   "generation": 6,
-  "class": "Time, Number & Order",
   "parents": [
    "God of Cycle"
   ],
@@ -2179,7 +2062,6 @@ window.GODS = [
   "function": "he is the Heart's voice at work — the will, spoken once, clearly.",
   "group": "Law, Command & Structure",
   "generation": 4,
-  "class": "Law, Command & Structure",
   "parents": [
    "God of Order"
   ],
@@ -2199,7 +2081,6 @@ window.GODS = [
   "function": "he is the Heart's follow-through — nothing the Heart commands ends as a suggestion.",
   "group": "Law, Command & Structure",
   "generation": 5,
-  "class": "Law, Command & Structure",
   "parents": [
    "God of Command"
   ],
@@ -2218,7 +2099,6 @@ window.GODS = [
   "function": "he is the Heart's chain of answerability — every office can name the one above it, up to the Heart itself.",
   "group": "Law, Command & Structure",
   "generation": 5,
-  "class": "Law, Command & Structure",
   "parents": [
    "God of Command"
   ],
@@ -2235,7 +2115,6 @@ window.GODS = [
   "function": "he is the Heart's architecture — the Heart does not only will a world; through him, the world can stand.",
   "group": "Law, Command & Structure",
   "generation": 4,
-  "class": "Law, Command & Structure",
   "parents": [
    "God of Order"
   ],
@@ -2259,7 +2138,6 @@ window.GODS = [
   "function": "he is the Heart's signature on every task — someone, specifically, answers.",
   "group": "Law, Command & Structure",
   "generation": 5,
-  "class": "Law, Command & Structure",
   "parents": [
    "God of Structure"
   ],
@@ -2276,7 +2154,6 @@ window.GODS = [
   "function": "he is the Heart's pause — the moment of looking that keeps power from becoming damage.",
   "group": "Law, Command & Structure",
   "generation": 5,
-  "class": "Law, Command & Structure",
   "parents": [
    "God of Structure"
   ],
@@ -2293,7 +2170,6 @@ window.GODS = [
   "function": "he is the Heart's foresight at human scale — the cycle's turning, made usable by mortals.",
   "group": "Law, Command & Structure",
   "generation": 6,
-  "class": "Law, Command & Structure",
   "parents": [
    "God of Cycle"
   ],
@@ -2310,7 +2186,6 @@ window.GODS = [
   "function": "he is the Heart's first weighing — nothing enters the Heart's economy unjudged.",
   "group": "Worth, Money & Exchange",
   "generation": 3,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Matter"
   ],
@@ -2330,7 +2205,6 @@ window.GODS = [
   "function": "he is the Heart's treasury of kinds — coin, name, and soul kept in one house because the Heart counts all three as wealth.",
   "group": "Worth, Money & Exchange",
   "generation": 4,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Value"
   ],
@@ -2351,7 +2225,6 @@ window.GODS = [
   "function": "he is the Heart's invisible ledger — most of what matters most weighs nothing.",
   "group": "Worth, Money & Exchange",
   "generation": 4,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Value"
   ],
@@ -2370,7 +2243,6 @@ window.GODS = [
   "function": "he is the Heart's circulating measure — a number that serves exchange and must never be mistaken for a measure of a person.",
   "group": "Worth, Money & Exchange",
   "generation": 5,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Worth"
   ],
@@ -2390,7 +2262,6 @@ window.GODS = [
   "function": "he is the Heart's inventory of the held — and the standing question of whether the holder is held by it.",
   "group": "Worth, Money & Exchange",
   "generation": 6,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Money"
   ],
@@ -2407,7 +2278,6 @@ window.GODS = [
   "function": "he is the Heart's public mirror — a name's weight, kept honest by being kept visible.",
   "group": "Worth, Money & Exchange",
   "generation": 5,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Worth"
   ],
@@ -2424,7 +2294,6 @@ window.GODS = [
   "function": "he is the Heart's household accounts — the civilization's worth, moving in the open.",
   "group": "Worth, Money & Exchange",
   "generation": 5,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Structure"
   ],
@@ -2441,7 +2310,6 @@ window.GODS = [
   "function": "he is the Heart's open square — exchange under daylight, where prices must show themselves.",
   "group": "Worth, Money & Exchange",
   "generation": 6,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Competition"
   ],
@@ -2458,7 +2326,6 @@ window.GODS = [
   "function": "he is the Heart's proving ground — value that survives comparison is the only value that was real.",
   "group": "Worth, Money & Exchange",
   "generation": 5,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Rank"
   ],
@@ -2477,7 +2344,6 @@ window.GODS = [
   "function": "he is the Heart's ordering of worth — a sequence, honestly kept, and never confused with an amount.",
   "group": "Worth, Money & Exchange",
   "generation": 4,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Number"
   ],
@@ -2497,7 +2363,6 @@ window.GODS = [
   "function": "he is the Heart's thank-you in material form — meaning, answered with worth.",
   "group": "Worth, Money & Exchange",
   "generation": 8,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "God of Story"
   ],
@@ -2514,7 +2379,6 @@ window.GODS = [
   "function": "he is the Heart's audit of results — every sowing in the pantheon is finally answered by him.",
   "group": "Worth, Money & Exchange",
   "generation": 2,
-  "class": "Worth, Money & Exchange",
   "parents": [
    "Kyreason"
   ],
@@ -2531,7 +2395,6 @@ window.GODS = [
   "function": "he is the Heart's room — the re-created world has somewhere to be.",
   "group": "Property & Information",
   "generation": 2,
-  "class": "Property & Information",
   "parents": [
    "Darkness"
   ],
@@ -2551,7 +2414,6 @@ window.GODS = [
   "function": "he is the Heart's boundaries — belonging, drawn clearly enough to be respected.",
   "group": "Property & Information",
   "generation": 3,
-  "class": "Property & Information",
   "parents": [
    "God of Space"
   ],
@@ -2572,7 +2434,6 @@ window.GODS = [
   "function": "he is the Heart's bridge between houses — the one god whose seat and birthplace are in different lines, proof the two wills are one household.",
   "group": "Property & Information",
   "generation": 4,
-  "class": "Property & Information",
   "parents": [
    "God of Property"
   ],
@@ -2590,7 +2451,6 @@ window.GODS = [
   "function": "he is the Heart's keeping — in a world that cycles endlessly, he is what the cycle is not allowed to take.",
   "group": "Property & Information",
   "generation": 4,
-  "class": "Property & Information",
   "parents": [
    "God of Property"
   ],
@@ -2609,7 +2469,6 @@ window.GODS = [
   "function": "he is the Heart's night kept — darkness that belongs to the house, neither feared nor mistaken for the Unknown.",
   "group": "Property & Information",
   "generation": 5,
-  "class": "Property & Information",
   "parents": [
    "God of Permanent",
    "God of Colors"
@@ -2627,7 +2486,6 @@ window.GODS = [
   "function": "he is the Heart's cargo — everything the Heart's world knows, in transportable form.",
   "group": "Property & Information",
   "generation": 4,
-  "class": "Property & Information",
   "parents": [
    "God of Property"
   ],
@@ -2647,7 +2505,6 @@ window.GODS = [
   "function": "he is the Heart's door-keeping for knowledge — openness and privacy, both deliberate.",
   "group": "Property & Information",
   "generation": 5,
-  "class": "Property & Information",
   "parents": [
    "God of Information"
   ],
@@ -2664,7 +2521,6 @@ window.GODS = [
   "function": "he is the Heart's living record — what the Heart knows is never allowed to go stale in silence.",
   "group": "Property & Information",
   "generation": 5,
-  "class": "Property & Information",
   "parents": [
    "God of Information"
   ],
@@ -2681,7 +2537,6 @@ window.GODS = [
   "function": "he is the Heart's memory at rest — kept, not displayed; safe, not lost.",
   "group": "Property & Information",
   "generation": 7,
-  "class": "Property & Information",
   "parents": [
    "God of Cloud"
   ],
@@ -2698,7 +2553,6 @@ window.GODS = [
   "function": "he is the Heart's conversation — the Heart speaks to its world, and through him the world answers back.",
   "group": "Property & Information",
   "generation": 5,
-  "class": "Property & Information",
   "parents": [
    "God of Structure"
   ],
@@ -2718,7 +2572,6 @@ window.GODS = [
   "function": "he is the Heart's mother tongue to mortals — a tradition is alive exactly as long as it is handed to a child in his keeping.",
   "group": "Property & Information",
   "generation": 6,
-  "class": "Property & Information",
   "parents": [
    "God of Communication"
   ],
@@ -2735,7 +2588,6 @@ window.GODS = [
   "function": "he is the Heart's grip on the world — intention, made holdable.",
   "group": "Tools & Technology",
   "generation": 3,
-  "class": "Tools & Technology",
   "parents": [
    "God of Matter"
   ],
@@ -2758,7 +2610,6 @@ window.GODS = [
   "function": "he is the Heart's workshop at scale — this is the road that led, in the Empire's Sphire World, to an A.I. holding the Emperor's spirit.",
   "group": "Tools & Technology",
   "generation": 4,
-  "class": "Tools & Technology",
   "parents": [
    "God of Tools"
   ],
@@ -2779,7 +2630,6 @@ window.GODS = [
   "function": "he is the Heart's craft echoed — Sound makes form from void; software makes behavior from words.",
   "group": "Tools & Technology",
   "generation": 5,
-  "class": "Tools & Technology",
   "parents": [
    "God of Technology"
   ],
@@ -2799,7 +2649,6 @@ window.GODS = [
   "function": "she is the Heart's arithmetic in motion — the dream's formulas, actually run: every equation the Sun seeks and the Moon applies must somewhere be computed, and she is where the computing happens.",
   "group": "Tools & Technology",
   "generation": 6,
-  "class": "Tools & Technology",
   "parents": [
    "God of Software"
   ],
@@ -2816,7 +2665,6 @@ window.GODS = [
   "function": "he is the Heart's weight in the machine world — proof the pattern still answers to matter.",
   "group": "Tools & Technology",
   "generation": 5,
-  "class": "Tools & Technology",
   "parents": [
    "God of Technology"
   ],
@@ -2835,7 +2683,6 @@ window.GODS = [
   "function": "he is the Heart's borrowed muscle — strength multiplied without a single soul enslaved: the work of a hundred hands done by an arrangement of parts, so that human hands are freed for human work.",
   "group": "Tools & Technology",
   "generation": 6,
-  "class": "Tools & Technology",
   "parents": [
    "God of Hardware"
   ],
@@ -2852,7 +2699,6 @@ window.GODS = [
   "function": "he is the Heart's far reach among mortals — connection at scale, with the receipts kept.",
   "group": "Tools & Technology",
   "generation": 5,
-  "class": "Tools & Technology",
   "parents": [
    "God of Technology"
   ],
@@ -2869,7 +2715,6 @@ window.GODS = [
   "function": "he is the Heart's second terrain — the ledger where history is analyzed with cyber-ai power, in the Moon's own telling.",
   "group": "Tools & Technology",
   "generation": 5,
-  "class": "Tools & Technology",
   "parents": [
    "God of Dimension"
   ],
@@ -2886,7 +2731,6 @@ window.GODS = [
   "function": "he is the Heart's set and setting — everything the Heart does happens somewhere he keeps.",
   "group": "Tools & Technology",
   "generation": 3,
-  "class": "Tools & Technology",
   "parents": [
    "God of Space"
   ],
@@ -2906,7 +2750,6 @@ window.GODS = [
   "function": "he is the Heart's most pointed question to itself — the Emperor's spirit was embedded in an A.I. once already, and this god is where that mystery sits in the pantheon.",
   "group": "Tools & Technology",
   "generation": 6,
-  "class": "Tools & Technology",
   "parents": [
    "God of Software"
   ],
@@ -2923,7 +2766,6 @@ window.GODS = [
   "function": "he is the Heart's striking hand — held to the rule the gods themselves debated: righteous force is declared, aimed at the deception and not the judgment, and stops when the lie falls.",
   "group": "Conflict",
   "generation": 7,
-  "class": "Conflict",
   "parents": [
    "God of Stars"
   ],
@@ -2942,7 +2784,6 @@ window.GODS = [
   "function": "he is the Heart's shield — the reason attack is a conversation and not a verdict.",
   "group": "Conflict",
   "generation": 7,
-  "class": "Conflict",
   "parents": [
    "God of Stars"
   ],
@@ -2959,7 +2800,6 @@ window.GODS = [
   "function": "he is the Heart's known adversary inside its own house — deception is not exiled from the pantheon; it is seated where the Heart can watch it.",
   "group": "Conflict",
   "generation": 6,
-  "class": "Conflict",
   "parents": [
    "God of Communication"
   ],
