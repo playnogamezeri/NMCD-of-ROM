@@ -100,11 +100,11 @@ window.GOD_TECHNIQUES = {
   "signature": [
    {
     "name": "First Spark: the balance of Light and Darkness",
-    "description": "The God gathers the signature of the balance of light and darkness into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "description": "The God originates the balance of light and darkness in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
     "name": "Hidden Horizon: the in Focus",
-    "description": "The God isolates a property or pattern of the balance of light and darkness, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "description": "The God isolates one property or pattern of the balance of light and darkness, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
     "name": "Balanced Threshold: the's Stewardship",
@@ -114,7 +114,7 @@ window.GOD_TECHNIQUES = {
   "advanced": [
    {
     "name": "Primordial Convergence: the balance of Light and Darkness",
-    "description": "The God coordinates several expressions of the balance of light and darkness at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "description": "The God coordinates several expressions of the balance of light and darkness at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
     "name": "Unformed Crucible: the Synthesis",
@@ -147,11 +147,11 @@ window.GOD_TECHNIQUES = {
   "signature": [
    {
     "name": "First Spark: the Unknown",
-    "description": "The God gathers the signature of the unknown into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "description": "The God originates the unknown in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
     "name": "Hidden Horizon: the in Focus",
-    "description": "The God isolates a property or pattern of the unknown, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "description": "The God isolates one property or pattern of the unknown, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
     "name": "Balanced Threshold: the's Stewardship",
@@ -161,7 +161,7 @@ window.GOD_TECHNIQUES = {
   "advanced": [
    {
     "name": "Primordial Convergence: the Unknown",
-    "description": "The God coordinates several expressions of the unknown at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "description": "The God coordinates several expressions of the unknown at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
     "name": "Unformed Crucible: the Synthesis",
@@ -189,40 +189,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Life": {
   "number": 5,
-  "concept": "God of Life",
+  "concept": "Life",
   "category": "Life Sciences & Organisms",
   "signature": [
    {
-    "name": "Vital Pulse: God of Life",
-    "description": "The God gathers the signature of god of life into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Vital Pulse: Life",
+    "description": "The God nourishs life in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Pattern: God in Focus",
-    "description": "The God isolates a property or pattern of god of life, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Pattern: Life in Focus",
+    "description": "The God isolates one property or pattern of life, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Nurture's Hand: God's Stewardship",
-    "description": "The God applies god of life as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Nurture's Hand: Life's Stewardship",
+    "description": "The God applies life as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Whole-System Renewal: God of Life",
-    "description": "The God coordinates several expressions of god of life at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Whole-System Renewal: Life",
+    "description": "The God coordinates several expressions of life at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Genesis in Balance: God Synthesis",
-    "description": "The God combines the deepest principles of god of life into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Genesis in Balance: Life Synthesis",
+    "description": "The God combines the deepest principles of life into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Everliving Garden: God of Life",
-   "description": "The God reveals the perfected expression of god of life. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Everliving Garden: Life",
+   "description": "The God reveals the perfected expression of life. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "The God guides living processes but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
     "name": "Operational condition",
@@ -236,35 +236,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Matter": {
   "number": 6,
-  "concept": "God of Matter",
+  "concept": "Matter",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Matter",
-    "description": "The God gathers the signature of god of matter into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Matter",
+    "description": "The God manifests matter in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of matter, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Matter in Focus",
+    "description": "The God isolates one property or pattern of matter, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of matter as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Matter's Stewardship",
+    "description": "The God applies matter as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Matter",
-    "description": "The God coordinates several expressions of god of matter at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Matter",
+    "description": "The God coordinates several expressions of matter at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of matter into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Matter Synthesis",
+    "description": "The God combines the deepest principles of matter into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Matter",
-   "description": "The God reveals the perfected expression of god of matter. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Matter",
+   "description": "The God reveals the perfected expression of matter. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -283,35 +283,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Yield": {
   "number": 7,
-  "concept": "God of Yield",
+  "concept": "Yield",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Yield",
-    "description": "The God gathers the signature of god of yield into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Yield",
+    "description": "The God assesss yield in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of yield, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Yield in Focus",
+    "description": "The God isolates one property or pattern of yield, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of yield as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Yield's Stewardship",
+    "description": "The God applies yield as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Yield",
-    "description": "The God coordinates several expressions of god of yield at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Yield",
+    "description": "The God coordinates several expressions of yield at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of yield into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Yield Synthesis",
+    "description": "The God combines the deepest principles of yield into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Yield",
-   "description": "The God reveals the perfected expression of god of yield. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Yield",
+   "description": "The God reveals the perfected expression of yield. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -330,35 +330,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Time": {
   "number": 8,
-  "concept": "God of Time",
+  "concept": "Time",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Time",
-    "description": "The God gathers the signature of god of time into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Time",
+    "description": "The God measures time in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of time, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Time in Focus",
+    "description": "The God isolates one property or pattern of time, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of time as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Time's Stewardship",
+    "description": "The God applies time as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Time",
-    "description": "The God coordinates several expressions of god of time at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Time",
+    "description": "The God coordinates several expressions of time at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of time into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Time Synthesis",
+    "description": "The God combines the deepest principles of time into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Time",
-   "description": "The God reveals the perfected expression of god of time. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Time",
+   "description": "The God reveals the perfected expression of time. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -377,35 +377,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Space": {
   "number": 9,
-  "concept": "God of Space",
+  "concept": "Space",
   "category": "Space & Cosmology",
   "signature": [
    {
-    "name": "Celestial Bearing: God of Space",
-    "description": "The God gathers the signature of god of space into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Celestial Bearing: Space",
+    "description": "The God maps space in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Orbital Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of space, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Orbital Thread: Space in Focus",
+    "description": "The God isolates one property or pattern of space, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Far-Reach Sight: God's Stewardship",
-    "description": "The God applies god of space as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Far-Reach Sight: Space's Stewardship",
+    "description": "The God applies space as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constellation Alignment: God of Space",
-    "description": "The God coordinates several expressions of god of space at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constellation Alignment: Space",
+    "description": "The God coordinates several expressions of space at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Worldline Architecture: God Synthesis",
-    "description": "The God combines the deepest principles of god of space into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Worldline Architecture: Space Synthesis",
+    "description": "The God combines the deepest principles of space into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Firmament: God of Space",
-   "description": "The God reveals the perfected expression of god of space. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Firmament: Space",
+   "description": "The God reveals the perfected expression of space. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -424,44 +424,44 @@ window.GOD_TECHNIQUES = {
  },
  "God of Chaos": {
   "number": 10,
-  "concept": "God of Chaos",
+  "concept": "Chaos",
   "category": "Creation & Primordial Forces",
   "signature": [
    {
-    "name": "First Spark: God of Chaos",
-    "description": "The God gathers the signature of god of chaos into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "First Spark: Chaos",
+    "description": "The God originates chaos in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Hidden Horizon: God in Focus",
-    "description": "The God isolates a property or pattern of god of chaos, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Hidden Horizon: Chaos in Focus",
+    "description": "The God isolates one property or pattern of chaos, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Threshold: God's Stewardship",
-    "description": "The God applies god of chaos as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Threshold: Chaos's Stewardship",
+    "description": "The God applies chaos as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Primordial Convergence: God of Chaos",
-    "description": "The God coordinates several expressions of god of chaos at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Primordial Convergence: Chaos",
+    "description": "The God coordinates several expressions of chaos at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Unformed Crucible: God Synthesis",
-    "description": "The God combines the deepest principles of god of chaos into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Unformed Crucible: Chaos Synthesis",
+    "description": "The God combines the deepest principles of chaos into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "World-Seed Apotheosis: God of Chaos",
-   "description": "The God reveals the perfected expression of god of chaos. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "World-Seed Apotheosis: Chaos",
+   "description": "The God reveals the perfected expression of chaos. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "Creation establishes conditions; it does not grant authorship over every independent concept that emerges."
+    "description": "Primordial creation establishes conditions; it does not grant authorship over every independent concept that emerges."
    },
    {
     "name": "Operational condition",
-    "description": "Contradictory beginnings cannot be imposed simultaneously in the same respect; the God must resolve the contradiction or hold it as possibility."
+    "description": "Contradictory beginnings cannot be imposed simultaneously in the same respect; the God must resolve the contradiction or preserve it as possibility."
    },
    {
     "name": "Ultimate constraint",
@@ -471,35 +471,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Culture": {
   "number": 11,
-  "concept": "God of Culture",
+  "concept": "Culture",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Culture",
-    "description": "The God gathers the signature of god of culture into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Culture",
+    "description": "The God connects culture in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of culture, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Culture in Focus",
+    "description": "The God isolates one property or pattern of culture, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of culture as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Culture's Stewardship",
+    "description": "The God applies culture as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Culture",
-    "description": "The God coordinates several expressions of god of culture at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Culture",
+    "description": "The God coordinates several expressions of culture at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of culture into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Culture Synthesis",
+    "description": "The God combines the deepest principles of culture into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Culture",
-   "description": "The God reveals the perfected expression of god of culture. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Culture",
+   "description": "The God reveals the perfected expression of culture. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -518,35 +518,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Elements": {
   "number": 12,
-  "concept": "God of Elements",
+  "concept": "Elements",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Elements",
-    "description": "The God gathers the signature of god of elements into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Elements",
+    "description": "The God manifests elements in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of elements, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Elements in Focus",
+    "description": "The God isolates one property or pattern of elements, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of elements as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Elements's Stewardship",
+    "description": "The God applies elements as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Elements",
-    "description": "The God coordinates several expressions of god of elements at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Elements",
+    "description": "The God coordinates several expressions of elements at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of elements into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Elements Synthesis",
+    "description": "The God combines the deepest principles of elements into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Elements",
-   "description": "The God reveals the perfected expression of god of elements. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Elements",
+   "description": "The God reveals the perfected expression of elements. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -565,35 +565,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Spirit": {
   "number": 13,
-  "concept": "God of Spirit",
+  "concept": "Spirit",
   "category": "Soul & Spirituality",
   "signature": [
    {
-    "name": "Spirit Lantern: God of Spirit",
-    "description": "The God gathers the signature of god of spirit into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spirit Lantern: Spirit",
+    "description": "The God discerns spirit in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Inner Compass: God in Focus",
-    "description": "The God isolates a property or pattern of god of spirit, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Inner Compass: Spirit in Focus",
+    "description": "The God isolates one property or pattern of spirit, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Sacred Resonance: God's Stewardship",
-    "description": "The God applies god of spirit as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Sacred Resonance: Spirit's Stewardship",
+    "description": "The God applies spirit as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Soul Concordance: God of Spirit",
-    "description": "The God coordinates several expressions of god of spirit at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Soul Concordance: Spirit",
+    "description": "The God coordinates several expressions of spirit at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Transcendent Passage: God Synthesis",
-    "description": "The God combines the deepest principles of god of spirit into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Transcendent Passage: Spirit Synthesis",
+    "description": "The God combines the deepest principles of spirit into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Heart Beyond Form: God of Spirit",
-   "description": "The God reveals the perfected expression of god of spirit. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Heart Beyond Form: Spirit",
+   "description": "The God reveals the perfected expression of spirit. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -612,35 +612,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Senses": {
   "number": 14,
-  "concept": "God of Senses",
+  "concept": "Senses",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Senses",
-    "description": "The God gathers the signature of god of senses into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Senses",
+    "description": "The God perceives senses in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of senses, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Senses in Focus",
+    "description": "The God isolates one property or pattern of senses, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of senses as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Senses's Stewardship",
+    "description": "The God applies senses as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Senses",
-    "description": "The God coordinates several expressions of god of senses at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Senses",
+    "description": "The God coordinates several expressions of senses at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of senses into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Senses Synthesis",
+    "description": "The God combines the deepest principles of senses into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Senses",
-   "description": "The God reveals the perfected expression of god of senses. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Senses",
+   "description": "The God reveals the perfected expression of senses. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -659,35 +659,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Value": {
   "number": 15,
-  "concept": "God of Value",
+  "concept": "Value",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Value",
-    "description": "The God gathers the signature of god of value into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Value",
+    "description": "The God assesss value in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of value, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Value in Focus",
+    "description": "The God isolates one property or pattern of value, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of value as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Value's Stewardship",
+    "description": "The God applies value as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Value",
-    "description": "The God coordinates several expressions of god of value at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Value",
+    "description": "The God coordinates several expressions of value at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of value into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Value Synthesis",
+    "description": "The God combines the deepest principles of value into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Value",
-   "description": "The God reveals the perfected expression of god of value. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Value",
+   "description": "The God reveals the perfected expression of value. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -706,35 +706,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Tools": {
   "number": 16,
-  "concept": "God of Tools",
+  "concept": "Tools",
   "category": "Engineering & Digital Systems",
   "signature": [
    {
-    "name": "Blueprint Manifest: God of Tools",
-    "description": "The God gathers the signature of god of tools into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Blueprint Manifest: Tools",
+    "description": "The God designs tools in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Faultfinder: God in Focus",
-    "description": "The God isolates a property or pattern of god of tools, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Faultfinder: Tools in Focus",
+    "description": "The God isolates one property or pattern of tools, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Precision Assembly: God's Stewardship",
-    "description": "The God applies god of tools as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Precision Assembly: Tools's Stewardship",
+    "description": "The God applies tools as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Self-Correcting Architecture: God of Tools",
-    "description": "The God coordinates several expressions of god of tools at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Self-Correcting Architecture: Tools",
+    "description": "The God coordinates several expressions of tools at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Total Integration: God Synthesis",
-    "description": "The God combines the deepest principles of god of tools into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Total Integration: Tools Synthesis",
+    "description": "The God combines the deepest principles of tools into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Masterwork Engine: God of Tools",
-   "description": "The God reveals the perfected expression of god of tools. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Masterwork Engine: Tools",
+   "description": "The God reveals the perfected expression of tools. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -753,35 +753,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Minerals": {
   "number": 17,
-  "concept": "God of Minerals",
+  "concept": "Minerals",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Minerals",
-    "description": "The God gathers the signature of god of minerals into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Minerals",
+    "description": "The God manifests minerals in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of minerals, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Minerals in Focus",
+    "description": "The God isolates one property or pattern of minerals, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of minerals as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Minerals's Stewardship",
+    "description": "The God applies minerals as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Minerals",
-    "description": "The God coordinates several expressions of god of minerals at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Minerals",
+    "description": "The God coordinates several expressions of minerals at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of minerals into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Minerals Synthesis",
+    "description": "The God combines the deepest principles of minerals into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Minerals",
-   "description": "The God reveals the perfected expression of god of minerals. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Minerals",
+   "description": "The God reveals the perfected expression of minerals. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -800,35 +800,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Number": {
   "number": 18,
-  "concept": "God of Number",
+  "concept": "Number",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Number",
-    "description": "The God gathers the signature of god of number into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Number",
+    "description": "The God defines number in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of number, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Number in Focus",
+    "description": "The God isolates one property or pattern of number, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of number as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Number's Stewardship",
+    "description": "The God applies number as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Number",
-    "description": "The God coordinates several expressions of god of number at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Number",
+    "description": "The God coordinates several expressions of number at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of number into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Number Synthesis",
+    "description": "The God combines the deepest principles of number into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Number",
-   "description": "The God reveals the perfected expression of god of number. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Number",
+   "description": "The God reveals the perfected expression of number. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -847,35 +847,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Order": {
   "number": 19,
-  "concept": "God of Order",
+  "concept": "Order",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Order",
-    "description": "The God gathers the signature of god of order into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Order",
+    "description": "The God organizes order in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of order, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Order in Focus",
+    "description": "The God isolates one property or pattern of order, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of order as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Order's Stewardship",
+    "description": "The God applies order as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Order",
-    "description": "The God coordinates several expressions of god of order at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Order",
+    "description": "The God coordinates several expressions of order at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of order into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Order Synthesis",
+    "description": "The God combines the deepest principles of order into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Order",
-   "description": "The God reveals the perfected expression of god of order. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Order",
+   "description": "The God reveals the perfected expression of order. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -894,35 +894,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Property": {
   "number": 20,
-  "concept": "God of Property",
+  "concept": "Property",
   "category": "Possibility & Reality",
   "signature": [
    {
-    "name": "Boundary of Being: God of Property",
-    "description": "The God gathers the signature of god of property into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Boundary of Being: Property",
+    "description": "The God defines property in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Branch: God in Focus",
-    "description": "The God isolates a property or pattern of god of property, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Branch: Property in Focus",
+    "description": "The God isolates one property or pattern of property, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proof of Presence: God's Stewardship",
-    "description": "The God applies god of property as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proof of Presence: Property's Stewardship",
+    "description": "The God applies property as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Potential Actualization: God of Property",
-    "description": "The God coordinates several expressions of god of property at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Potential Actualization: Property",
+    "description": "The God coordinates several expressions of property at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Reality's Framework: God Synthesis",
-    "description": "The God combines the deepest principles of god of property into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Reality's Framework: Property Synthesis",
+    "description": "The God combines the deepest principles of property into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The One Certain World: God of Property",
-   "description": "The God reveals the perfected expression of god of property. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The One Certain World: Property",
+   "description": "The God reveals the perfected expression of property. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -941,35 +941,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of World": {
   "number": 21,
-  "concept": "God of World",
+  "concept": "World",
   "category": "Space & Cosmology",
   "signature": [
    {
-    "name": "Celestial Bearing: God of World",
-    "description": "The God gathers the signature of god of world into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Celestial Bearing: World",
+    "description": "The God maps world in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Orbital Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of world, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Orbital Thread: World in Focus",
+    "description": "The God isolates one property or pattern of world, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Far-Reach Sight: God's Stewardship",
-    "description": "The God applies god of world as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Far-Reach Sight: World's Stewardship",
+    "description": "The God applies world as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constellation Alignment: God of World",
-    "description": "The God coordinates several expressions of god of world at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constellation Alignment: World",
+    "description": "The God coordinates several expressions of world at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Worldline Architecture: God Synthesis",
-    "description": "The God combines the deepest principles of god of world into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Worldline Architecture: World Synthesis",
+    "description": "The God combines the deepest principles of world into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Firmament: God of World",
-   "description": "The God reveals the perfected expression of god of world. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Firmament: World",
+   "description": "The God reveals the perfected expression of world. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -988,35 +988,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Antimatter": {
   "number": 22,
-  "concept": "God of Antimatter",
+  "concept": "Antimatter",
   "category": "Space & Cosmology",
   "signature": [
    {
-    "name": "Celestial Bearing: God of Antimatter",
-    "description": "The God gathers the signature of god of antimatter into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Celestial Bearing: Antimatter",
+    "description": "The God maps antimatter in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Orbital Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of antimatter, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Orbital Thread: Antimatter in Focus",
+    "description": "The God isolates one property or pattern of antimatter, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Far-Reach Sight: God's Stewardship",
-    "description": "The God applies god of antimatter as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Far-Reach Sight: Antimatter's Stewardship",
+    "description": "The God applies antimatter as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constellation Alignment: God of Antimatter",
-    "description": "The God coordinates several expressions of god of antimatter at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constellation Alignment: Antimatter",
+    "description": "The God coordinates several expressions of antimatter at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Worldline Architecture: God Synthesis",
-    "description": "The God combines the deepest principles of god of antimatter into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Worldline Architecture: Antimatter Synthesis",
+    "description": "The God combines the deepest principles of antimatter into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Firmament: God of Antimatter",
-   "description": "The God reveals the perfected expression of god of antimatter. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Firmament: Antimatter",
+   "description": "The God reveals the perfected expression of antimatter. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1035,35 +1035,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Disaster": {
   "number": 23,
-  "concept": "God of Disaster",
+  "concept": "Disaster",
   "category": "Conflict & Strategy",
   "signature": [
    {
-    "name": "Threat Reading: God of Disaster",
-    "description": "The God gathers the signature of god of disaster into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Threat Reading: Disaster",
+    "description": "The God detects disaster in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Guardline: God in Focus",
-    "description": "The God isolates a property or pattern of god of disaster, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Guardline: Disaster in Focus",
+    "description": "The God isolates one property or pattern of disaster, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Countermove: God's Stewardship",
-    "description": "The God applies god of disaster as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Countermove: Disaster's Stewardship",
+    "description": "The God applies disaster as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Battlefield of One: God of Disaster",
-    "description": "The God coordinates several expressions of god of disaster at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Battlefield of One: Disaster",
+    "description": "The God coordinates several expressions of disaster at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Counterstrategy: God Synthesis",
-    "description": "The God combines the deepest principles of god of disaster into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Counterstrategy: Disaster Synthesis",
+    "description": "The God combines the deepest principles of disaster into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Final Checkmate: God of Disaster",
-   "description": "The God reveals the perfected expression of god of disaster. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Final Checkmate: Disaster",
+   "description": "The God reveals the perfected expression of disaster. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1082,35 +1082,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Proton": {
   "number": 24,
-  "concept": "God of Proton",
+  "concept": "Proton",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Proton",
-    "description": "The God gathers the signature of god of proton into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Proton",
+    "description": "The God manifests proton in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of proton, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Proton in Focus",
+    "description": "The God isolates one property or pattern of proton, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of proton as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Proton's Stewardship",
+    "description": "The God applies proton as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Proton",
-    "description": "The God coordinates several expressions of god of proton at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Proton",
+    "description": "The God coordinates several expressions of proton at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of proton into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Proton Synthesis",
+    "description": "The God combines the deepest principles of proton into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Proton",
-   "description": "The God reveals the perfected expression of god of proton. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Proton",
+   "description": "The God reveals the perfected expression of proton. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1129,35 +1129,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Electron": {
   "number": 25,
-  "concept": "God of Electron",
+  "concept": "Electron",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Electron",
-    "description": "The God gathers the signature of god of electron into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Electron",
+    "description": "The God manifests electron in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of electron, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Electron in Focus",
+    "description": "The God isolates one property or pattern of electron, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of electron as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Electron's Stewardship",
+    "description": "The God applies electron as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Electron",
-    "description": "The God coordinates several expressions of god of electron at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Electron",
+    "description": "The God coordinates several expressions of electron at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of electron into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Electron Synthesis",
+    "description": "The God combines the deepest principles of electron into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Electron",
-   "description": "The God reveals the perfected expression of god of electron. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Electron",
+   "description": "The God reveals the perfected expression of electron. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1176,35 +1176,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Neutron": {
   "number": 26,
-  "concept": "God of Neutron",
+  "concept": "Neutron",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Neutron",
-    "description": "The God gathers the signature of god of neutron into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Neutron",
+    "description": "The God manifests neutron in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of neutron, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Neutron in Focus",
+    "description": "The God isolates one property or pattern of neutron, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of neutron as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Neutron's Stewardship",
+    "description": "The God applies neutron as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Neutron",
-    "description": "The God coordinates several expressions of god of neutron at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Neutron",
+    "description": "The God coordinates several expressions of neutron at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of neutron into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Neutron Synthesis",
+    "description": "The God combines the deepest principles of neutron into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Neutron",
-   "description": "The God reveals the perfected expression of god of neutron. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Neutron",
+   "description": "The God reveals the perfected expression of neutron. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1223,35 +1223,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Zero": {
   "number": 27,
-  "concept": "God of Zero",
+  "concept": "Zero",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Zero",
-    "description": "The God gathers the signature of god of zero into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Zero",
+    "description": "The God defines zero in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of zero, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Zero in Focus",
+    "description": "The God isolates one property or pattern of zero, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of zero as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Zero's Stewardship",
+    "description": "The God applies zero as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Zero",
-    "description": "The God coordinates several expressions of god of zero at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Zero",
+    "description": "The God coordinates several expressions of zero at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of zero into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Zero Synthesis",
+    "description": "The God combines the deepest principles of zero into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Zero",
-   "description": "The God reveals the perfected expression of god of zero. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Zero",
+   "description": "The God reveals the perfected expression of zero. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1270,35 +1270,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of One": {
   "number": 28,
-  "concept": "God of One",
+  "concept": "One",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of One",
-    "description": "The God gathers the signature of god of one into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: One",
+    "description": "The God defines one in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of one, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: One in Focus",
+    "description": "The God isolates one property or pattern of one, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of one as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: One's Stewardship",
+    "description": "The God applies one as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of One",
-    "description": "The God coordinates several expressions of god of one at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: One",
+    "description": "The God coordinates several expressions of one at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of one into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: One Synthesis",
+    "description": "The God combines the deepest principles of one into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of One",
-   "description": "The God reveals the perfected expression of god of one. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: One",
+   "description": "The God reveals the perfected expression of one. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1317,35 +1317,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Two": {
   "number": 29,
-  "concept": "God of Two",
+  "concept": "Two",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Two",
-    "description": "The God gathers the signature of god of two into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Two",
+    "description": "The God defines two in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of two, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Two in Focus",
+    "description": "The God isolates one property or pattern of two, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of two as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Two's Stewardship",
+    "description": "The God applies two as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Two",
-    "description": "The God coordinates several expressions of god of two at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Two",
+    "description": "The God coordinates several expressions of two at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of two into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Two Synthesis",
+    "description": "The God combines the deepest principles of two into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Two",
-   "description": "The God reveals the perfected expression of god of two. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Two",
+   "description": "The God reveals the perfected expression of two. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1364,35 +1364,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Three": {
   "number": 30,
-  "concept": "God of Three",
+  "concept": "Three",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Three",
-    "description": "The God gathers the signature of god of three into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Three",
+    "description": "The God defines three in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of three, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Three in Focus",
+    "description": "The God isolates one property or pattern of three, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of three as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Three's Stewardship",
+    "description": "The God applies three as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Three",
-    "description": "The God coordinates several expressions of god of three at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Three",
+    "description": "The God coordinates several expressions of three at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of three into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Three Synthesis",
+    "description": "The God combines the deepest principles of three into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Three",
-   "description": "The God reveals the perfected expression of god of three. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Three",
+   "description": "The God reveals the perfected expression of three. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1411,35 +1411,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Four": {
   "number": 31,
-  "concept": "God of Four",
+  "concept": "Four",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Four",
-    "description": "The God gathers the signature of god of four into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Four",
+    "description": "The God defines four in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of four, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Four in Focus",
+    "description": "The God isolates one property or pattern of four, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of four as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Four's Stewardship",
+    "description": "The God applies four as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Four",
-    "description": "The God coordinates several expressions of god of four at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Four",
+    "description": "The God coordinates several expressions of four at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of four into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Four Synthesis",
+    "description": "The God combines the deepest principles of four into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Four",
-   "description": "The God reveals the perfected expression of god of four. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Four",
+   "description": "The God reveals the perfected expression of four. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1458,35 +1458,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Five": {
   "number": 32,
-  "concept": "God of Five",
+  "concept": "Five",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Five",
-    "description": "The God gathers the signature of god of five into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Five",
+    "description": "The God defines five in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of five, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Five in Focus",
+    "description": "The God isolates one property or pattern of five, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of five as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Five's Stewardship",
+    "description": "The God applies five as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Five",
-    "description": "The God coordinates several expressions of god of five at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Five",
+    "description": "The God coordinates several expressions of five at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of five into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Five Synthesis",
+    "description": "The God combines the deepest principles of five into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Five",
-   "description": "The God reveals the perfected expression of god of five. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Five",
+   "description": "The God reveals the perfected expression of five. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1505,35 +1505,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Six": {
   "number": 33,
-  "concept": "God of Six",
+  "concept": "Six",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Six",
-    "description": "The God gathers the signature of god of six into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Six",
+    "description": "The God defines six in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of six, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Six in Focus",
+    "description": "The God isolates one property or pattern of six, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of six as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Six's Stewardship",
+    "description": "The God applies six as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Six",
-    "description": "The God coordinates several expressions of god of six at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Six",
+    "description": "The God coordinates several expressions of six at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of six into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Six Synthesis",
+    "description": "The God combines the deepest principles of six into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Six",
-   "description": "The God reveals the perfected expression of god of six. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Six",
+   "description": "The God reveals the perfected expression of six. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1552,35 +1552,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Seven": {
   "number": 34,
-  "concept": "God of Seven",
+  "concept": "Seven",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Seven",
-    "description": "The God gathers the signature of god of seven into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Seven",
+    "description": "The God defines seven in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of seven, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Seven in Focus",
+    "description": "The God isolates one property or pattern of seven, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of seven as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Seven's Stewardship",
+    "description": "The God applies seven as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Seven",
-    "description": "The God coordinates several expressions of god of seven at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Seven",
+    "description": "The God coordinates several expressions of seven at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of seven into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Seven Synthesis",
+    "description": "The God combines the deepest principles of seven into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Seven",
-   "description": "The God reveals the perfected expression of god of seven. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Seven",
+   "description": "The God reveals the perfected expression of seven. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1599,35 +1599,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Eight": {
   "number": 35,
-  "concept": "God of Eight",
+  "concept": "Eight",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Eight",
-    "description": "The God gathers the signature of god of eight into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Eight",
+    "description": "The God defines eight in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of eight, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Eight in Focus",
+    "description": "The God isolates one property or pattern of eight, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of eight as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Eight's Stewardship",
+    "description": "The God applies eight as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Eight",
-    "description": "The God coordinates several expressions of god of eight at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Eight",
+    "description": "The God coordinates several expressions of eight at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of eight into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Eight Synthesis",
+    "description": "The God combines the deepest principles of eight into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Eight",
-   "description": "The God reveals the perfected expression of god of eight. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Eight",
+   "description": "The God reveals the perfected expression of eight. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1646,35 +1646,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Nine": {
   "number": 36,
-  "concept": "God of Nine",
+  "concept": "Nine",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Nine",
-    "description": "The God gathers the signature of god of nine into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Nine",
+    "description": "The God defines nine in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of nine, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Nine in Focus",
+    "description": "The God isolates one property or pattern of nine, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of nine as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Nine's Stewardship",
+    "description": "The God applies nine as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Nine",
-    "description": "The God coordinates several expressions of god of nine at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Nine",
+    "description": "The God coordinates several expressions of nine at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of nine into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Nine Synthesis",
+    "description": "The God combines the deepest principles of nine into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Nine",
-   "description": "The God reveals the perfected expression of god of nine. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Nine",
+   "description": "The God reveals the perfected expression of nine. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1693,35 +1693,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Knowledge": {
   "number": 37,
-  "concept": "God of Knowledge",
+  "concept": "Knowledge",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Knowledge",
-    "description": "The God gathers the signature of god of knowledge into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Knowledge",
+    "description": "The God perceives knowledge in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of knowledge, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Knowledge in Focus",
+    "description": "The God isolates one property or pattern of knowledge, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of knowledge as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Knowledge's Stewardship",
+    "description": "The God applies knowledge as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Knowledge",
-    "description": "The God coordinates several expressions of god of knowledge at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Knowledge",
+    "description": "The God coordinates several expressions of knowledge at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of knowledge into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Knowledge Synthesis",
+    "description": "The God combines the deepest principles of knowledge into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Knowledge",
-   "description": "The God reveals the perfected expression of god of knowledge. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Knowledge",
+   "description": "The God reveals the perfected expression of knowledge. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1740,35 +1740,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Experience": {
   "number": 38,
-  "concept": "God of Experience",
+  "concept": "Experience",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Experience",
-    "description": "The God gathers the signature of god of experience into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Experience",
+    "description": "The God perceives experience in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of experience, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Experience in Focus",
+    "description": "The God isolates one property or pattern of experience, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of experience as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Experience's Stewardship",
+    "description": "The God applies experience as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Experience",
-    "description": "The God coordinates several expressions of god of experience at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Experience",
+    "description": "The God coordinates several expressions of experience at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of experience into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Experience Synthesis",
+    "description": "The God combines the deepest principles of experience into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Experience",
-   "description": "The God reveals the perfected expression of god of experience. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Experience",
+   "description": "The God reveals the perfected expression of experience. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1787,35 +1787,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Entertainment": {
   "number": 39,
-  "concept": "God of Entertainment",
+  "concept": "Entertainment",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Entertainment",
-    "description": "The God gathers the signature of god of entertainment into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Entertainment",
+    "description": "The God connects entertainment in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of entertainment, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Entertainment in Focus",
+    "description": "The God isolates one property or pattern of entertainment, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of entertainment as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Entertainment's Stewardship",
+    "description": "The God applies entertainment as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Entertainment",
-    "description": "The God coordinates several expressions of god of entertainment at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Entertainment",
+    "description": "The God coordinates several expressions of entertainment at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of entertainment into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Entertainment Synthesis",
+    "description": "The God combines the deepest principles of entertainment into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Entertainment",
-   "description": "The God reveals the perfected expression of god of entertainment. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Entertainment",
+   "description": "The God reveals the perfected expression of entertainment. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1834,35 +1834,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Institution": {
   "number": 40,
-  "concept": "God of Institution",
+  "concept": "Institution",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Institution",
-    "description": "The God gathers the signature of god of institution into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Institution",
+    "description": "The God organizes institution in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of institution, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Institution in Focus",
+    "description": "The God isolates one property or pattern of institution, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of institution as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Institution's Stewardship",
+    "description": "The God applies institution as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Institution",
-    "description": "The God coordinates several expressions of god of institution at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Institution",
+    "description": "The God coordinates several expressions of institution at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of institution into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Institution Synthesis",
+    "description": "The God combines the deepest principles of institution into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Institution",
-   "description": "The God reveals the perfected expression of god of institution. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Institution",
+   "description": "The God reveals the perfected expression of institution. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -1881,40 +1881,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Growth": {
   "number": 41,
-  "concept": "God of Growth",
+  "concept": "Growth",
   "category": "Life Sciences & Organisms",
   "signature": [
    {
-    "name": "Vital Pulse: God of Growth",
-    "description": "The God gathers the signature of god of growth into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Vital Pulse: Growth",
+    "description": "The God nourishs growth in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Pattern: God in Focus",
-    "description": "The God isolates a property or pattern of god of growth, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Pattern: Growth in Focus",
+    "description": "The God isolates one property or pattern of growth, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Nurture's Hand: God's Stewardship",
-    "description": "The God applies god of growth as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Nurture's Hand: Growth's Stewardship",
+    "description": "The God applies growth as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Whole-System Renewal: God of Growth",
-    "description": "The God coordinates several expressions of god of growth at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Whole-System Renewal: Growth",
+    "description": "The God coordinates several expressions of growth at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Genesis in Balance: God Synthesis",
-    "description": "The God combines the deepest principles of god of growth into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Genesis in Balance: Growth Synthesis",
+    "description": "The God combines the deepest principles of growth into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Everliving Garden: God of Growth",
-   "description": "The God reveals the perfected expression of god of growth. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Everliving Garden: Growth",
+   "description": "The God reveals the perfected expression of growth. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "The God guides living processes but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
     "name": "Operational condition",
@@ -1928,40 +1928,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Decay": {
   "number": 42,
-  "concept": "God of Decay",
+  "concept": "Decay",
   "category": "Death & Transformation",
   "signature": [
    {
-    "name": "Last Petal: God of Decay",
-    "description": "The God gathers the signature of god of decay into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Last Petal: Decay",
+    "description": "The God releases decay in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Unbinding: God in Focus",
-    "description": "The God isolates a property or pattern of god of decay, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Unbinding: Decay in Focus",
+    "description": "The God isolates one property or pattern of decay, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Cycle's Gate: God's Stewardship",
-    "description": "The God applies god of decay as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Cycle's Gate: Decay's Stewardship",
+    "description": "The God applies decay as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Complete Transition: God of Decay",
-    "description": "The God coordinates several expressions of god of decay at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Complete Transition: Decay",
+    "description": "The God coordinates several expressions of decay at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Renewal from Remains: God Synthesis",
-    "description": "The God combines the deepest principles of god of decay into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Renewal from Remains: Decay Synthesis",
+    "description": "The God combines the deepest principles of decay into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Final Turning: God of Decay",
-   "description": "The God reveals the perfected expression of god of decay. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Final Turning: Decay",
+   "description": "The God reveals the perfected expression of decay. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "An ending can be completed only within this God's defined concept; this does not confer authority over every kind of death, destruction, or afterlife."
+    "description": "The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
    },
    {
     "name": "Operational condition",
@@ -1975,35 +1975,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Fire": {
   "number": 43,
-  "concept": "God of Fire",
+  "concept": "Fire",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Fire",
-    "description": "The God gathers the signature of god of fire into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Fire",
+    "description": "The God manifests fire in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of fire, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Fire in Focus",
+    "description": "The God isolates one property or pattern of fire, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of fire as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Fire's Stewardship",
+    "description": "The God applies fire as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Fire",
-    "description": "The God coordinates several expressions of god of fire at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Fire",
+    "description": "The God coordinates several expressions of fire at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of fire into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Fire Synthesis",
+    "description": "The God combines the deepest principles of fire into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Fire",
-   "description": "The God reveals the perfected expression of god of fire. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Fire",
+   "description": "The God reveals the perfected expression of fire. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2022,35 +2022,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Water": {
   "number": 44,
-  "concept": "God of Water",
+  "concept": "Water",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Water",
-    "description": "The God gathers the signature of god of water into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Water",
+    "description": "The God manifests water in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of water, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Water in Focus",
+    "description": "The God isolates one property or pattern of water, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of water as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Water's Stewardship",
+    "description": "The God applies water as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Water",
-    "description": "The God coordinates several expressions of god of water at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Water",
+    "description": "The God coordinates several expressions of water at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of water into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Water Synthesis",
+    "description": "The God combines the deepest principles of water into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Water",
-   "description": "The God reveals the perfected expression of god of water. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Water",
+   "description": "The God reveals the perfected expression of water. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2069,35 +2069,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Air": {
   "number": 45,
-  "concept": "God of Air",
+  "concept": "Air",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Air",
-    "description": "The God gathers the signature of god of air into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Air",
+    "description": "The God manifests air in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of air, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Air in Focus",
+    "description": "The God isolates one property or pattern of air, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of air as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Air's Stewardship",
+    "description": "The God applies air as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Air",
-    "description": "The God coordinates several expressions of god of air at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Air",
+    "description": "The God coordinates several expressions of air at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of air into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Air Synthesis",
+    "description": "The God combines the deepest principles of air into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Air",
-   "description": "The God reveals the perfected expression of god of air. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Air",
+   "description": "The God reveals the perfected expression of air. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2116,35 +2116,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Earth": {
   "number": 46,
-  "concept": "God of Earth",
+  "concept": "Earth",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Earth",
-    "description": "The God gathers the signature of god of earth into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Earth",
+    "description": "The God manifests earth in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of earth, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Earth in Focus",
+    "description": "The God isolates one property or pattern of earth, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of earth as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Earth's Stewardship",
+    "description": "The God applies earth as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Earth",
-    "description": "The God coordinates several expressions of god of earth at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Earth",
+    "description": "The God coordinates several expressions of earth at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of earth into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Earth Synthesis",
+    "description": "The God combines the deepest principles of earth into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Earth",
-   "description": "The God reveals the perfected expression of god of earth. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Earth",
+   "description": "The God reveals the perfected expression of earth. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2163,35 +2163,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Intuition": {
   "number": 47,
-  "concept": "God of Intuition",
+  "concept": "Intuition",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Intuition",
-    "description": "The God gathers the signature of god of intuition into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Intuition",
+    "description": "The God perceives intuition in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of intuition, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Intuition in Focus",
+    "description": "The God isolates one property or pattern of intuition, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of intuition as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Intuition's Stewardship",
+    "description": "The God applies intuition as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Intuition",
-    "description": "The God coordinates several expressions of god of intuition at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Intuition",
+    "description": "The God coordinates several expressions of intuition at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of intuition into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Intuition Synthesis",
+    "description": "The God combines the deepest principles of intuition into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Intuition",
-   "description": "The God reveals the perfected expression of god of intuition. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Intuition",
+   "description": "The God reveals the perfected expression of intuition. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2210,35 +2210,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Intention": {
   "number": 48,
-  "concept": "God of Intention",
+  "concept": "Intention",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Intention",
-    "description": "The God gathers the signature of god of intention into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Intention",
+    "description": "The God perceives intention in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of intention, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Intention in Focus",
+    "description": "The God isolates one property or pattern of intention, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of intention as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Intention's Stewardship",
+    "description": "The God applies intention as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Intention",
-    "description": "The God coordinates several expressions of god of intention at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Intention",
+    "description": "The God coordinates several expressions of intention at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of intention into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Intention Synthesis",
+    "description": "The God combines the deepest principles of intention into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Intention",
-   "description": "The God reveals the perfected expression of god of intention. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Intention",
+   "description": "The God reveals the perfected expression of intention. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2257,35 +2257,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Worth": {
   "number": 49,
-  "concept": "God of Worth",
+  "concept": "Worth",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Worth",
-    "description": "The God gathers the signature of god of worth into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Worth",
+    "description": "The God assesss worth in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of worth, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Worth in Focus",
+    "description": "The God isolates one property or pattern of worth, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of worth as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Worth's Stewardship",
+    "description": "The God applies worth as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Worth",
-    "description": "The God coordinates several expressions of god of worth at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Worth",
+    "description": "The God coordinates several expressions of worth at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of worth into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Worth Synthesis",
+    "description": "The God combines the deepest principles of worth into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Worth",
-   "description": "The God reveals the perfected expression of god of worth. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Worth",
+   "description": "The God reveals the perfected expression of worth. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2304,35 +2304,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Intangible": {
   "number": 50,
-  "concept": "God of Intangible",
+  "concept": "Intangible",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Intangible",
-    "description": "The God gathers the signature of god of intangible into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Intangible",
+    "description": "The God assesss intangible in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of intangible, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Intangible in Focus",
+    "description": "The God isolates one property or pattern of intangible, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of intangible as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Intangible's Stewardship",
+    "description": "The God applies intangible as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Intangible",
-    "description": "The God coordinates several expressions of god of intangible at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Intangible",
+    "description": "The God coordinates several expressions of intangible at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of intangible into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Intangible Synthesis",
+    "description": "The God combines the deepest principles of intangible into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Intangible",
-   "description": "The God reveals the perfected expression of god of intangible. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Intangible",
+   "description": "The God reveals the perfected expression of intangible. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2351,40 +2351,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Drug": {
   "number": 51,
-  "concept": "God of Drug",
+  "concept": "Drug",
   "category": "Life Sciences & Organisms",
   "signature": [
    {
-    "name": "Vital Pulse: God of Drug",
-    "description": "The God gathers the signature of god of drug into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Vital Pulse: Drug",
+    "description": "The God nourishs drug in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Pattern: God in Focus",
-    "description": "The God isolates a property or pattern of god of drug, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Pattern: Drug in Focus",
+    "description": "The God isolates one property or pattern of drug, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Nurture's Hand: God's Stewardship",
-    "description": "The God applies god of drug as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Nurture's Hand: Drug's Stewardship",
+    "description": "The God applies drug as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Whole-System Renewal: God of Drug",
-    "description": "The God coordinates several expressions of god of drug at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Whole-System Renewal: Drug",
+    "description": "The God coordinates several expressions of drug at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Genesis in Balance: God Synthesis",
-    "description": "The God combines the deepest principles of god of drug into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Genesis in Balance: Drug Synthesis",
+    "description": "The God combines the deepest principles of drug into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Everliving Garden: God of Drug",
-   "description": "The God reveals the perfected expression of god of drug. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Everliving Garden: Drug",
+   "description": "The God reveals the perfected expression of drug. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "The God guides living processes but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
     "name": "Operational condition",
@@ -2398,35 +2398,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Technology": {
   "number": 52,
-  "concept": "God of Technology",
+  "concept": "Technology",
   "category": "Engineering & Digital Systems",
   "signature": [
    {
-    "name": "Blueprint Manifest: God of Technology",
-    "description": "The God gathers the signature of god of technology into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Blueprint Manifest: Technology",
+    "description": "The God designs technology in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Faultfinder: God in Focus",
-    "description": "The God isolates a property or pattern of god of technology, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Faultfinder: Technology in Focus",
+    "description": "The God isolates one property or pattern of technology, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Precision Assembly: God's Stewardship",
-    "description": "The God applies god of technology as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Precision Assembly: Technology's Stewardship",
+    "description": "The God applies technology as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Self-Correcting Architecture: God of Technology",
-    "description": "The God coordinates several expressions of god of technology at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Self-Correcting Architecture: Technology",
+    "description": "The God coordinates several expressions of technology at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Total Integration: God Synthesis",
-    "description": "The God combines the deepest principles of god of technology into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Total Integration: Technology Synthesis",
+    "description": "The God combines the deepest principles of technology into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Masterwork Engine: God of Technology",
-   "description": "The God reveals the perfected expression of god of technology. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Masterwork Engine: Technology",
+   "description": "The God reveals the perfected expression of technology. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2445,35 +2445,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Music": {
   "number": 53,
-  "concept": "God of Music",
+  "concept": "Music",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Music",
-    "description": "The God gathers the signature of god of music into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Music",
+    "description": "The God connects music in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of music, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Music in Focus",
+    "description": "The God isolates one property or pattern of music, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of music as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Music's Stewardship",
+    "description": "The God applies music as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Music",
-    "description": "The God coordinates several expressions of god of music at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Music",
+    "description": "The God coordinates several expressions of music at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of music into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Music Synthesis",
+    "description": "The God combines the deepest principles of music into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Music",
-   "description": "The God reveals the perfected expression of god of music. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Music",
+   "description": "The God reveals the perfected expression of music. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2492,35 +2492,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Government": {
   "number": 54,
-  "concept": "God of Government",
+  "concept": "Government",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Government",
-    "description": "The God gathers the signature of god of government into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Government",
+    "description": "The God organizes government in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of government, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Government in Focus",
+    "description": "The God isolates one property or pattern of government, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of government as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Government's Stewardship",
+    "description": "The God applies government as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Government",
-    "description": "The God coordinates several expressions of god of government at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Government",
+    "description": "The God coordinates several expressions of government at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of government into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Government Synthesis",
+    "description": "The God combines the deepest principles of government into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Government",
-   "description": "The God reveals the perfected expression of god of government. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Government",
+   "description": "The God reveals the perfected expression of government. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2544,11 +2544,11 @@ window.GOD_TECHNIQUES = {
   "signature": [
    {
     "name": "Common Ground: Friendship",
-    "description": "The God gathers the signature of friendship into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "description": "The God connects friendship in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
     "name": "Trust-Building Thread: Friendship in Focus",
-    "description": "The God isolates a property or pattern of friendship, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "description": "The God isolates one property or pattern of friendship, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
     "name": "Shared Voice: Friendship's Stewardship",
@@ -2558,7 +2558,7 @@ window.GOD_TECHNIQUES = {
   "advanced": [
    {
     "name": "Community Weave: Friendship",
-    "description": "The God coordinates several expressions of friendship at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "description": "The God coordinates several expressions of friendship at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
     "name": "Concord of Many: Friendship Synthesis",
@@ -2586,35 +2586,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Rank": {
   "number": 56,
-  "concept": "God of Rank",
+  "concept": "Rank",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Rank",
-    "description": "The God gathers the signature of god of rank into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Rank",
+    "description": "The God organizes rank in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of rank, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Rank in Focus",
+    "description": "The God isolates one property or pattern of rank, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of rank as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Rank's Stewardship",
+    "description": "The God applies rank as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Rank",
-    "description": "The God coordinates several expressions of god of rank at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Rank",
+    "description": "The God coordinates several expressions of rank at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of rank into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Rank Synthesis",
+    "description": "The God combines the deepest principles of rank into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Rank",
-   "description": "The God reveals the perfected expression of god of rank. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Rank",
+   "description": "The God reveals the perfected expression of rank. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2633,35 +2633,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Algorithms": {
   "number": 57,
-  "concept": "God of Algorithms",
+  "concept": "Algorithms",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Algorithms",
-    "description": "The God gathers the signature of god of algorithms into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Algorithms",
+    "description": "The God defines algorithms in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of algorithms, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Algorithms in Focus",
+    "description": "The God isolates one property or pattern of algorithms, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of algorithms as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Algorithms's Stewardship",
+    "description": "The God applies algorithms as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Algorithms",
-    "description": "The God coordinates several expressions of god of algorithms at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Algorithms",
+    "description": "The God coordinates several expressions of algorithms at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of algorithms into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Algorithms Synthesis",
+    "description": "The God combines the deepest principles of algorithms into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Algorithms",
-   "description": "The God reveals the perfected expression of god of algorithms. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Algorithms",
+   "description": "The God reveals the perfected expression of algorithms. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2680,35 +2680,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Command": {
   "number": 58,
-  "concept": "God of Command",
+  "concept": "Command",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Command",
-    "description": "The God gathers the signature of god of command into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Command",
+    "description": "The God organizes command in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of command, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Command in Focus",
+    "description": "The God isolates one property or pattern of command, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of command as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Command's Stewardship",
+    "description": "The God applies command as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Command",
-    "description": "The God coordinates several expressions of god of command at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Command",
+    "description": "The God coordinates several expressions of command at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of command into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Command Synthesis",
+    "description": "The God combines the deepest principles of command into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Command",
-   "description": "The God reveals the perfected expression of god of command. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Command",
+   "description": "The God reveals the perfected expression of command. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2727,35 +2727,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Structure": {
   "number": 59,
-  "concept": "God of Structure",
+  "concept": "Structure",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Structure",
-    "description": "The God gathers the signature of god of structure into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Structure",
+    "description": "The God organizes structure in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of structure, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Structure in Focus",
+    "description": "The God isolates one property or pattern of structure, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of structure as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Structure's Stewardship",
+    "description": "The God applies structure as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Structure",
-    "description": "The God coordinates several expressions of god of structure at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Structure",
+    "description": "The God coordinates several expressions of structure at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of structure into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Structure Synthesis",
+    "description": "The God combines the deepest principles of structure into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Structure",
-   "description": "The God reveals the perfected expression of god of structure. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Structure",
+   "description": "The God reveals the perfected expression of structure. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2774,35 +2774,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of December": {
   "number": 60,
-  "concept": "God of December",
+  "concept": "December",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of December",
-    "description": "The God gathers the signature of god of december into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: December",
+    "description": "The God measures december in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of december, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: December in Focus",
+    "description": "The God isolates one property or pattern of december, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of december as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: December's Stewardship",
+    "description": "The God applies december as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of December",
-    "description": "The God coordinates several expressions of god of december at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: December",
+    "description": "The God coordinates several expressions of december at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of december into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: December Synthesis",
+    "description": "The God combines the deepest principles of december into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of December",
-   "description": "The God reveals the perfected expression of god of december. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: December",
+   "description": "The God reveals the perfected expression of december. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2821,35 +2821,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of January": {
   "number": 61,
-  "concept": "God of January",
+  "concept": "January",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of January",
-    "description": "The God gathers the signature of god of january into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: January",
+    "description": "The God measures january in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of january, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: January in Focus",
+    "description": "The God isolates one property or pattern of january, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of january as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: January's Stewardship",
+    "description": "The God applies january as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of January",
-    "description": "The God coordinates several expressions of god of january at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: January",
+    "description": "The God coordinates several expressions of january at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of january into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: January Synthesis",
+    "description": "The God combines the deepest principles of january into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of January",
-   "description": "The God reveals the perfected expression of god of january. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: January",
+   "description": "The God reveals the perfected expression of january. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2868,35 +2868,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of February": {
   "number": 62,
-  "concept": "God of February",
+  "concept": "February",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of February",
-    "description": "The God gathers the signature of god of february into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: February",
+    "description": "The God measures february in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of february, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: February in Focus",
+    "description": "The God isolates one property or pattern of february, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of february as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: February's Stewardship",
+    "description": "The God applies february as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of February",
-    "description": "The God coordinates several expressions of god of february at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: February",
+    "description": "The God coordinates several expressions of february at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of february into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: February Synthesis",
+    "description": "The God combines the deepest principles of february into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of February",
-   "description": "The God reveals the perfected expression of god of february. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: February",
+   "description": "The God reveals the perfected expression of february. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2915,35 +2915,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of March": {
   "number": 63,
-  "concept": "God of March",
+  "concept": "March",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of March",
-    "description": "The God gathers the signature of god of march into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: March",
+    "description": "The God measures march in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of march, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: March in Focus",
+    "description": "The God isolates one property or pattern of march, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of march as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: March's Stewardship",
+    "description": "The God applies march as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of March",
-    "description": "The God coordinates several expressions of god of march at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: March",
+    "description": "The God coordinates several expressions of march at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of march into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: March Synthesis",
+    "description": "The God combines the deepest principles of march into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of March",
-   "description": "The God reveals the perfected expression of god of march. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: March",
+   "description": "The God reveals the perfected expression of march. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -2962,35 +2962,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of April": {
   "number": 64,
-  "concept": "God of April",
+  "concept": "April",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of April",
-    "description": "The God gathers the signature of god of april into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: April",
+    "description": "The God measures april in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of april, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: April in Focus",
+    "description": "The God isolates one property or pattern of april, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of april as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: April's Stewardship",
+    "description": "The God applies april as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of April",
-    "description": "The God coordinates several expressions of god of april at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: April",
+    "description": "The God coordinates several expressions of april at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of april into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: April Synthesis",
+    "description": "The God combines the deepest principles of april into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of April",
-   "description": "The God reveals the perfected expression of god of april. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: April",
+   "description": "The God reveals the perfected expression of april. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3009,35 +3009,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of May": {
   "number": 65,
-  "concept": "God of May",
+  "concept": "May",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of May",
-    "description": "The God gathers the signature of god of may into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: May",
+    "description": "The God measures may in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of may, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: May in Focus",
+    "description": "The God isolates one property or pattern of may, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of may as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: May's Stewardship",
+    "description": "The God applies may as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of May",
-    "description": "The God coordinates several expressions of god of may at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: May",
+    "description": "The God coordinates several expressions of may at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of may into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: May Synthesis",
+    "description": "The God combines the deepest principles of may into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of May",
-   "description": "The God reveals the perfected expression of god of may. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: May",
+   "description": "The God reveals the perfected expression of may. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3056,35 +3056,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of June": {
   "number": 66,
-  "concept": "God of June",
+  "concept": "June",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of June",
-    "description": "The God gathers the signature of god of june into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: June",
+    "description": "The God measures june in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of june, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: June in Focus",
+    "description": "The God isolates one property or pattern of june, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of june as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: June's Stewardship",
+    "description": "The God applies june as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of June",
-    "description": "The God coordinates several expressions of god of june at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: June",
+    "description": "The God coordinates several expressions of june at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of june into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: June Synthesis",
+    "description": "The God combines the deepest principles of june into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of June",
-   "description": "The God reveals the perfected expression of god of june. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: June",
+   "description": "The God reveals the perfected expression of june. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3103,35 +3103,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of July": {
   "number": 67,
-  "concept": "God of July",
+  "concept": "July",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of July",
-    "description": "The God gathers the signature of god of july into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: July",
+    "description": "The God measures july in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of july, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: July in Focus",
+    "description": "The God isolates one property or pattern of july, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of july as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: July's Stewardship",
+    "description": "The God applies july as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of July",
-    "description": "The God coordinates several expressions of god of july at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: July",
+    "description": "The God coordinates several expressions of july at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of july into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: July Synthesis",
+    "description": "The God combines the deepest principles of july into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of July",
-   "description": "The God reveals the perfected expression of god of july. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: July",
+   "description": "The God reveals the perfected expression of july. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3150,35 +3150,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of August": {
   "number": 68,
-  "concept": "God of August",
+  "concept": "August",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of August",
-    "description": "The God gathers the signature of god of august into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: August",
+    "description": "The God measures august in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of august, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: August in Focus",
+    "description": "The God isolates one property or pattern of august, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of august as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: August's Stewardship",
+    "description": "The God applies august as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of August",
-    "description": "The God coordinates several expressions of god of august at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: August",
+    "description": "The God coordinates several expressions of august at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of august into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: August Synthesis",
+    "description": "The God combines the deepest principles of august into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of August",
-   "description": "The God reveals the perfected expression of god of august. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: August",
+   "description": "The God reveals the perfected expression of august. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3197,35 +3197,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of September": {
   "number": 69,
-  "concept": "God of September",
+  "concept": "September",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of September",
-    "description": "The God gathers the signature of god of september into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: September",
+    "description": "The God measures september in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of september, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: September in Focus",
+    "description": "The God isolates one property or pattern of september, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of september as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: September's Stewardship",
+    "description": "The God applies september as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of September",
-    "description": "The God coordinates several expressions of god of september at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: September",
+    "description": "The God coordinates several expressions of september at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of september into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: September Synthesis",
+    "description": "The God combines the deepest principles of september into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of September",
-   "description": "The God reveals the perfected expression of god of september. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: September",
+   "description": "The God reveals the perfected expression of september. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3244,35 +3244,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of October": {
   "number": 70,
-  "concept": "God of October",
+  "concept": "October",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of October",
-    "description": "The God gathers the signature of god of october into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: October",
+    "description": "The God measures october in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of october, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: October in Focus",
+    "description": "The God isolates one property or pattern of october, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of october as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: October's Stewardship",
+    "description": "The God applies october as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of October",
-    "description": "The God coordinates several expressions of god of october at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: October",
+    "description": "The God coordinates several expressions of october at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of october into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: October Synthesis",
+    "description": "The God combines the deepest principles of october into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of October",
-   "description": "The God reveals the perfected expression of god of october. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: October",
+   "description": "The God reveals the perfected expression of october. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3291,35 +3291,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of November": {
   "number": 71,
-  "concept": "God of November",
+  "concept": "November",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of November",
-    "description": "The God gathers the signature of god of november into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: November",
+    "description": "The God measures november in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of november, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: November in Focus",
+    "description": "The God isolates one property or pattern of november, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of november as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: November's Stewardship",
+    "description": "The God applies november as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of November",
-    "description": "The God coordinates several expressions of god of november at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: November",
+    "description": "The God coordinates several expressions of november at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of november into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: November Synthesis",
+    "description": "The God combines the deepest principles of november into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of November",
-   "description": "The God reveals the perfected expression of god of november. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: November",
+   "description": "The God reveals the perfected expression of november. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3338,35 +3338,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Information": {
   "number": 72,
-  "concept": "God of Information",
+  "concept": "Information",
   "category": "Information & Communication",
   "signature": [
    {
-    "name": "Signal Clarity: God of Information",
-    "description": "The God gathers the signature of god of information into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Signal Clarity: Information",
+    "description": "The God encodes information in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Archive: God in Focus",
-    "description": "The God isolates a property or pattern of god of information, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Archive: Information in Focus",
+    "description": "The God isolates one property or pattern of information, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Meaning Bridge: God's Stewardship",
-    "description": "The God applies god of information as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Meaning Bridge: Information's Stewardship",
+    "description": "The God applies information as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Transmission: God of Information",
-    "description": "The God coordinates several expressions of god of information at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Transmission: Information",
+    "description": "The God coordinates several expressions of information at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Open Archive: God Synthesis",
-    "description": "The God combines the deepest principles of god of information into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Open Archive: Information Synthesis",
+    "description": "The God combines the deepest principles of information into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unlost Word: God of Information",
-   "description": "The God reveals the perfected expression of god of information. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unlost Word: Information",
+   "description": "The God reveals the perfected expression of information. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3385,35 +3385,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Permanent": {
   "number": 73,
-  "concept": "God of Permanent",
+  "concept": "Permanent",
   "category": "Possibility & Reality",
   "signature": [
    {
-    "name": "Boundary of Being: God of Permanent",
-    "description": "The God gathers the signature of god of permanent into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Boundary of Being: Permanent",
+    "description": "The God defines permanent in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Branch: God in Focus",
-    "description": "The God isolates a property or pattern of god of permanent, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Branch: Permanent in Focus",
+    "description": "The God isolates one property or pattern of permanent, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proof of Presence: God's Stewardship",
-    "description": "The God applies god of permanent as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proof of Presence: Permanent's Stewardship",
+    "description": "The God applies permanent as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Potential Actualization: God of Permanent",
-    "description": "The God coordinates several expressions of god of permanent at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Potential Actualization: Permanent",
+    "description": "The God coordinates several expressions of permanent at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Reality's Framework: God Synthesis",
-    "description": "The God combines the deepest principles of god of permanent into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Reality's Framework: Permanent Synthesis",
+    "description": "The God combines the deepest principles of permanent into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The One Certain World: God of Permanent",
-   "description": "The God reveals the perfected expression of god of permanent. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The One Certain World: Permanent",
+   "description": "The God reveals the perfected expression of permanent. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3432,35 +3432,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Magnet": {
   "number": 74,
-  "concept": "God of Magnet",
+  "concept": "Magnet",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Magnet",
-    "description": "The God gathers the signature of god of magnet into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Magnet",
+    "description": "The God manifests magnet in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of magnet, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Magnet in Focus",
+    "description": "The God isolates one property or pattern of magnet, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of magnet as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Magnet's Stewardship",
+    "description": "The God applies magnet as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Magnet",
-    "description": "The God coordinates several expressions of god of magnet at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Magnet",
+    "description": "The God coordinates several expressions of magnet at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of magnet into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Magnet Synthesis",
+    "description": "The God combines the deepest principles of magnet into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Magnet",
-   "description": "The God reveals the perfected expression of god of magnet. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Magnet",
+   "description": "The God reveals the perfected expression of magnet. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3479,35 +3479,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Dimension": {
   "number": 75,
-  "concept": "God of Dimension",
+  "concept": "Dimension",
   "category": "Space & Cosmology",
   "signature": [
    {
-    "name": "Celestial Bearing: God of Dimension",
-    "description": "The God gathers the signature of god of dimension into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Celestial Bearing: Dimension",
+    "description": "The God maps dimension in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Orbital Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of dimension, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Orbital Thread: Dimension in Focus",
+    "description": "The God isolates one property or pattern of dimension, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Far-Reach Sight: God's Stewardship",
-    "description": "The God applies god of dimension as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Far-Reach Sight: Dimension's Stewardship",
+    "description": "The God applies dimension as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constellation Alignment: God of Dimension",
-    "description": "The God coordinates several expressions of god of dimension at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constellation Alignment: Dimension",
+    "description": "The God coordinates several expressions of dimension at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Worldline Architecture: God Synthesis",
-    "description": "The God combines the deepest principles of god of dimension into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Worldline Architecture: Dimension Synthesis",
+    "description": "The God combines the deepest principles of dimension into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Firmament: God of Dimension",
-   "description": "The God reveals the perfected expression of god of dimension. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Firmament: Dimension",
+   "description": "The God reveals the perfected expression of dimension. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3526,35 +3526,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Nature": {
   "number": 76,
-  "concept": "God of Nature",
+  "concept": "Nature",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Nature",
-    "description": "The God gathers the signature of god of nature into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Nature",
+    "description": "The God cultivates nature in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of nature, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Nature in Focus",
+    "description": "The God isolates one property or pattern of nature, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of nature as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Nature's Stewardship",
+    "description": "The God applies nature as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Nature",
-    "description": "The God coordinates several expressions of god of nature at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Nature",
+    "description": "The God coordinates several expressions of nature at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of nature into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Nature Synthesis",
+    "description": "The God combines the deepest principles of nature into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Nature",
-   "description": "The God reveals the perfected expression of god of nature. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Nature",
+   "description": "The God reveals the perfected expression of nature. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3573,40 +3573,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Biology": {
   "number": 77,
-  "concept": "God of Biology",
+  "concept": "Biology",
   "category": "Life Sciences & Organisms",
   "signature": [
    {
-    "name": "Vital Pulse: God of Biology",
-    "description": "The God gathers the signature of god of biology into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Vital Pulse: Biology",
+    "description": "The God nourishs biology in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Pattern: God in Focus",
-    "description": "The God isolates a property or pattern of god of biology, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Pattern: Biology in Focus",
+    "description": "The God isolates one property or pattern of biology, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Nurture's Hand: God's Stewardship",
-    "description": "The God applies god of biology as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Nurture's Hand: Biology's Stewardship",
+    "description": "The God applies biology as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Whole-System Renewal: God of Biology",
-    "description": "The God coordinates several expressions of god of biology at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Whole-System Renewal: Biology",
+    "description": "The God coordinates several expressions of biology at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Genesis in Balance: God Synthesis",
-    "description": "The God combines the deepest principles of god of biology into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Genesis in Balance: Biology Synthesis",
+    "description": "The God combines the deepest principles of biology into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Everliving Garden: God of Biology",
-   "description": "The God reveals the perfected expression of god of biology. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Everliving Garden: Biology",
+   "description": "The God reveals the perfected expression of biology. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "The God guides living processes but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
     "name": "Operational condition",
@@ -3620,35 +3620,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Ecology": {
   "number": 78,
-  "concept": "God of Ecology",
+  "concept": "Ecology",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Ecology",
-    "description": "The God gathers the signature of god of ecology into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Ecology",
+    "description": "The God cultivates ecology in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of ecology, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Ecology in Focus",
+    "description": "The God isolates one property or pattern of ecology, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of ecology as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Ecology's Stewardship",
+    "description": "The God applies ecology as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Ecology",
-    "description": "The God coordinates several expressions of god of ecology at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Ecology",
+    "description": "The God coordinates several expressions of ecology at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of ecology into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Ecology Synthesis",
+    "description": "The God combines the deepest principles of ecology into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Ecology",
-   "description": "The God reveals the perfected expression of god of ecology. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Ecology",
+   "description": "The God reveals the perfected expression of ecology. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3667,35 +3667,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Headings": {
   "number": 79,
-  "concept": "God of Headings",
+  "concept": "Headings",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Headings",
-    "description": "The God gathers the signature of god of headings into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Headings",
+    "description": "The God connects headings in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of headings, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Headings in Focus",
+    "description": "The God isolates one property or pattern of headings, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of headings as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Headings's Stewardship",
+    "description": "The God applies headings as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Headings",
-    "description": "The God coordinates several expressions of god of headings at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Headings",
+    "description": "The God coordinates several expressions of headings at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of headings into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Headings Synthesis",
+    "description": "The God combines the deepest principles of headings into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Headings",
-   "description": "The God reveals the perfected expression of god of headings. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Headings",
+   "description": "The God reveals the perfected expression of headings. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3714,35 +3714,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of T": {
   "number": 80,
-  "concept": "God of T",
+  "concept": "T",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of T",
-    "description": "The God gathers the signature of god of t into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: T",
+    "description": "The God connects t in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of t, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: T in Focus",
+    "description": "The God isolates one property or pattern of t, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of t as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: T's Stewardship",
+    "description": "The God applies t as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of T",
-    "description": "The God coordinates several expressions of god of t at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: T",
+    "description": "The God coordinates several expressions of t at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of t into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: T Synthesis",
+    "description": "The God combines the deepest principles of t into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of T",
-   "description": "The God reveals the perfected expression of god of t. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: T",
+   "description": "The God reveals the perfected expression of t. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3761,35 +3761,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Y": {
   "number": 81,
-  "concept": "God of Y",
+  "concept": "Y",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Y",
-    "description": "The God gathers the signature of god of y into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Y",
+    "description": "The God connects y in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of y, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Y in Focus",
+    "description": "The God isolates one property or pattern of y, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of y as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Y's Stewardship",
+    "description": "The God applies y as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Y",
-    "description": "The God coordinates several expressions of god of y at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Y",
+    "description": "The God coordinates several expressions of y at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of y into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Y Synthesis",
+    "description": "The God combines the deepest principles of y into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Y",
-   "description": "The God reveals the perfected expression of god of y. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Y",
+   "description": "The God reveals the perfected expression of y. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3808,35 +3808,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Forecast": {
   "number": 82,
-  "concept": "God of Forecast",
+  "concept": "Forecast",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Forecast",
-    "description": "The God gathers the signature of god of forecast into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Forecast",
+    "description": "The God perceives forecast in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of forecast, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Forecast in Focus",
+    "description": "The God isolates one property or pattern of forecast, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of forecast as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Forecast's Stewardship",
+    "description": "The God applies forecast as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Forecast",
-    "description": "The God coordinates several expressions of god of forecast at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Forecast",
+    "description": "The God coordinates several expressions of forecast at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of forecast into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Forecast Synthesis",
+    "description": "The God combines the deepest principles of forecast into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Forecast",
-   "description": "The God reveals the perfected expression of god of forecast. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Forecast",
+   "description": "The God reveals the perfected expression of forecast. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3855,35 +3855,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Prediction": {
   "number": 83,
-  "concept": "God of Prediction",
+  "concept": "Prediction",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Prediction",
-    "description": "The God gathers the signature of god of prediction into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Prediction",
+    "description": "The God perceives prediction in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of prediction, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Prediction in Focus",
+    "description": "The God isolates one property or pattern of prediction, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of prediction as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Prediction's Stewardship",
+    "description": "The God applies prediction as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Prediction",
-    "description": "The God coordinates several expressions of god of prediction at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Prediction",
+    "description": "The God coordinates several expressions of prediction at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of prediction into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Prediction Synthesis",
+    "description": "The God combines the deepest principles of prediction into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Prediction",
-   "description": "The God reveals the perfected expression of god of prediction. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Prediction",
+   "description": "The God reveals the perfected expression of prediction. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3902,35 +3902,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Science": {
   "number": 84,
-  "concept": "God of Science",
+  "concept": "Science",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Science",
-    "description": "The God gathers the signature of god of science into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Science",
+    "description": "The God perceives science in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of science, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Science in Focus",
+    "description": "The God isolates one property or pattern of science, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of science as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Science's Stewardship",
+    "description": "The God applies science as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Science",
-    "description": "The God coordinates several expressions of god of science at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Science",
+    "description": "The God coordinates several expressions of science at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of science into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Science Synthesis",
+    "description": "The God combines the deepest principles of science into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Science",
-   "description": "The God reveals the perfected expression of god of science. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Science",
+   "description": "The God reveals the perfected expression of science. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3949,35 +3949,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Equation": {
   "number": 85,
-  "concept": "God of Equation",
+  "concept": "Equation",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Equation",
-    "description": "The God gathers the signature of god of equation into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Equation",
+    "description": "The God defines equation in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of equation, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Equation in Focus",
+    "description": "The God isolates one property or pattern of equation, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of equation as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Equation's Stewardship",
+    "description": "The God applies equation as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Equation",
-    "description": "The God coordinates several expressions of god of equation at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Equation",
+    "description": "The God coordinates several expressions of equation at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of equation into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Equation Synthesis",
+    "description": "The God combines the deepest principles of equation into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Equation",
-   "description": "The God reveals the perfected expression of god of equation. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Equation",
+   "description": "The God reveals the perfected expression of equation. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -3996,35 +3996,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Formula": {
   "number": 86,
-  "concept": "God of Formula",
+  "concept": "Formula",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Formula",
-    "description": "The God gathers the signature of god of formula into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Formula",
+    "description": "The God defines formula in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of formula, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Formula in Focus",
+    "description": "The God isolates one property or pattern of formula, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of formula as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Formula's Stewardship",
+    "description": "The God applies formula as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Formula",
-    "description": "The God coordinates several expressions of god of formula at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Formula",
+    "description": "The God coordinates several expressions of formula at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of formula into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Formula Synthesis",
+    "description": "The God combines the deepest principles of formula into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Formula",
-   "description": "The God reveals the perfected expression of god of formula. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Formula",
+   "description": "The God reveals the perfected expression of formula. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4043,35 +4043,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Accumulated": {
   "number": 87,
-  "concept": "God of Accumulated",
+  "concept": "Accumulated",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Accumulated",
-    "description": "The God gathers the signature of god of accumulated into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Accumulated",
+    "description": "The God perceives accumulated in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of accumulated, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Accumulated in Focus",
+    "description": "The God isolates one property or pattern of accumulated, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of accumulated as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Accumulated's Stewardship",
+    "description": "The God applies accumulated as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Accumulated",
-    "description": "The God coordinates several expressions of god of accumulated at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Accumulated",
+    "description": "The God coordinates several expressions of accumulated at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of accumulated into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Accumulated Synthesis",
+    "description": "The God combines the deepest principles of accumulated into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Accumulated",
-   "description": "The God reveals the perfected expression of god of accumulated. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Accumulated",
+   "description": "The God reveals the perfected expression of accumulated. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4090,35 +4090,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Conscious": {
   "number": 88,
-  "concept": "God of Conscious",
+  "concept": "Conscious",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Conscious",
-    "description": "The God gathers the signature of god of conscious into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Conscious",
+    "description": "The God perceives conscious in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of conscious, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Conscious in Focus",
+    "description": "The God isolates one property or pattern of conscious, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of conscious as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Conscious's Stewardship",
+    "description": "The God applies conscious as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Conscious",
-    "description": "The God coordinates several expressions of god of conscious at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Conscious",
+    "description": "The God coordinates several expressions of conscious at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of conscious into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Conscious Synthesis",
+    "description": "The God combines the deepest principles of conscious into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Conscious",
-   "description": "The God reveals the perfected expression of god of conscious. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Conscious",
+   "description": "The God reveals the perfected expression of conscious. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4137,35 +4137,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Wisdom": {
   "number": 89,
-  "concept": "God of Wisdom",
+  "concept": "Wisdom",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Wisdom",
-    "description": "The God gathers the signature of god of wisdom into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Wisdom",
+    "description": "The God perceives wisdom in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of wisdom, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Wisdom in Focus",
+    "description": "The God isolates one property or pattern of wisdom, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of wisdom as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Wisdom's Stewardship",
+    "description": "The God applies wisdom as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Wisdom",
-    "description": "The God coordinates several expressions of god of wisdom at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Wisdom",
+    "description": "The God coordinates several expressions of wisdom at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of wisdom into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Wisdom Synthesis",
+    "description": "The God combines the deepest principles of wisdom into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Wisdom",
-   "description": "The God reveals the perfected expression of god of wisdom. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Wisdom",
+   "description": "The God reveals the perfected expression of wisdom. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4184,40 +4184,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Birth": {
   "number": 90,
-  "concept": "God of Birth",
+  "concept": "Birth",
   "category": "Life Sciences & Organisms",
   "signature": [
    {
-    "name": "Vital Pulse: God of Birth",
-    "description": "The God gathers the signature of god of birth into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Vital Pulse: Birth",
+    "description": "The God nourishs birth in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Pattern: God in Focus",
-    "description": "The God isolates a property or pattern of god of birth, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Pattern: Birth in Focus",
+    "description": "The God isolates one property or pattern of birth, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Nurture's Hand: God's Stewardship",
-    "description": "The God applies god of birth as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Nurture's Hand: Birth's Stewardship",
+    "description": "The God applies birth as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Whole-System Renewal: God of Birth",
-    "description": "The God coordinates several expressions of god of birth at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Whole-System Renewal: Birth",
+    "description": "The God coordinates several expressions of birth at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Genesis in Balance: God Synthesis",
-    "description": "The God combines the deepest principles of god of birth into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Genesis in Balance: Birth Synthesis",
+    "description": "The God combines the deepest principles of birth into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Everliving Garden: God of Birth",
-   "description": "The God reveals the perfected expression of god of birth. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Everliving Garden: Birth",
+   "description": "The God reveals the perfected expression of birth. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "The God guides living processes but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
     "name": "Operational condition",
@@ -4231,40 +4231,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Improvement": {
   "number": 91,
-  "concept": "God of Improvement",
+  "concept": "Improvement",
   "category": "Life Sciences & Organisms",
   "signature": [
    {
-    "name": "Vital Pulse: God of Improvement",
-    "description": "The God gathers the signature of god of improvement into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Vital Pulse: Improvement",
+    "description": "The God nourishs improvement in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Pattern: God in Focus",
-    "description": "The God isolates a property or pattern of god of improvement, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Pattern: Improvement in Focus",
+    "description": "The God isolates one property or pattern of improvement, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Nurture's Hand: God's Stewardship",
-    "description": "The God applies god of improvement as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Nurture's Hand: Improvement's Stewardship",
+    "description": "The God applies improvement as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Whole-System Renewal: God of Improvement",
-    "description": "The God coordinates several expressions of god of improvement at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Whole-System Renewal: Improvement",
+    "description": "The God coordinates several expressions of improvement at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Genesis in Balance: God Synthesis",
-    "description": "The God combines the deepest principles of god of improvement into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Genesis in Balance: Improvement Synthesis",
+    "description": "The God combines the deepest principles of improvement into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Everliving Garden: God of Improvement",
-   "description": "The God reveals the perfected expression of god of improvement. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Everliving Garden: Improvement",
+   "description": "The God reveals the perfected expression of improvement. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "The God guides living processes but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
     "name": "Operational condition",
@@ -4278,40 +4278,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Death": {
   "number": 92,
-  "concept": "God of Death",
+  "concept": "Death",
   "category": "Death & Transformation",
   "signature": [
    {
-    "name": "Last Petal: God of Death",
-    "description": "The God gathers the signature of god of death into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Last Petal: Death",
+    "description": "The God releases death in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Unbinding: God in Focus",
-    "description": "The God isolates a property or pattern of god of death, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Unbinding: Death in Focus",
+    "description": "The God isolates one property or pattern of death, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Cycle's Gate: God's Stewardship",
-    "description": "The God applies god of death as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Cycle's Gate: Death's Stewardship",
+    "description": "The God applies death as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Complete Transition: God of Death",
-    "description": "The God coordinates several expressions of god of death at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Complete Transition: Death",
+    "description": "The God coordinates several expressions of death at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Renewal from Remains: God Synthesis",
-    "description": "The God combines the deepest principles of god of death into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Renewal from Remains: Death Synthesis",
+    "description": "The God combines the deepest principles of death into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Final Turning: God of Death",
-   "description": "The God reveals the perfected expression of god of death. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Final Turning: Death",
+   "description": "The God reveals the perfected expression of death. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "An ending can be completed only within this God's defined concept; this does not confer authority over every kind of death, destruction, or afterlife."
+    "description": "The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
    },
    {
     "name": "Operational condition",
@@ -4325,40 +4325,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Destruction": {
   "number": 93,
-  "concept": "God of Destruction",
+  "concept": "Destruction",
   "category": "Death & Transformation",
   "signature": [
    {
-    "name": "Last Petal: God of Destruction",
-    "description": "The God gathers the signature of god of destruction into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Last Petal: Destruction",
+    "description": "The God releases destruction in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Unbinding: God in Focus",
-    "description": "The God isolates a property or pattern of god of destruction, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Unbinding: Destruction in Focus",
+    "description": "The God isolates one property or pattern of destruction, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Cycle's Gate: God's Stewardship",
-    "description": "The God applies god of destruction as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Cycle's Gate: Destruction's Stewardship",
+    "description": "The God applies destruction as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Complete Transition: God of Destruction",
-    "description": "The God coordinates several expressions of god of destruction at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Complete Transition: Destruction",
+    "description": "The God coordinates several expressions of destruction at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Renewal from Remains: God Synthesis",
-    "description": "The God combines the deepest principles of god of destruction into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Renewal from Remains: Destruction Synthesis",
+    "description": "The God combines the deepest principles of destruction into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Final Turning: God of Destruction",
-   "description": "The God reveals the perfected expression of god of destruction. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Final Turning: Destruction",
+   "description": "The God reveals the perfected expression of destruction. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "An ending can be completed only within this God's defined concept; this does not confer authority over every kind of death, destruction, or afterlife."
+    "description": "The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
    },
    {
     "name": "Operational condition",
@@ -4372,35 +4372,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Electricity": {
   "number": 94,
-  "concept": "God of Electricity",
+  "concept": "Electricity",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Electricity",
-    "description": "The God gathers the signature of god of electricity into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Electricity",
+    "description": "The God manifests electricity in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of electricity, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Electricity in Focus",
+    "description": "The God isolates one property or pattern of electricity, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of electricity as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Electricity's Stewardship",
+    "description": "The God applies electricity as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Electricity",
-    "description": "The God coordinates several expressions of god of electricity at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Electricity",
+    "description": "The God coordinates several expressions of electricity at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of electricity into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Electricity Synthesis",
+    "description": "The God combines the deepest principles of electricity into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Electricity",
-   "description": "The God reveals the perfected expression of god of electricity. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Electricity",
+   "description": "The God reveals the perfected expression of electricity. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4424,11 +4424,11 @@ window.GOD_TECHNIQUES = {
   "signature": [
    {
     "name": "Vital Pulse: Heal",
-    "description": "The God gathers the signature of heal into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "description": "The God nourishs heal in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
     "name": "Living Pattern: Heal in Focus",
-    "description": "The God isolates a property or pattern of heal, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "description": "The God isolates one property or pattern of heal, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
     "name": "Nurture's Hand: Heal's Stewardship",
@@ -4438,7 +4438,7 @@ window.GOD_TECHNIQUES = {
   "advanced": [
    {
     "name": "Whole-System Renewal: Heal",
-    "description": "The God coordinates several expressions of heal at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "description": "The God coordinates several expressions of heal at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
     "name": "Genesis in Balance: Heal Synthesis",
@@ -4452,7 +4452,7 @@ window.GOD_TECHNIQUES = {
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "The God guides living processes but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
     "name": "Operational condition",
@@ -4466,35 +4466,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Metal": {
   "number": 96,
-  "concept": "God of Metal",
+  "concept": "Metal",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Metal",
-    "description": "The God gathers the signature of god of metal into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Metal",
+    "description": "The God manifests metal in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of metal, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Metal in Focus",
+    "description": "The God isolates one property or pattern of metal, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of metal as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Metal's Stewardship",
+    "description": "The God applies metal as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Metal",
-    "description": "The God coordinates several expressions of god of metal at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Metal",
+    "description": "The God coordinates several expressions of metal at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of metal into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Metal Synthesis",
+    "description": "The God combines the deepest principles of metal into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Metal",
-   "description": "The God reveals the perfected expression of god of metal. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Metal",
+   "description": "The God reveals the perfected expression of metal. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4513,35 +4513,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Wood": {
   "number": 97,
-  "concept": "God of Wood",
+  "concept": "Wood",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Wood",
-    "description": "The God gathers the signature of god of wood into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Wood",
+    "description": "The God manifests wood in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of wood, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Wood in Focus",
+    "description": "The God isolates one property or pattern of wood, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of wood as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Wood's Stewardship",
+    "description": "The God applies wood as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Wood",
-    "description": "The God coordinates several expressions of god of wood at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Wood",
+    "description": "The God coordinates several expressions of wood at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of wood into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Wood Synthesis",
+    "description": "The God combines the deepest principles of wood into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Wood",
-   "description": "The God reveals the perfected expression of god of wood. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Wood",
+   "description": "The God reveals the perfected expression of wood. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4560,35 +4560,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Money": {
   "number": 98,
-  "concept": "God of Money",
+  "concept": "Money",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Money",
-    "description": "The God gathers the signature of god of money into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Money",
+    "description": "The God assesss money in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of money, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Money in Focus",
+    "description": "The God isolates one property or pattern of money, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of money as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Money's Stewardship",
+    "description": "The God applies money as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Money",
-    "description": "The God coordinates several expressions of god of money at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Money",
+    "description": "The God coordinates several expressions of money at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of money into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Money Synthesis",
+    "description": "The God combines the deepest principles of money into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Money",
-   "description": "The God reveals the perfected expression of god of money. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Money",
+   "description": "The God reveals the perfected expression of money. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4607,35 +4607,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Reputation": {
   "number": 99,
-  "concept": "God of Reputation",
+  "concept": "Reputation",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Reputation",
-    "description": "The God gathers the signature of god of reputation into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Reputation",
+    "description": "The God assesss reputation in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of reputation, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Reputation in Focus",
+    "description": "The God isolates one property or pattern of reputation, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of reputation as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Reputation's Stewardship",
+    "description": "The God applies reputation as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Reputation",
-    "description": "The God coordinates several expressions of god of reputation at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Reputation",
+    "description": "The God coordinates several expressions of reputation at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of reputation into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Reputation Synthesis",
+    "description": "The God combines the deepest principles of reputation into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Reputation",
-   "description": "The God reveals the perfected expression of god of reputation. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Reputation",
+   "description": "The God reveals the perfected expression of reputation. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4654,35 +4654,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Soul": {
   "number": 100,
-  "concept": "God of Soul",
+  "concept": "Soul",
   "category": "Soul & Spirituality",
   "signature": [
    {
-    "name": "Spirit Lantern: God of Soul",
-    "description": "The God gathers the signature of god of soul into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spirit Lantern: Soul",
+    "description": "The God discerns soul in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Inner Compass: God in Focus",
-    "description": "The God isolates a property or pattern of god of soul, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Inner Compass: Soul in Focus",
+    "description": "The God isolates one property or pattern of soul, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Sacred Resonance: God's Stewardship",
-    "description": "The God applies god of soul as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Sacred Resonance: Soul's Stewardship",
+    "description": "The God applies soul as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Soul Concordance: God of Soul",
-    "description": "The God coordinates several expressions of god of soul at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Soul Concordance: Soul",
+    "description": "The God coordinates several expressions of soul at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Transcendent Passage: God Synthesis",
-    "description": "The God combines the deepest principles of god of soul into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Transcendent Passage: Soul Synthesis",
+    "description": "The God combines the deepest principles of soul into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Heart Beyond Form: God of Soul",
-   "description": "The God reveals the perfected expression of god of soul. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Heart Beyond Form: Soul",
+   "description": "The God reveals the perfected expression of soul. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4701,35 +4701,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Relation": {
   "number": 101,
-  "concept": "God of Relation",
+  "concept": "Relation",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Relation",
-    "description": "The God gathers the signature of god of relation into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Relation",
+    "description": "The God connects relation in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of relation, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Relation in Focus",
+    "description": "The God isolates one property or pattern of relation, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of relation as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Relation's Stewardship",
+    "description": "The God applies relation as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Relation",
-    "description": "The God coordinates several expressions of god of relation at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Relation",
+    "description": "The God coordinates several expressions of relation at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of relation into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Relation Synthesis",
+    "description": "The God combines the deepest principles of relation into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Relation",
-   "description": "The God reveals the perfected expression of god of relation. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Relation",
+   "description": "The God reveals the perfected expression of relation. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4748,35 +4748,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Domestic": {
   "number": 102,
-  "concept": "God of Domestic",
+  "concept": "Domestic",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Domestic",
-    "description": "The God gathers the signature of god of domestic into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Domestic",
+    "description": "The God connects domestic in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of domestic, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Domestic in Focus",
+    "description": "The God isolates one property or pattern of domestic, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of domestic as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Domestic's Stewardship",
+    "description": "The God applies domestic as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Domestic",
-    "description": "The God coordinates several expressions of god of domestic at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Domestic",
+    "description": "The God coordinates several expressions of domestic at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of domestic into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Domestic Synthesis",
+    "description": "The God combines the deepest principles of domestic into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Domestic",
-   "description": "The God reveals the perfected expression of god of domestic. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Domestic",
+   "description": "The God reveals the perfected expression of domestic. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4795,35 +4795,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of International": {
   "number": 103,
-  "concept": "God of International",
+  "concept": "International",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of International",
-    "description": "The God gathers the signature of god of international into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: International",
+    "description": "The God connects international in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of international, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: International in Focus",
+    "description": "The God isolates one property or pattern of international, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of international as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: International's Stewardship",
+    "description": "The God applies international as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of International",
-    "description": "The God coordinates several expressions of god of international at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: International",
+    "description": "The God coordinates several expressions of international at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of international into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: International Synthesis",
+    "description": "The God combines the deepest principles of international into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of International",
-   "description": "The God reveals the perfected expression of god of international. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: International",
+   "description": "The God reveals the perfected expression of international. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4842,35 +4842,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Software": {
   "number": 104,
-  "concept": "God of Software",
+  "concept": "Software",
   "category": "Engineering & Digital Systems",
   "signature": [
    {
-    "name": "Blueprint Manifest: God of Software",
-    "description": "The God gathers the signature of god of software into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Blueprint Manifest: Software",
+    "description": "The God designs software in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Faultfinder: God in Focus",
-    "description": "The God isolates a property or pattern of god of software, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Faultfinder: Software in Focus",
+    "description": "The God isolates one property or pattern of software, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Precision Assembly: God's Stewardship",
-    "description": "The God applies god of software as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Precision Assembly: Software's Stewardship",
+    "description": "The God applies software as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Self-Correcting Architecture: God of Software",
-    "description": "The God coordinates several expressions of god of software at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Self-Correcting Architecture: Software",
+    "description": "The God coordinates several expressions of software at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Total Integration: God Synthesis",
-    "description": "The God combines the deepest principles of god of software into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Total Integration: Software Synthesis",
+    "description": "The God combines the deepest principles of software into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Masterwork Engine: God of Software",
-   "description": "The God reveals the perfected expression of god of software. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Masterwork Engine: Software",
+   "description": "The God reveals the perfected expression of software. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4889,35 +4889,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Hardware": {
   "number": 105,
-  "concept": "God of Hardware",
+  "concept": "Hardware",
   "category": "Engineering & Digital Systems",
   "signature": [
    {
-    "name": "Blueprint Manifest: God of Hardware",
-    "description": "The God gathers the signature of god of hardware into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Blueprint Manifest: Hardware",
+    "description": "The God designs hardware in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Faultfinder: God in Focus",
-    "description": "The God isolates a property or pattern of god of hardware, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Faultfinder: Hardware in Focus",
+    "description": "The God isolates one property or pattern of hardware, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Precision Assembly: God's Stewardship",
-    "description": "The God applies god of hardware as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Precision Assembly: Hardware's Stewardship",
+    "description": "The God applies hardware as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Self-Correcting Architecture: God of Hardware",
-    "description": "The God coordinates several expressions of god of hardware at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Self-Correcting Architecture: Hardware",
+    "description": "The God coordinates several expressions of hardware at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Total Integration: God Synthesis",
-    "description": "The God combines the deepest principles of god of hardware into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Total Integration: Hardware Synthesis",
+    "description": "The God combines the deepest principles of hardware into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Masterwork Engine: God of Hardware",
-   "description": "The God reveals the perfected expression of god of hardware. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Masterwork Engine: Hardware",
+   "description": "The God reveals the perfected expression of hardware. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4936,35 +4936,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Internet": {
   "number": 106,
-  "concept": "God of Internet",
+  "concept": "Internet",
   "category": "Engineering & Digital Systems",
   "signature": [
    {
-    "name": "Blueprint Manifest: God of Internet",
-    "description": "The God gathers the signature of god of internet into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Blueprint Manifest: Internet",
+    "description": "The God designs internet in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Faultfinder: God in Focus",
-    "description": "The God isolates a property or pattern of god of internet, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Faultfinder: Internet in Focus",
+    "description": "The God isolates one property or pattern of internet, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Precision Assembly: God's Stewardship",
-    "description": "The God applies god of internet as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Precision Assembly: Internet's Stewardship",
+    "description": "The God applies internet as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Self-Correcting Architecture: God of Internet",
-    "description": "The God coordinates several expressions of god of internet at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Self-Correcting Architecture: Internet",
+    "description": "The God coordinates several expressions of internet at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Total Integration: God Synthesis",
-    "description": "The God combines the deepest principles of god of internet into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Total Integration: Internet Synthesis",
+    "description": "The God combines the deepest principles of internet into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Masterwork Engine: God of Internet",
-   "description": "The God reveals the perfected expression of god of internet. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Masterwork Engine: Internet",
+   "description": "The God reveals the perfected expression of internet. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -4983,35 +4983,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Competition": {
   "number": 107,
-  "concept": "God of Competition",
+  "concept": "Competition",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Competition",
-    "description": "The God gathers the signature of god of competition into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Competition",
+    "description": "The God assesss competition in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of competition, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Competition in Focus",
+    "description": "The God isolates one property or pattern of competition, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of competition as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Competition's Stewardship",
+    "description": "The God applies competition as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Competition",
-    "description": "The God coordinates several expressions of god of competition at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Competition",
+    "description": "The God coordinates several expressions of competition at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of competition into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Competition Synthesis",
+    "description": "The God combines the deepest principles of competition into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Competition",
-   "description": "The God reveals the perfected expression of god of competition. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Competition",
+   "description": "The God reveals the perfected expression of competition. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5030,35 +5030,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Forum": {
   "number": 108,
-  "concept": "God of Forum",
+  "concept": "Forum",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Forum",
-    "description": "The God gathers the signature of god of forum into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Forum",
+    "description": "The God connects forum in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of forum, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Forum in Focus",
+    "description": "The God isolates one property or pattern of forum, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of forum as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Forum's Stewardship",
+    "description": "The God applies forum as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Forum",
-    "description": "The God coordinates several expressions of god of forum at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Forum",
+    "description": "The God coordinates several expressions of forum at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of forum into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Forum Synthesis",
+    "description": "The God combines the deepest principles of forum into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Forum",
-   "description": "The God reveals the perfected expression of god of forum. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Forum",
+   "description": "The God reveals the perfected expression of forum. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5077,35 +5077,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Variables": {
   "number": 109,
-  "concept": "God of Variables",
+  "concept": "Variables",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Variables",
-    "description": "The God gathers the signature of god of variables into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Variables",
+    "description": "The God defines variables in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of variables, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Variables in Focus",
+    "description": "The God isolates one property or pattern of variables, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of variables as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Variables's Stewardship",
+    "description": "The God applies variables as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Variables",
-    "description": "The God coordinates several expressions of god of variables at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Variables",
+    "description": "The God coordinates several expressions of variables at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of variables into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Variables Synthesis",
+    "description": "The God combines the deepest principles of variables into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Variables",
-   "description": "The God reveals the perfected expression of god of variables. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Variables",
+   "description": "The God reveals the perfected expression of variables. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5124,35 +5124,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Relativity": {
   "number": 110,
-  "concept": "God of Relativity",
+  "concept": "Relativity",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Relativity",
-    "description": "The God gathers the signature of god of relativity into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Relativity",
+    "description": "The God defines relativity in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of relativity, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Relativity in Focus",
+    "description": "The God isolates one property or pattern of relativity, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of relativity as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Relativity's Stewardship",
+    "description": "The God applies relativity as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Relativity",
-    "description": "The God coordinates several expressions of god of relativity at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Relativity",
+    "description": "The God coordinates several expressions of relativity at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of relativity into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Relativity Synthesis",
+    "description": "The God combines the deepest principles of relativity into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Relativity",
-   "description": "The God reveals the perfected expression of god of relativity. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Relativity",
+   "description": "The God reveals the perfected expression of relativity. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5171,35 +5171,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Enforcement": {
   "number": 111,
-  "concept": "God of Enforcement",
+  "concept": "Enforcement",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Enforcement",
-    "description": "The God gathers the signature of god of enforcement into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Enforcement",
+    "description": "The God organizes enforcement in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of enforcement, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Enforcement in Focus",
+    "description": "The God isolates one property or pattern of enforcement, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of enforcement as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Enforcement's Stewardship",
+    "description": "The God applies enforcement as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Enforcement",
-    "description": "The God coordinates several expressions of god of enforcement at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Enforcement",
+    "description": "The God coordinates several expressions of enforcement at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of enforcement into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Enforcement Synthesis",
+    "description": "The God combines the deepest principles of enforcement into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Enforcement",
-   "description": "The God reveals the perfected expression of god of enforcement. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Enforcement",
+   "description": "The God reveals the perfected expression of enforcement. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5218,35 +5218,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Hierarchy": {
   "number": 112,
-  "concept": "God of Hierarchy",
+  "concept": "Hierarchy",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Hierarchy",
-    "description": "The God gathers the signature of god of hierarchy into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Hierarchy",
+    "description": "The God organizes hierarchy in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of hierarchy, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Hierarchy in Focus",
+    "description": "The God isolates one property or pattern of hierarchy, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of hierarchy as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Hierarchy's Stewardship",
+    "description": "The God applies hierarchy as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Hierarchy",
-    "description": "The God coordinates several expressions of god of hierarchy at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Hierarchy",
+    "description": "The God coordinates several expressions of hierarchy at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of hierarchy into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Hierarchy Synthesis",
+    "description": "The God combines the deepest principles of hierarchy into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Hierarchy",
-   "description": "The God reveals the perfected expression of god of hierarchy. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Hierarchy",
+   "description": "The God reveals the perfected expression of hierarchy. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5265,35 +5265,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Responsibility": {
   "number": 113,
-  "concept": "God of Responsibility",
+  "concept": "Responsibility",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Responsibility",
-    "description": "The God gathers the signature of god of responsibility into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Responsibility",
+    "description": "The God organizes responsibility in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of responsibility, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Responsibility in Focus",
+    "description": "The God isolates one property or pattern of responsibility, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of responsibility as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Responsibility's Stewardship",
+    "description": "The God applies responsibility as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Responsibility",
-    "description": "The God coordinates several expressions of god of responsibility at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Responsibility",
+    "description": "The God coordinates several expressions of responsibility at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of responsibility into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Responsibility Synthesis",
+    "description": "The God combines the deepest principles of responsibility into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Responsibility",
-   "description": "The God reveals the perfected expression of god of responsibility. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Responsibility",
+   "description": "The God reveals the perfected expression of responsibility. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5312,35 +5312,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Caution": {
   "number": 114,
-  "concept": "God of Caution",
+  "concept": "Caution",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Caution",
-    "description": "The God gathers the signature of god of caution into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Caution",
+    "description": "The God organizes caution in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of caution, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Caution in Focus",
+    "description": "The God isolates one property or pattern of caution, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of caution as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Caution's Stewardship",
+    "description": "The God applies caution as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Caution",
-    "description": "The God coordinates several expressions of god of caution at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Caution",
+    "description": "The God coordinates several expressions of caution at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of caution into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Caution Synthesis",
+    "description": "The God combines the deepest principles of caution into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Caution",
-   "description": "The God reveals the perfected expression of god of caution. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Caution",
+   "description": "The God reveals the perfected expression of caution. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5359,35 +5359,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Family": {
   "number": 115,
-  "concept": "God of Family",
+  "concept": "Family",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Family",
-    "description": "The God gathers the signature of god of family into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Family",
+    "description": "The God connects family in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of family, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Family in Focus",
+    "description": "The God isolates one property or pattern of family, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of family as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Family's Stewardship",
+    "description": "The God applies family as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Family",
-    "description": "The God coordinates several expressions of god of family at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Family",
+    "description": "The God coordinates several expressions of family at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of family into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Family Synthesis",
+    "description": "The God combines the deepest principles of family into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Family",
-   "description": "The God reveals the perfected expression of god of family. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Family",
+   "description": "The God reveals the perfected expression of family. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5406,35 +5406,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Economy": {
   "number": 116,
-  "concept": "God of Economy",
+  "concept": "Economy",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Economy",
-    "description": "The God gathers the signature of god of economy into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Economy",
+    "description": "The God assesss economy in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of economy, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Economy in Focus",
+    "description": "The God isolates one property or pattern of economy, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of economy as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Economy's Stewardship",
+    "description": "The God applies economy as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Economy",
-    "description": "The God coordinates several expressions of god of economy at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Economy",
+    "description": "The God coordinates several expressions of economy at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of economy into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Economy Synthesis",
+    "description": "The God combines the deepest principles of economy into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Economy",
-   "description": "The God reveals the perfected expression of god of economy. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Economy",
+   "description": "The God reveals the perfected expression of economy. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5453,35 +5453,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Cycle": {
   "number": 117,
-  "concept": "God of Cycle",
+  "concept": "Cycle",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Cycle",
-    "description": "The God gathers the signature of god of cycle into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Cycle",
+    "description": "The God measures cycle in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of cycle, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Cycle in Focus",
+    "description": "The God isolates one property or pattern of cycle, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of cycle as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Cycle's Stewardship",
+    "description": "The God applies cycle as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Cycle",
-    "description": "The God coordinates several expressions of god of cycle at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Cycle",
+    "description": "The God coordinates several expressions of cycle at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of cycle into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Cycle Synthesis",
+    "description": "The God combines the deepest principles of cycle into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Cycle",
-   "description": "The God reveals the perfected expression of god of cycle. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Cycle",
+   "description": "The God reveals the perfected expression of cycle. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5500,35 +5500,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Communication": {
   "number": 118,
-  "concept": "God of Communication",
+  "concept": "Communication",
   "category": "Information & Communication",
   "signature": [
    {
-    "name": "Signal Clarity: God of Communication",
-    "description": "The God gathers the signature of god of communication into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Signal Clarity: Communication",
+    "description": "The God encodes communication in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Archive: God in Focus",
-    "description": "The God isolates a property or pattern of god of communication, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Archive: Communication in Focus",
+    "description": "The God isolates one property or pattern of communication, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Meaning Bridge: God's Stewardship",
-    "description": "The God applies god of communication as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Meaning Bridge: Communication's Stewardship",
+    "description": "The God applies communication as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Transmission: God of Communication",
-    "description": "The God coordinates several expressions of god of communication at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Transmission: Communication",
+    "description": "The God coordinates several expressions of communication at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Open Archive: God Synthesis",
-    "description": "The God combines the deepest principles of god of communication into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Open Archive: Communication Synthesis",
+    "description": "The God combines the deepest principles of communication into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unlost Word: God of Communication",
-   "description": "The God reveals the perfected expression of god of communication. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unlost Word: Communication",
+   "description": "The God reveals the perfected expression of communication. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5547,35 +5547,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Access": {
   "number": 119,
-  "concept": "God of Access",
+  "concept": "Access",
   "category": "Information & Communication",
   "signature": [
    {
-    "name": "Signal Clarity: God of Access",
-    "description": "The God gathers the signature of god of access into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Signal Clarity: Access",
+    "description": "The God encodes access in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Archive: God in Focus",
-    "description": "The God isolates a property or pattern of god of access, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Archive: Access in Focus",
+    "description": "The God isolates one property or pattern of access, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Meaning Bridge: God's Stewardship",
-    "description": "The God applies god of access as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Meaning Bridge: Access's Stewardship",
+    "description": "The God applies access as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Transmission: God of Access",
-    "description": "The God coordinates several expressions of god of access at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Transmission: Access",
+    "description": "The God coordinates several expressions of access at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Open Archive: God Synthesis",
-    "description": "The God combines the deepest principles of god of access into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Open Archive: Access Synthesis",
+    "description": "The God combines the deepest principles of access into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unlost Word: God of Access",
-   "description": "The God reveals the perfected expression of god of access. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unlost Word: Access",
+   "description": "The God reveals the perfected expression of access. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5594,35 +5594,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Changes": {
   "number": 120,
-  "concept": "God of Changes",
+  "concept": "Changes",
   "category": "Information & Communication",
   "signature": [
    {
-    "name": "Signal Clarity: God of Changes",
-    "description": "The God gathers the signature of god of changes into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Signal Clarity: Changes",
+    "description": "The God encodes changes in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Archive: God in Focus",
-    "description": "The God isolates a property or pattern of god of changes, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Archive: Changes in Focus",
+    "description": "The God isolates one property or pattern of changes, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Meaning Bridge: God's Stewardship",
-    "description": "The God applies god of changes as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Meaning Bridge: Changes's Stewardship",
+    "description": "The God applies changes as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Transmission: God of Changes",
-    "description": "The God coordinates several expressions of god of changes at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Transmission: Changes",
+    "description": "The God coordinates several expressions of changes at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Open Archive: God Synthesis",
-    "description": "The God combines the deepest principles of god of changes into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Open Archive: Changes Synthesis",
+    "description": "The God combines the deepest principles of changes into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unlost Word: God of Changes",
-   "description": "The God reveals the perfected expression of god of changes. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unlost Word: Changes",
+   "description": "The God reveals the perfected expression of changes. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5641,35 +5641,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Black": {
   "number": 121,
-  "concept": "God of Black",
+  "concept": "Black",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Black",
-    "description": "The God gathers the signature of god of black into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Black",
+    "description": "The God perceives black in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of black, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Black in Focus",
+    "description": "The God isolates one property or pattern of black, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of black as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Black's Stewardship",
+    "description": "The God applies black as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Black",
-    "description": "The God coordinates several expressions of god of black at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Black",
+    "description": "The God coordinates several expressions of black at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of black into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Black Synthesis",
+    "description": "The God combines the deepest principles of black into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Black",
-   "description": "The God reveals the perfected expression of god of black. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Black",
+   "description": "The God reveals the perfected expression of black. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5693,11 +5693,11 @@ window.GOD_TECHNIQUES = {
   "signature": [
    {
     "name": "Elemental Signature: Yellow and Gold",
-    "description": "The God gathers the signature of yellow and gold into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "description": "The God manifests yellow and gold in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
     "name": "Resonant State: Yellow in Focus",
-    "description": "The God isolates a property or pattern of yellow and gold, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "description": "The God isolates one property or pattern of yellow and gold, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
     "name": "Measured Force: Yellow's Stewardship",
@@ -5707,7 +5707,7 @@ window.GOD_TECHNIQUES = {
   "advanced": [
    {
     "name": "Transmutation Accord: Yellow and Gold",
-    "description": "The God coordinates several expressions of yellow and gold at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "description": "The God coordinates several expressions of yellow and gold at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
     "name": "Perfect Equilibrium: Yellow Synthesis",
@@ -5735,35 +5735,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Human World": {
   "number": 123,
-  "concept": "God of Human World",
+  "concept": "Human World",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Human World",
-    "description": "The God gathers the signature of god of human world into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Human World",
+    "description": "The God connects human world in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of human world, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Human in Focus",
+    "description": "The God isolates one property or pattern of human world, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of human world as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Human's Stewardship",
+    "description": "The God applies human world as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Human World",
-    "description": "The God coordinates several expressions of god of human world at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Human World",
+    "description": "The God coordinates several expressions of human world at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of human world into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Human Synthesis",
+    "description": "The God combines the deepest principles of human world into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Human World",
-   "description": "The God reveals the perfected expression of god of human world. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Human World",
+   "description": "The God reveals the perfected expression of human world. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5782,35 +5782,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Cyber World": {
   "number": 124,
-  "concept": "God of Cyber World",
+  "concept": "Cyber World",
   "category": "Engineering & Digital Systems",
   "signature": [
    {
-    "name": "Blueprint Manifest: God of Cyber World",
-    "description": "The God gathers the signature of god of cyber world into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Blueprint Manifest: Cyber World",
+    "description": "The God designs cyber world in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Faultfinder: God in Focus",
-    "description": "The God isolates a property or pattern of god of cyber world, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Faultfinder: Cyber in Focus",
+    "description": "The God isolates one property or pattern of cyber world, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Precision Assembly: God's Stewardship",
-    "description": "The God applies god of cyber world as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Precision Assembly: Cyber's Stewardship",
+    "description": "The God applies cyber world as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Self-Correcting Architecture: God of Cyber World",
-    "description": "The God coordinates several expressions of god of cyber world at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Self-Correcting Architecture: Cyber World",
+    "description": "The God coordinates several expressions of cyber world at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Total Integration: God Synthesis",
-    "description": "The God combines the deepest principles of god of cyber world into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Total Integration: Cyber Synthesis",
+    "description": "The God combines the deepest principles of cyber world into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Masterwork Engine: God of Cyber World",
-   "description": "The God reveals the perfected expression of god of cyber world. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Masterwork Engine: Cyber World",
+   "description": "The God reveals the perfected expression of cyber world. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5829,35 +5829,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Levels": {
   "number": 125,
-  "concept": "God of Levels",
+  "concept": "Levels",
   "category": "Possibility & Reality",
   "signature": [
    {
-    "name": "Boundary of Being: God of Levels",
-    "description": "The God gathers the signature of god of levels into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Boundary of Being: Levels",
+    "description": "The God defines levels in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Branch: God in Focus",
-    "description": "The God isolates a property or pattern of god of levels, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Branch: Levels in Focus",
+    "description": "The God isolates one property or pattern of levels, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proof of Presence: God's Stewardship",
-    "description": "The God applies god of levels as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proof of Presence: Levels's Stewardship",
+    "description": "The God applies levels as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Potential Actualization: God of Levels",
-    "description": "The God coordinates several expressions of god of levels at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Potential Actualization: Levels",
+    "description": "The God coordinates several expressions of levels at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Reality's Framework: God Synthesis",
-    "description": "The God combines the deepest principles of god of levels into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Reality's Framework: Levels Synthesis",
+    "description": "The God combines the deepest principles of levels into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The One Certain World: God of Levels",
-   "description": "The God reveals the perfected expression of god of levels. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The One Certain World: Levels",
+   "description": "The God reveals the perfected expression of levels. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5876,35 +5876,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Sky": {
   "number": 126,
-  "concept": "God of Sky",
+  "concept": "Sky",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Sky",
-    "description": "The God gathers the signature of god of sky into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Sky",
+    "description": "The God cultivates sky in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of sky, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Sky in Focus",
+    "description": "The God isolates one property or pattern of sky, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of sky as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Sky's Stewardship",
+    "description": "The God applies sky as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Sky",
-    "description": "The God coordinates several expressions of god of sky at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Sky",
+    "description": "The God coordinates several expressions of sky at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of sky into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Sky Synthesis",
+    "description": "The God combines the deepest principles of sky into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Sky",
-   "description": "The God reveals the perfected expression of god of sky. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Sky",
+   "description": "The God reveals the perfected expression of sky. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5923,35 +5923,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Ocean": {
   "number": 127,
-  "concept": "God of Ocean",
+  "concept": "Ocean",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Ocean",
-    "description": "The God gathers the signature of god of ocean into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Ocean",
+    "description": "The God cultivates ocean in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of ocean, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Ocean in Focus",
+    "description": "The God isolates one property or pattern of ocean, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of ocean as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Ocean's Stewardship",
+    "description": "The God applies ocean as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Ocean",
-    "description": "The God coordinates several expressions of god of ocean at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Ocean",
+    "description": "The God coordinates several expressions of ocean at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of ocean into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Ocean Synthesis",
+    "description": "The God combines the deepest principles of ocean into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Ocean",
-   "description": "The God reveals the perfected expression of god of ocean. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Ocean",
+   "description": "The God reveals the perfected expression of ocean. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -5970,35 +5970,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Land": {
   "number": 128,
-  "concept": "God of Land",
+  "concept": "Land",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Land",
-    "description": "The God gathers the signature of god of land into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Land",
+    "description": "The God cultivates land in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of land, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Land in Focus",
+    "description": "The God isolates one property or pattern of land, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of land as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Land's Stewardship",
+    "description": "The God applies land as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Land",
-    "description": "The God coordinates several expressions of god of land at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Land",
+    "description": "The God coordinates several expressions of land at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of land into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Land Synthesis",
+    "description": "The God combines the deepest principles of land into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Land",
-   "description": "The God reveals the perfected expression of god of land. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Land",
+   "description": "The God reveals the perfected expression of land. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6022,11 +6022,11 @@ window.GOD_TECHNIQUES = {
   "signature": [
    {
     "name": "Marked Hour: the zodiac as an integrated symbolic system",
-    "description": "The God gathers the signature of the zodiac as an integrated symbolic system into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "description": "The God measures the zodiac as an integrated symbolic system in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
     "name": "Cycle Recognition: the in Focus",
-    "description": "The God isolates a property or pattern of the zodiac as an integrated symbolic system, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "description": "The God isolates one property or pattern of the zodiac as an integrated symbolic system, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
     "name": "Calendar Thread: the's Stewardship",
@@ -6036,7 +6036,7 @@ window.GOD_TECHNIQUES = {
   "advanced": [
    {
     "name": "Convergent Calendar: the zodiac as an integrated symbolic system",
-    "description": "The God coordinates several expressions of the zodiac as an integrated symbolic system at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "description": "The God coordinates several expressions of the zodiac as an integrated symbolic system at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
     "name": "Chronicle Synchrony: the Synthesis",
@@ -6064,40 +6064,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Vitamin": {
   "number": 130,
-  "concept": "God of Vitamin",
+  "concept": "Vitamin",
   "category": "Life Sciences & Organisms",
   "signature": [
    {
-    "name": "Vital Pulse: God of Vitamin",
-    "description": "The God gathers the signature of god of vitamin into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Vital Pulse: Vitamin",
+    "description": "The God nourishs vitamin in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Pattern: God in Focus",
-    "description": "The God isolates a property or pattern of god of vitamin, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Pattern: Vitamin in Focus",
+    "description": "The God isolates one property or pattern of vitamin, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Nurture's Hand: God's Stewardship",
-    "description": "The God applies god of vitamin as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Nurture's Hand: Vitamin's Stewardship",
+    "description": "The God applies vitamin as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Whole-System Renewal: God of Vitamin",
-    "description": "The God coordinates several expressions of god of vitamin at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Whole-System Renewal: Vitamin",
+    "description": "The God coordinates several expressions of vitamin at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Genesis in Balance: God Synthesis",
-    "description": "The God combines the deepest principles of god of vitamin into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Genesis in Balance: Vitamin Synthesis",
+    "description": "The God combines the deepest principles of vitamin into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Everliving Garden: God of Vitamin",
-   "description": "The God reveals the perfected expression of god of vitamin. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Everliving Garden: Vitamin",
+   "description": "The God reveals the perfected expression of vitamin. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "The God guides living processes but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
     "name": "Operational condition",
@@ -6111,35 +6111,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Volume": {
   "number": 131,
-  "concept": "God of Volume",
+  "concept": "Volume",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Volume",
-    "description": "The God gathers the signature of god of volume into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Volume",
+    "description": "The God manifests volume in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of volume, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Volume in Focus",
+    "description": "The God isolates one property or pattern of volume, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of volume as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Volume's Stewardship",
+    "description": "The God applies volume as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Volume",
-    "description": "The God coordinates several expressions of god of volume at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Volume",
+    "description": "The God coordinates several expressions of volume at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of volume into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Volume Synthesis",
+    "description": "The God combines the deepest principles of volume into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Volume",
-   "description": "The God reveals the perfected expression of god of volume. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Volume",
+   "description": "The God reveals the perfected expression of volume. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6158,35 +6158,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Density": {
   "number": 132,
-  "concept": "God of Density",
+  "concept": "Density",
   "category": "Physical Matter & Energy",
   "signature": [
    {
-    "name": "Elemental Signature: God of Density",
-    "description": "The God gathers the signature of god of density into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Elemental Signature: Density",
+    "description": "The God manifests density in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant State: God in Focus",
-    "description": "The God isolates a property or pattern of god of density, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant State: Density in Focus",
+    "description": "The God isolates one property or pattern of density, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Measured Force: God's Stewardship",
-    "description": "The God applies god of density as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Measured Force: Density's Stewardship",
+    "description": "The God applies density as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Transmutation Accord: God of Density",
-    "description": "The God coordinates several expressions of god of density at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Transmutation Accord: Density",
+    "description": "The God coordinates several expressions of density at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Equilibrium: God Synthesis",
-    "description": "The God combines the deepest principles of god of density into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Equilibrium: Density Synthesis",
+    "description": "The God combines the deepest principles of density into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Prime Expression: God of Density",
-   "description": "The God reveals the perfected expression of god of density. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Prime Expression: Density",
+   "description": "The God reveals the perfected expression of density. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6205,35 +6205,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Imaginery": {
   "number": 133,
-  "concept": "God of Imaginery",
+  "concept": "Imaginery",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Imaginery",
-    "description": "The God gathers the signature of god of imaginery into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Imaginery",
+    "description": "The God perceives imaginery in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of imaginery, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Imaginery in Focus",
+    "description": "The God isolates one property or pattern of imaginery, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of imaginery as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Imaginery's Stewardship",
+    "description": "The God applies imaginery as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Imaginery",
-    "description": "The God coordinates several expressions of god of imaginery at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Imaginery",
+    "description": "The God coordinates several expressions of imaginery at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of imaginery into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Imaginery Synthesis",
+    "description": "The God combines the deepest principles of imaginery into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Imaginery",
-   "description": "The God reveals the perfected expression of god of imaginery. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Imaginery",
+   "description": "The God reveals the perfected expression of imaginery. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6252,35 +6252,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Possession": {
   "number": 134,
-  "concept": "God of Possession",
+  "concept": "Possession",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Possession",
-    "description": "The God gathers the signature of god of possession into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Possession",
+    "description": "The God assesss possession in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of possession, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Possession in Focus",
+    "description": "The God isolates one property or pattern of possession, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of possession as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Possession's Stewardship",
+    "description": "The God applies possession as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Possession",
-    "description": "The God coordinates several expressions of god of possession at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Possession",
+    "description": "The God coordinates several expressions of possession at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of possession into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Possession Synthesis",
+    "description": "The God combines the deepest principles of possession into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Possession",
-   "description": "The God reveals the perfected expression of god of possession. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Possession",
+   "description": "The God reveals the perfected expression of possession. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6299,35 +6299,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Readings": {
   "number": 135,
-  "concept": "God of Readings",
+  "concept": "Readings",
   "category": "Soul & Spirituality",
   "signature": [
    {
-    "name": "Spirit Lantern: God of Readings",
-    "description": "The God gathers the signature of god of readings into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spirit Lantern: Readings",
+    "description": "The God discerns readings in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Inner Compass: God in Focus",
-    "description": "The God isolates a property or pattern of god of readings, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Inner Compass: Readings in Focus",
+    "description": "The God isolates one property or pattern of readings, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Sacred Resonance: God's Stewardship",
-    "description": "The God applies god of readings as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Sacred Resonance: Readings's Stewardship",
+    "description": "The God applies readings as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Soul Concordance: God of Readings",
-    "description": "The God coordinates several expressions of god of readings at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Soul Concordance: Readings",
+    "description": "The God coordinates several expressions of readings at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Transcendent Passage: God Synthesis",
-    "description": "The God combines the deepest principles of god of readings into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Transcendent Passage: Readings Synthesis",
+    "description": "The God combines the deepest principles of readings into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Heart Beyond Form: God of Readings",
-   "description": "The God reveals the perfected expression of god of readings. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Heart Beyond Form: Readings",
+   "description": "The God reveals the perfected expression of readings. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6346,40 +6346,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Cleanse": {
   "number": 136,
-  "concept": "God of Cleanse",
+  "concept": "Cleanse",
   "category": "Death & Transformation",
   "signature": [
    {
-    "name": "Last Petal: God of Cleanse",
-    "description": "The God gathers the signature of god of cleanse into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Last Petal: Cleanse",
+    "description": "The God releases cleanse in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Unbinding: God in Focus",
-    "description": "The God isolates a property or pattern of god of cleanse, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Unbinding: Cleanse in Focus",
+    "description": "The God isolates one property or pattern of cleanse, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Cycle's Gate: God's Stewardship",
-    "description": "The God applies god of cleanse as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Cycle's Gate: Cleanse's Stewardship",
+    "description": "The God applies cleanse as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Complete Transition: God of Cleanse",
-    "description": "The God coordinates several expressions of god of cleanse at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Complete Transition: Cleanse",
+    "description": "The God coordinates several expressions of cleanse at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Renewal from Remains: God Synthesis",
-    "description": "The God combines the deepest principles of god of cleanse into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Renewal from Remains: Cleanse Synthesis",
+    "description": "The God combines the deepest principles of cleanse into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Final Turning: God of Cleanse",
-   "description": "The God reveals the perfected expression of god of cleanse. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Final Turning: Cleanse",
+   "description": "The God reveals the perfected expression of cleanse. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "An ending can be completed only within this God's defined concept; this does not confer authority over every kind of death, destruction, or afterlife."
+    "description": "The God governs only the named transition or ending, not every kind of death, destruction, or afterlife."
    },
    {
     "name": "Operational condition",
@@ -6393,35 +6393,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Passion": {
   "number": 137,
-  "concept": "God of Passion",
+  "concept": "Passion",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Passion",
-    "description": "The God gathers the signature of god of passion into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Passion",
+    "description": "The God connects passion in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of passion, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Passion in Focus",
+    "description": "The God isolates one property or pattern of passion, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of passion as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Passion's Stewardship",
+    "description": "The God applies passion as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Passion",
-    "description": "The God coordinates several expressions of god of passion at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Passion",
+    "description": "The God coordinates several expressions of passion at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of passion into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Passion Synthesis",
+    "description": "The God combines the deepest principles of passion into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Passion",
-   "description": "The God reveals the perfected expression of god of passion. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Passion",
+   "description": "The God reveals the perfected expression of passion. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6440,35 +6440,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Artificial Intelligence": {
   "number": 138,
-  "concept": "God of Artificial Intelligence",
+  "concept": "Artificial Intelligence",
   "category": "Engineering & Digital Systems",
   "signature": [
    {
-    "name": "Blueprint Manifest: God of Artificial Intelligence",
-    "description": "The God gathers the signature of god of artificial intelligence into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Blueprint Manifest: Artificial Intelligence",
+    "description": "The God designs artificial intelligence in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Faultfinder: God in Focus",
-    "description": "The God isolates a property or pattern of god of artificial intelligence, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Faultfinder: Artificial in Focus",
+    "description": "The God isolates one property or pattern of artificial intelligence, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Precision Assembly: God's Stewardship",
-    "description": "The God applies god of artificial intelligence as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Precision Assembly: Artificial's Stewardship",
+    "description": "The God applies artificial intelligence as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Self-Correcting Architecture: God of Artificial Intelligence",
-    "description": "The God coordinates several expressions of god of artificial intelligence at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Self-Correcting Architecture: Artificial Intelligence",
+    "description": "The God coordinates several expressions of artificial intelligence at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Total Integration: God Synthesis",
-    "description": "The God combines the deepest principles of god of artificial intelligence into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Total Integration: Artificial Synthesis",
+    "description": "The God combines the deepest principles of artificial intelligence into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Masterwork Engine: God of Artificial Intelligence",
-   "description": "The God reveals the perfected expression of god of artificial intelligence. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Masterwork Engine: Artificial Intelligence",
+   "description": "The God reveals the perfected expression of artificial intelligence. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6487,35 +6487,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Computing": {
   "number": 139,
-  "concept": "God of Computing",
+  "concept": "Computing",
   "category": "Engineering & Digital Systems",
   "signature": [
    {
-    "name": "Blueprint Manifest: God of Computing",
-    "description": "The God gathers the signature of god of computing into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Blueprint Manifest: Computing",
+    "description": "The God designs computing in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Faultfinder: God in Focus",
-    "description": "The God isolates a property or pattern of god of computing, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Faultfinder: Computing in Focus",
+    "description": "The God isolates one property or pattern of computing, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Precision Assembly: God's Stewardship",
-    "description": "The God applies god of computing as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Precision Assembly: Computing's Stewardship",
+    "description": "The God applies computing as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Self-Correcting Architecture: God of Computing",
-    "description": "The God coordinates several expressions of god of computing at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Self-Correcting Architecture: Computing",
+    "description": "The God coordinates several expressions of computing at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Total Integration: God Synthesis",
-    "description": "The God combines the deepest principles of god of computing into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Total Integration: Computing Synthesis",
+    "description": "The God combines the deepest principles of computing into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Masterwork Engine: God of Computing",
-   "description": "The God reveals the perfected expression of god of computing. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Masterwork Engine: Computing",
+   "description": "The God reveals the perfected expression of computing. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6534,35 +6534,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Machinery": {
   "number": 140,
-  "concept": "God of Machinery",
+  "concept": "Machinery",
   "category": "Engineering & Digital Systems",
   "signature": [
    {
-    "name": "Blueprint Manifest: God of Machinery",
-    "description": "The God gathers the signature of god of machinery into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Blueprint Manifest: Machinery",
+    "description": "The God designs machinery in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Faultfinder: God in Focus",
-    "description": "The God isolates a property or pattern of god of machinery, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Faultfinder: Machinery in Focus",
+    "description": "The God isolates one property or pattern of machinery, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Precision Assembly: God's Stewardship",
-    "description": "The God applies god of machinery as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Precision Assembly: Machinery's Stewardship",
+    "description": "The God applies machinery as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Self-Correcting Architecture: God of Machinery",
-    "description": "The God coordinates several expressions of god of machinery at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Self-Correcting Architecture: Machinery",
+    "description": "The God coordinates several expressions of machinery at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Total Integration: God Synthesis",
-    "description": "The God combines the deepest principles of god of machinery into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Total Integration: Machinery Synthesis",
+    "description": "The God combines the deepest principles of machinery into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Masterwork Engine: God of Machinery",
-   "description": "The God reveals the perfected expression of god of machinery. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Masterwork Engine: Machinery",
+   "description": "The God reveals the perfected expression of machinery. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6581,35 +6581,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Market": {
   "number": 141,
-  "concept": "God of Market",
+  "concept": "Market",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Market",
-    "description": "The God gathers the signature of god of market into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Market",
+    "description": "The God assesss market in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of market, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Market in Focus",
+    "description": "The God isolates one property or pattern of market, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of market as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Market's Stewardship",
+    "description": "The God applies market as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Market",
-    "description": "The God coordinates several expressions of god of market at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Market",
+    "description": "The God coordinates several expressions of market at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of market into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Market Synthesis",
+    "description": "The God combines the deepest principles of market into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Market",
-   "description": "The God reveals the perfected expression of god of market. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Market",
+   "description": "The God reveals the perfected expression of market. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6628,35 +6628,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Efficiency": {
   "number": 142,
-  "concept": "God of Efficiency",
+  "concept": "Efficiency",
   "category": "Mathematics & Logic",
   "signature": [
    {
-    "name": "Axiom's Edge: God of Efficiency",
-    "description": "The God gathers the signature of god of efficiency into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Axiom's Edge: Efficiency",
+    "description": "The God defines efficiency in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Exact Measure: God in Focus",
-    "description": "The God isolates a property or pattern of god of efficiency, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Exact Measure: Efficiency in Focus",
+    "description": "The God isolates one property or pattern of efficiency, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proofline: God's Stewardship",
-    "description": "The God applies god of efficiency as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proofline: Efficiency's Stewardship",
+    "description": "The God applies efficiency as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Derivation: God of Efficiency",
-    "description": "The God coordinates several expressions of god of efficiency at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Derivation: Efficiency",
+    "description": "The God coordinates several expressions of efficiency at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Universal Computation: God Synthesis",
-    "description": "The God combines the deepest principles of god of efficiency into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Universal Computation: Efficiency Synthesis",
+    "description": "The God combines the deepest principles of efficiency into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unbroken Theorem: God of Efficiency",
-   "description": "The God reveals the perfected expression of god of efficiency. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unbroken Theorem: Efficiency",
+   "description": "The God reveals the perfected expression of efficiency. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6675,35 +6675,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Planning": {
   "number": 143,
-  "concept": "God of Planning",
+  "concept": "Planning",
   "category": "Governance & Institutions",
   "signature": [
    {
-    "name": "Charter Seal: God of Planning",
-    "description": "The God gathers the signature of god of planning into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Charter Seal: Planning",
+    "description": "The God organizes planning in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Accountability Mirror: God in Focus",
-    "description": "The God isolates a property or pattern of god of planning, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Accountability Mirror: Planning in Focus",
+    "description": "The God isolates one property or pattern of planning, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Civic Framework: God's Stewardship",
-    "description": "The God applies god of planning as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Civic Framework: Planning's Stewardship",
+    "description": "The God applies planning as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constitutional Harmony: God of Planning",
-    "description": "The God coordinates several expressions of god of planning at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constitutional Harmony: Planning",
+    "description": "The God coordinates several expressions of planning at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Just Institution: God Synthesis",
-    "description": "The God combines the deepest principles of god of planning into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Just Institution: Planning Synthesis",
+    "description": "The God combines the deepest principles of planning into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Living Charter: God of Planning",
-   "description": "The God reveals the perfected expression of god of planning. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Living Charter: Planning",
+   "description": "The God reveals the perfected expression of planning. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6722,40 +6722,40 @@ window.GOD_TECHNIQUES = {
  },
  "God of Cell": {
   "number": 144,
-  "concept": "God of Cell",
+  "concept": "Cell",
   "category": "Life Sciences & Organisms",
   "signature": [
    {
-    "name": "Vital Pulse: God of Cell",
-    "description": "The God gathers the signature of god of cell into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Vital Pulse: Cell",
+    "description": "The God nourishs cell in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Pattern: God in Focus",
-    "description": "The God isolates a property or pattern of god of cell, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Pattern: Cell in Focus",
+    "description": "The God isolates one property or pattern of cell, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Nurture's Hand: God's Stewardship",
-    "description": "The God applies god of cell as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Nurture's Hand: Cell's Stewardship",
+    "description": "The God applies cell as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Whole-System Renewal: God of Cell",
-    "description": "The God coordinates several expressions of god of cell at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Whole-System Renewal: Cell",
+    "description": "The God coordinates several expressions of cell at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Genesis in Balance: God Synthesis",
-    "description": "The God combines the deepest principles of god of cell into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Genesis in Balance: Cell Synthesis",
+    "description": "The God combines the deepest principles of cell into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Everliving Garden: God of Cell",
-   "description": "The God reveals the perfected expression of god of cell. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Everliving Garden: Cell",
+   "description": "The God reveals the perfected expression of cell. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
     "name": "Domain boundary",
-    "description": "The God guides living processes but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
+    "description": "The God guides the named living concept but cannot make every organism thrive under incompatible conditions or erase ecological dependencies."
    },
    {
     "name": "Operational condition",
@@ -6769,35 +6769,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Monday": {
   "number": 145,
-  "concept": "God of Monday",
+  "concept": "Monday",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Monday",
-    "description": "The God gathers the signature of god of monday into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Monday",
+    "description": "The God measures monday in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of monday, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Monday in Focus",
+    "description": "The God isolates one property or pattern of monday, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of monday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Monday's Stewardship",
+    "description": "The God applies monday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Monday",
-    "description": "The God coordinates several expressions of god of monday at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Monday",
+    "description": "The God coordinates several expressions of monday at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of monday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Monday Synthesis",
+    "description": "The God combines the deepest principles of monday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Monday",
-   "description": "The God reveals the perfected expression of god of monday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Monday",
+   "description": "The God reveals the perfected expression of monday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6816,35 +6816,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Tuesday": {
   "number": 146,
-  "concept": "God of Tuesday",
+  "concept": "Tuesday",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Tuesday",
-    "description": "The God gathers the signature of god of tuesday into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Tuesday",
+    "description": "The God measures tuesday in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of tuesday, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Tuesday in Focus",
+    "description": "The God isolates one property or pattern of tuesday, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of tuesday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Tuesday's Stewardship",
+    "description": "The God applies tuesday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Tuesday",
-    "description": "The God coordinates several expressions of god of tuesday at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Tuesday",
+    "description": "The God coordinates several expressions of tuesday at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of tuesday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Tuesday Synthesis",
+    "description": "The God combines the deepest principles of tuesday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Tuesday",
-   "description": "The God reveals the perfected expression of god of tuesday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Tuesday",
+   "description": "The God reveals the perfected expression of tuesday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6863,35 +6863,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Wednesday": {
   "number": 147,
-  "concept": "God of Wednesday",
+  "concept": "Wednesday",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Wednesday",
-    "description": "The God gathers the signature of god of wednesday into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Wednesday",
+    "description": "The God measures wednesday in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of wednesday, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Wednesday in Focus",
+    "description": "The God isolates one property or pattern of wednesday, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of wednesday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Wednesday's Stewardship",
+    "description": "The God applies wednesday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Wednesday",
-    "description": "The God coordinates several expressions of god of wednesday at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Wednesday",
+    "description": "The God coordinates several expressions of wednesday at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of wednesday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Wednesday Synthesis",
+    "description": "The God combines the deepest principles of wednesday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Wednesday",
-   "description": "The God reveals the perfected expression of god of wednesday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Wednesday",
+   "description": "The God reveals the perfected expression of wednesday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6910,35 +6910,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Thursday": {
   "number": 148,
-  "concept": "God of Thursday",
+  "concept": "Thursday",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Thursday",
-    "description": "The God gathers the signature of god of thursday into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Thursday",
+    "description": "The God measures thursday in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of thursday, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Thursday in Focus",
+    "description": "The God isolates one property or pattern of thursday, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of thursday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Thursday's Stewardship",
+    "description": "The God applies thursday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Thursday",
-    "description": "The God coordinates several expressions of god of thursday at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Thursday",
+    "description": "The God coordinates several expressions of thursday at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of thursday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Thursday Synthesis",
+    "description": "The God combines the deepest principles of thursday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Thursday",
-   "description": "The God reveals the perfected expression of god of thursday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Thursday",
+   "description": "The God reveals the perfected expression of thursday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -6957,35 +6957,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Friday": {
   "number": 149,
-  "concept": "God of Friday",
+  "concept": "Friday",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Friday",
-    "description": "The God gathers the signature of god of friday into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Friday",
+    "description": "The God measures friday in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of friday, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Friday in Focus",
+    "description": "The God isolates one property or pattern of friday, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of friday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Friday's Stewardship",
+    "description": "The God applies friday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Friday",
-    "description": "The God coordinates several expressions of god of friday at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Friday",
+    "description": "The God coordinates several expressions of friday at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of friday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Friday Synthesis",
+    "description": "The God combines the deepest principles of friday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Friday",
-   "description": "The God reveals the perfected expression of god of friday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Friday",
+   "description": "The God reveals the perfected expression of friday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7004,35 +7004,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Saturday": {
   "number": 150,
-  "concept": "God of Saturday",
+  "concept": "Saturday",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Saturday",
-    "description": "The God gathers the signature of god of saturday into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Saturday",
+    "description": "The God measures saturday in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of saturday, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Saturday in Focus",
+    "description": "The God isolates one property or pattern of saturday, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of saturday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Saturday's Stewardship",
+    "description": "The God applies saturday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Saturday",
-    "description": "The God coordinates several expressions of god of saturday at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Saturday",
+    "description": "The God coordinates several expressions of saturday at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of saturday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Saturday Synthesis",
+    "description": "The God combines the deepest principles of saturday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Saturday",
-   "description": "The God reveals the perfected expression of god of saturday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Saturday",
+   "description": "The God reveals the perfected expression of saturday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7051,35 +7051,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Sunday": {
   "number": 151,
-  "concept": "God of Sunday",
+  "concept": "Sunday",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Sunday",
-    "description": "The God gathers the signature of god of sunday into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Sunday",
+    "description": "The God measures sunday in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of sunday, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Sunday in Focus",
+    "description": "The God isolates one property or pattern of sunday, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of sunday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Sunday's Stewardship",
+    "description": "The God applies sunday as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Sunday",
-    "description": "The God coordinates several expressions of god of sunday at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Sunday",
+    "description": "The God coordinates several expressions of sunday at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of sunday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Sunday Synthesis",
+    "description": "The God combines the deepest principles of sunday into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Sunday",
-   "description": "The God reveals the perfected expression of god of sunday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Sunday",
+   "description": "The God reveals the perfected expression of sunday. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7098,35 +7098,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Language": {
   "number": 152,
-  "concept": "God of Language",
+  "concept": "Language",
   "category": "Information & Communication",
   "signature": [
    {
-    "name": "Signal Clarity: God of Language",
-    "description": "The God gathers the signature of god of language into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Signal Clarity: Language",
+    "description": "The God encodes language in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Archive: God in Focus",
-    "description": "The God isolates a property or pattern of god of language, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Archive: Language in Focus",
+    "description": "The God isolates one property or pattern of language, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Meaning Bridge: God's Stewardship",
-    "description": "The God applies god of language as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Meaning Bridge: Language's Stewardship",
+    "description": "The God applies language as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Transmission: God of Language",
-    "description": "The God coordinates several expressions of god of language at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Transmission: Language",
+    "description": "The God coordinates several expressions of language at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Open Archive: God Synthesis",
-    "description": "The God combines the deepest principles of god of language into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Open Archive: Language Synthesis",
+    "description": "The God combines the deepest principles of language into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unlost Word: God of Language",
-   "description": "The God reveals the perfected expression of god of language. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unlost Word: Language",
+   "description": "The God reveals the perfected expression of language. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7145,35 +7145,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Trickery": {
   "number": 153,
-  "concept": "God of Trickery",
+  "concept": "Trickery",
   "category": "Conflict & Strategy",
   "signature": [
    {
-    "name": "Threat Reading: God of Trickery",
-    "description": "The God gathers the signature of god of trickery into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Threat Reading: Trickery",
+    "description": "The God detects trickery in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Guardline: God in Focus",
-    "description": "The God isolates a property or pattern of god of trickery, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Guardline: Trickery in Focus",
+    "description": "The God isolates one property or pattern of trickery, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Countermove: God's Stewardship",
-    "description": "The God applies god of trickery as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Countermove: Trickery's Stewardship",
+    "description": "The God applies trickery as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Battlefield of One: God of Trickery",
-    "description": "The God coordinates several expressions of god of trickery at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Battlefield of One: Trickery",
+    "description": "The God coordinates several expressions of trickery at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Counterstrategy: God Synthesis",
-    "description": "The God combines the deepest principles of god of trickery into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Counterstrategy: Trickery Synthesis",
+    "description": "The God combines the deepest principles of trickery into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Final Checkmate: God of Trickery",
-   "description": "The God reveals the perfected expression of god of trickery. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Final Checkmate: Trickery",
+   "description": "The God reveals the perfected expression of trickery. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7192,35 +7192,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Rat": {
   "number": 154,
-  "concept": "God of Rat",
+  "concept": "Rat",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Rat",
-    "description": "The God gathers the signature of god of rat into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Rat",
+    "description": "The God cultivates rat in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of rat, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Rat in Focus",
+    "description": "The God isolates one property or pattern of rat, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of rat as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Rat's Stewardship",
+    "description": "The God applies rat as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Rat",
-    "description": "The God coordinates several expressions of god of rat at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Rat",
+    "description": "The God coordinates several expressions of rat at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of rat into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Rat Synthesis",
+    "description": "The God combines the deepest principles of rat into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Rat",
-   "description": "The God reveals the perfected expression of god of rat. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Rat",
+   "description": "The God reveals the perfected expression of rat. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7239,35 +7239,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Tiger": {
   "number": 155,
-  "concept": "God of Tiger",
+  "concept": "Tiger",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Tiger",
-    "description": "The God gathers the signature of god of tiger into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Tiger",
+    "description": "The God cultivates tiger in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of tiger, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Tiger in Focus",
+    "description": "The God isolates one property or pattern of tiger, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of tiger as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Tiger's Stewardship",
+    "description": "The God applies tiger as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Tiger",
-    "description": "The God coordinates several expressions of god of tiger at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Tiger",
+    "description": "The God coordinates several expressions of tiger at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of tiger into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Tiger Synthesis",
+    "description": "The God combines the deepest principles of tiger into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Tiger",
-   "description": "The God reveals the perfected expression of god of tiger. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Tiger",
+   "description": "The God reveals the perfected expression of tiger. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7286,35 +7286,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Ox": {
   "number": 156,
-  "concept": "God of Ox",
+  "concept": "Ox",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Ox",
-    "description": "The God gathers the signature of god of ox into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Ox",
+    "description": "The God cultivates ox in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of ox, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Ox in Focus",
+    "description": "The God isolates one property or pattern of ox, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of ox as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Ox's Stewardship",
+    "description": "The God applies ox as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Ox",
-    "description": "The God coordinates several expressions of god of ox at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Ox",
+    "description": "The God coordinates several expressions of ox at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of ox into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Ox Synthesis",
+    "description": "The God combines the deepest principles of ox into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Ox",
-   "description": "The God reveals the perfected expression of god of ox. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Ox",
+   "description": "The God reveals the perfected expression of ox. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7333,35 +7333,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Rabbit": {
   "number": 157,
-  "concept": "God of Rabbit",
+  "concept": "Rabbit",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Rabbit",
-    "description": "The God gathers the signature of god of rabbit into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Rabbit",
+    "description": "The God cultivates rabbit in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of rabbit, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Rabbit in Focus",
+    "description": "The God isolates one property or pattern of rabbit, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of rabbit as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Rabbit's Stewardship",
+    "description": "The God applies rabbit as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Rabbit",
-    "description": "The God coordinates several expressions of god of rabbit at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Rabbit",
+    "description": "The God coordinates several expressions of rabbit at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of rabbit into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Rabbit Synthesis",
+    "description": "The God combines the deepest principles of rabbit into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Rabbit",
-   "description": "The God reveals the perfected expression of god of rabbit. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Rabbit",
+   "description": "The God reveals the perfected expression of rabbit. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7380,35 +7380,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Dragon": {
   "number": 158,
-  "concept": "God of Dragon",
+  "concept": "Dragon",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Dragon",
-    "description": "The God gathers the signature of god of dragon into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Dragon",
+    "description": "The God cultivates dragon in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of dragon, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Dragon in Focus",
+    "description": "The God isolates one property or pattern of dragon, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of dragon as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Dragon's Stewardship",
+    "description": "The God applies dragon as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Dragon",
-    "description": "The God coordinates several expressions of god of dragon at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Dragon",
+    "description": "The God coordinates several expressions of dragon at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of dragon into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Dragon Synthesis",
+    "description": "The God combines the deepest principles of dragon into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Dragon",
-   "description": "The God reveals the perfected expression of god of dragon. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Dragon",
+   "description": "The God reveals the perfected expression of dragon. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7427,35 +7427,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Snake": {
   "number": 159,
-  "concept": "God of Snake",
+  "concept": "Snake",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Snake",
-    "description": "The God gathers the signature of god of snake into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Snake",
+    "description": "The God cultivates snake in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of snake, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Snake in Focus",
+    "description": "The God isolates one property or pattern of snake, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of snake as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Snake's Stewardship",
+    "description": "The God applies snake as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Snake",
-    "description": "The God coordinates several expressions of god of snake at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Snake",
+    "description": "The God coordinates several expressions of snake at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of snake into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Snake Synthesis",
+    "description": "The God combines the deepest principles of snake into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Snake",
-   "description": "The God reveals the perfected expression of god of snake. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Snake",
+   "description": "The God reveals the perfected expression of snake. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7474,35 +7474,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Horse": {
   "number": 160,
-  "concept": "God of Horse",
+  "concept": "Horse",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Horse",
-    "description": "The God gathers the signature of god of horse into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Horse",
+    "description": "The God cultivates horse in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of horse, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Horse in Focus",
+    "description": "The God isolates one property or pattern of horse, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of horse as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Horse's Stewardship",
+    "description": "The God applies horse as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Horse",
-    "description": "The God coordinates several expressions of god of horse at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Horse",
+    "description": "The God coordinates several expressions of horse at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of horse into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Horse Synthesis",
+    "description": "The God combines the deepest principles of horse into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Horse",
-   "description": "The God reveals the perfected expression of god of horse. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Horse",
+   "description": "The God reveals the perfected expression of horse. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7521,35 +7521,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Goat": {
   "number": 161,
-  "concept": "God of Goat",
+  "concept": "Goat",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Goat",
-    "description": "The God gathers the signature of god of goat into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Goat",
+    "description": "The God cultivates goat in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of goat, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Goat in Focus",
+    "description": "The God isolates one property or pattern of goat, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of goat as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Goat's Stewardship",
+    "description": "The God applies goat as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Goat",
-    "description": "The God coordinates several expressions of god of goat at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Goat",
+    "description": "The God coordinates several expressions of goat at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of goat into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Goat Synthesis",
+    "description": "The God combines the deepest principles of goat into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Goat",
-   "description": "The God reveals the perfected expression of god of goat. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Goat",
+   "description": "The God reveals the perfected expression of goat. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7568,35 +7568,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Monkey": {
   "number": 162,
-  "concept": "God of Monkey",
+  "concept": "Monkey",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Monkey",
-    "description": "The God gathers the signature of god of monkey into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Monkey",
+    "description": "The God cultivates monkey in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of monkey, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Monkey in Focus",
+    "description": "The God isolates one property or pattern of monkey, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of monkey as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Monkey's Stewardship",
+    "description": "The God applies monkey as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Monkey",
-    "description": "The God coordinates several expressions of god of monkey at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Monkey",
+    "description": "The God coordinates several expressions of monkey at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of monkey into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Monkey Synthesis",
+    "description": "The God combines the deepest principles of monkey into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Monkey",
-   "description": "The God reveals the perfected expression of god of monkey. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Monkey",
+   "description": "The God reveals the perfected expression of monkey. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7615,35 +7615,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Dog": {
   "number": 163,
-  "concept": "God of Dog",
+  "concept": "Dog",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Dog",
-    "description": "The God gathers the signature of god of dog into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Dog",
+    "description": "The God cultivates dog in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of dog, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Dog in Focus",
+    "description": "The God isolates one property or pattern of dog, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of dog as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Dog's Stewardship",
+    "description": "The God applies dog as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Dog",
-    "description": "The God coordinates several expressions of god of dog at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Dog",
+    "description": "The God coordinates several expressions of dog at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of dog into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Dog Synthesis",
+    "description": "The God combines the deepest principles of dog into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Dog",
-   "description": "The God reveals the perfected expression of god of dog. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Dog",
+   "description": "The God reveals the perfected expression of dog. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7662,35 +7662,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Rooster": {
   "number": 164,
-  "concept": "God of Rooster",
+  "concept": "Rooster",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Rooster",
-    "description": "The God gathers the signature of god of rooster into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Rooster",
+    "description": "The God cultivates rooster in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of rooster, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Rooster in Focus",
+    "description": "The God isolates one property or pattern of rooster, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of rooster as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Rooster's Stewardship",
+    "description": "The God applies rooster as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Rooster",
-    "description": "The God coordinates several expressions of god of rooster at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Rooster",
+    "description": "The God coordinates several expressions of rooster at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of rooster into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Rooster Synthesis",
+    "description": "The God combines the deepest principles of rooster into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Rooster",
-   "description": "The God reveals the perfected expression of god of rooster. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Rooster",
+   "description": "The God reveals the perfected expression of rooster. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7709,35 +7709,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Pig": {
   "number": 165,
-  "concept": "God of Pig",
+  "concept": "Pig",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Pig",
-    "description": "The God gathers the signature of god of pig into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Pig",
+    "description": "The God cultivates pig in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of pig, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Pig in Focus",
+    "description": "The God isolates one property or pattern of pig, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of pig as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Pig's Stewardship",
+    "description": "The God applies pig as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Pig",
-    "description": "The God coordinates several expressions of god of pig at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Pig",
+    "description": "The God coordinates several expressions of pig at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of pig into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Pig Synthesis",
+    "description": "The God combines the deepest principles of pig into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Pig",
-   "description": "The God reveals the perfected expression of god of pig. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Pig",
+   "description": "The God reveals the perfected expression of pig. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7756,35 +7756,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Sun": {
   "number": 166,
-  "concept": "God of Sun",
+  "concept": "Sun",
   "category": "Space & Cosmology",
   "signature": [
    {
-    "name": "Celestial Bearing: God of Sun",
-    "description": "The God gathers the signature of god of sun into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Celestial Bearing: Sun",
+    "description": "The God maps sun in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Orbital Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of sun, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Orbital Thread: Sun in Focus",
+    "description": "The God isolates one property or pattern of sun, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Far-Reach Sight: God's Stewardship",
-    "description": "The God applies god of sun as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Far-Reach Sight: Sun's Stewardship",
+    "description": "The God applies sun as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constellation Alignment: God of Sun",
-    "description": "The God coordinates several expressions of god of sun at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constellation Alignment: Sun",
+    "description": "The God coordinates several expressions of sun at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Worldline Architecture: God Synthesis",
-    "description": "The God combines the deepest principles of god of sun into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Worldline Architecture: Sun Synthesis",
+    "description": "The God combines the deepest principles of sun into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Firmament: God of Sun",
-   "description": "The God reveals the perfected expression of god of sun. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Firmament: Sun",
+   "description": "The God reveals the perfected expression of sun. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7803,35 +7803,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Moon": {
   "number": 167,
-  "concept": "God of Moon",
+  "concept": "Moon",
   "category": "Space & Cosmology",
   "signature": [
    {
-    "name": "Celestial Bearing: God of Moon",
-    "description": "The God gathers the signature of god of moon into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Celestial Bearing: Moon",
+    "description": "The God maps moon in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Orbital Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of moon, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Orbital Thread: Moon in Focus",
+    "description": "The God isolates one property or pattern of moon, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Far-Reach Sight: God's Stewardship",
-    "description": "The God applies god of moon as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Far-Reach Sight: Moon's Stewardship",
+    "description": "The God applies moon as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constellation Alignment: God of Moon",
-    "description": "The God coordinates several expressions of god of moon at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constellation Alignment: Moon",
+    "description": "The God coordinates several expressions of moon at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Worldline Architecture: God Synthesis",
-    "description": "The God combines the deepest principles of god of moon into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Worldline Architecture: Moon Synthesis",
+    "description": "The God combines the deepest principles of moon into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Firmament: God of Moon",
-   "description": "The God reveals the perfected expression of god of moon. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Firmament: Moon",
+   "description": "The God reveals the perfected expression of moon. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7850,35 +7850,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Stars": {
   "number": 168,
-  "concept": "God of Stars",
+  "concept": "Stars",
   "category": "Space & Cosmology",
   "signature": [
    {
-    "name": "Celestial Bearing: God of Stars",
-    "description": "The God gathers the signature of god of stars into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Celestial Bearing: Stars",
+    "description": "The God maps stars in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Orbital Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of stars, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Orbital Thread: Stars in Focus",
+    "description": "The God isolates one property or pattern of stars, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Far-Reach Sight: God's Stewardship",
-    "description": "The God applies god of stars as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Far-Reach Sight: Stars's Stewardship",
+    "description": "The God applies stars as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Constellation Alignment: God of Stars",
-    "description": "The God coordinates several expressions of god of stars at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Constellation Alignment: Stars",
+    "description": "The God coordinates several expressions of stars at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Worldline Architecture: God Synthesis",
-    "description": "The God combines the deepest principles of god of stars into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Worldline Architecture: Stars Synthesis",
+    "description": "The God combines the deepest principles of stars into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Firmament: God of Stars",
-   "description": "The God reveals the perfected expression of god of stars. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Firmament: Stars",
+   "description": "The God reveals the perfected expression of stars. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7897,35 +7897,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Cloud": {
   "number": 169,
-  "concept": "God of Cloud",
+  "concept": "Cloud",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Cloud",
-    "description": "The God gathers the signature of god of cloud into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Cloud",
+    "description": "The God cultivates cloud in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of cloud, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Cloud in Focus",
+    "description": "The God isolates one property or pattern of cloud, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of cloud as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Cloud's Stewardship",
+    "description": "The God applies cloud as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Cloud",
-    "description": "The God coordinates several expressions of god of cloud at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Cloud",
+    "description": "The God coordinates several expressions of cloud at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of cloud into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Cloud Synthesis",
+    "description": "The God combines the deepest principles of cloud into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Cloud",
-   "description": "The God reveals the perfected expression of god of cloud. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Cloud",
+   "description": "The God reveals the perfected expression of cloud. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7944,35 +7944,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Rainbow": {
   "number": 170,
-  "concept": "God of Rainbow",
+  "concept": "Rainbow",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Rainbow",
-    "description": "The God gathers the signature of god of rainbow into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Rainbow",
+    "description": "The God cultivates rainbow in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of rainbow, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Rainbow in Focus",
+    "description": "The God isolates one property or pattern of rainbow, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of rainbow as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Rainbow's Stewardship",
+    "description": "The God applies rainbow as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Rainbow",
-    "description": "The God coordinates several expressions of god of rainbow at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Rainbow",
+    "description": "The God coordinates several expressions of rainbow at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of rainbow into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Rainbow Synthesis",
+    "description": "The God combines the deepest principles of rainbow into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Rainbow",
-   "description": "The God reveals the perfected expression of god of rainbow. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Rainbow",
+   "description": "The God reveals the perfected expression of rainbow. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -7991,35 +7991,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Mountain": {
   "number": 171,
-  "concept": "God of Mountain",
+  "concept": "Mountain",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Mountain",
-    "description": "The God gathers the signature of god of mountain into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Mountain",
+    "description": "The God cultivates mountain in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of mountain, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Mountain in Focus",
+    "description": "The God isolates one property or pattern of mountain, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of mountain as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Mountain's Stewardship",
+    "description": "The God applies mountain as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Mountain",
-    "description": "The God coordinates several expressions of god of mountain at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Mountain",
+    "description": "The God coordinates several expressions of mountain at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of mountain into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Mountain Synthesis",
+    "description": "The God combines the deepest principles of mountain into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Mountain",
-   "description": "The God reveals the perfected expression of god of mountain. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Mountain",
+   "description": "The God reveals the perfected expression of mountain. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8038,35 +8038,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Forest": {
   "number": 172,
-  "concept": "God of Forest",
+  "concept": "Forest",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Forest",
-    "description": "The God gathers the signature of god of forest into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Forest",
+    "description": "The God cultivates forest in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of forest, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Forest in Focus",
+    "description": "The God isolates one property or pattern of forest, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of forest as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Forest's Stewardship",
+    "description": "The God applies forest as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Forest",
-    "description": "The God coordinates several expressions of god of forest at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Forest",
+    "description": "The God coordinates several expressions of forest at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of forest into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Forest Synthesis",
+    "description": "The God combines the deepest principles of forest into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Forest",
-   "description": "The God reveals the perfected expression of god of forest. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Forest",
+   "description": "The God reveals the perfected expression of forest. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8085,35 +8085,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Possible": {
   "number": 173,
-  "concept": "God of Possible",
+  "concept": "Possible",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Possible",
-    "description": "The God gathers the signature of god of possible into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Possible",
+    "description": "The God perceives possible in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of possible, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Possible in Focus",
+    "description": "The God isolates one property or pattern of possible, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of possible as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Possible's Stewardship",
+    "description": "The God applies possible as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Possible",
-    "description": "The God coordinates several expressions of god of possible at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Possible",
+    "description": "The God coordinates several expressions of possible at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of possible into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Possible Synthesis",
+    "description": "The God combines the deepest principles of possible into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Possible",
-   "description": "The God reveals the perfected expression of god of possible. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Possible",
+   "description": "The God reveals the perfected expression of possible. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8132,35 +8132,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Fantasy": {
   "number": 174,
-  "concept": "God of Fantasy",
+  "concept": "Fantasy",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Fantasy",
-    "description": "The God gathers the signature of god of fantasy into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Fantasy",
+    "description": "The God perceives fantasy in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of fantasy, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Fantasy in Focus",
+    "description": "The God isolates one property or pattern of fantasy, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of fantasy as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Fantasy's Stewardship",
+    "description": "The God applies fantasy as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Fantasy",
-    "description": "The God coordinates several expressions of god of fantasy at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Fantasy",
+    "description": "The God coordinates several expressions of fantasy at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of fantasy into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Fantasy Synthesis",
+    "description": "The God combines the deepest principles of fantasy into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Fantasy",
-   "description": "The God reveals the perfected expression of god of fantasy. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Fantasy",
+   "description": "The God reveals the perfected expression of fantasy. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8179,35 +8179,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Idea": {
   "number": 175,
-  "concept": "God of Idea",
+  "concept": "Idea",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Idea",
-    "description": "The God gathers the signature of god of idea into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Idea",
+    "description": "The God perceives idea in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of idea, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Idea in Focus",
+    "description": "The God isolates one property or pattern of idea, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of idea as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Idea's Stewardship",
+    "description": "The God applies idea as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Idea",
-    "description": "The God coordinates several expressions of god of idea at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Idea",
+    "description": "The God coordinates several expressions of idea at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of idea into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Idea Synthesis",
+    "description": "The God combines the deepest principles of idea into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Idea",
-   "description": "The God reveals the perfected expression of god of idea. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Idea",
+   "description": "The God reveals the perfected expression of idea. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8226,35 +8226,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Memory": {
   "number": 176,
-  "concept": "God of Memory",
+  "concept": "Memory",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Memory",
-    "description": "The God gathers the signature of god of memory into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Memory",
+    "description": "The God perceives memory in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of memory, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Memory in Focus",
+    "description": "The God isolates one property or pattern of memory, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of memory as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Memory's Stewardship",
+    "description": "The God applies memory as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Memory",
-    "description": "The God coordinates several expressions of god of memory at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Memory",
+    "description": "The God coordinates several expressions of memory at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of memory into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Memory Synthesis",
+    "description": "The God combines the deepest principles of memory into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Memory",
-   "description": "The God reveals the perfected expression of god of memory. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Memory",
+   "description": "The God reveals the perfected expression of memory. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8278,11 +8278,11 @@ window.GOD_TECHNIQUES = {
   "signature": [
    {
     "name": "Spirit Lantern: Magic",
-    "description": "The God gathers the signature of magic into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "description": "The God discerns magic in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
     "name": "Inner Compass: Magic in Focus",
-    "description": "The God isolates a property or pattern of magic, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "description": "The God isolates one property or pattern of magic, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
     "name": "Sacred Resonance: Magic's Stewardship",
@@ -8292,7 +8292,7 @@ window.GOD_TECHNIQUES = {
   "advanced": [
    {
     "name": "Soul Concordance: Magic",
-    "description": "The God coordinates several expressions of magic at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "description": "The God coordinates several expressions of magic at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
     "name": "Transcendent Passage: Magic Synthesis",
@@ -8320,35 +8320,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Mind": {
   "number": 178,
-  "concept": "God of Mind",
+  "concept": "Mind",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Mind",
-    "description": "The God gathers the signature of god of mind into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Mind",
+    "description": "The God perceives mind in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of mind, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Mind in Focus",
+    "description": "The God isolates one property or pattern of mind, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of mind as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Mind's Stewardship",
+    "description": "The God applies mind as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Mind",
-    "description": "The God coordinates several expressions of god of mind at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Mind",
+    "description": "The God coordinates several expressions of mind at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of mind into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Mind Synthesis",
+    "description": "The God combines the deepest principles of mind into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Mind",
-   "description": "The God reveals the perfected expression of god of mind. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Mind",
+   "description": "The God reveals the perfected expression of mind. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8367,35 +8367,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Attack": {
   "number": 179,
-  "concept": "God of Attack",
+  "concept": "Attack",
   "category": "Conflict & Strategy",
   "signature": [
    {
-    "name": "Threat Reading: God of Attack",
-    "description": "The God gathers the signature of god of attack into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Threat Reading: Attack",
+    "description": "The God detects attack in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Guardline: God in Focus",
-    "description": "The God isolates a property or pattern of god of attack, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Guardline: Attack in Focus",
+    "description": "The God isolates one property or pattern of attack, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Countermove: God's Stewardship",
-    "description": "The God applies god of attack as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Countermove: Attack's Stewardship",
+    "description": "The God applies attack as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Battlefield of One: God of Attack",
-    "description": "The God coordinates several expressions of god of attack at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Battlefield of One: Attack",
+    "description": "The God coordinates several expressions of attack at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Counterstrategy: God Synthesis",
-    "description": "The God combines the deepest principles of god of attack into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Counterstrategy: Attack Synthesis",
+    "description": "The God combines the deepest principles of attack into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Final Checkmate: God of Attack",
-   "description": "The God reveals the perfected expression of god of attack. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Final Checkmate: Attack",
+   "description": "The God reveals the perfected expression of attack. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8414,35 +8414,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Defense": {
   "number": 180,
-  "concept": "God of Defense",
+  "concept": "Defense",
   "category": "Conflict & Strategy",
   "signature": [
    {
-    "name": "Threat Reading: God of Defense",
-    "description": "The God gathers the signature of god of defense into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Threat Reading: Defense",
+    "description": "The God detects defense in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Guardline: God in Focus",
-    "description": "The God isolates a property or pattern of god of defense, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Guardline: Defense in Focus",
+    "description": "The God isolates one property or pattern of defense, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Countermove: God's Stewardship",
-    "description": "The God applies god of defense as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Countermove: Defense's Stewardship",
+    "description": "The God applies defense as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Battlefield of One: God of Defense",
-    "description": "The God coordinates several expressions of god of defense at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Battlefield of One: Defense",
+    "description": "The God coordinates several expressions of defense at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Counterstrategy: God Synthesis",
-    "description": "The God combines the deepest principles of god of defense into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Counterstrategy: Defense Synthesis",
+    "description": "The God combines the deepest principles of defense into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Final Checkmate: God of Defense",
-   "description": "The God reveals the perfected expression of god of defense. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Final Checkmate: Defense",
+   "description": "The God reveals the perfected expression of defense. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8461,35 +8461,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Destiny": {
   "number": 181,
-  "concept": "God of Destiny",
+  "concept": "Destiny",
   "category": "Soul & Spirituality",
   "signature": [
    {
-    "name": "Spirit Lantern: God of Destiny",
-    "description": "The God gathers the signature of god of destiny into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spirit Lantern: Destiny",
+    "description": "The God discerns destiny in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Inner Compass: God in Focus",
-    "description": "The God isolates a property or pattern of god of destiny, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Inner Compass: Destiny in Focus",
+    "description": "The God isolates one property or pattern of destiny, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Sacred Resonance: God's Stewardship",
-    "description": "The God applies god of destiny as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Sacred Resonance: Destiny's Stewardship",
+    "description": "The God applies destiny as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Soul Concordance: God of Destiny",
-    "description": "The God coordinates several expressions of god of destiny at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Soul Concordance: Destiny",
+    "description": "The God coordinates several expressions of destiny at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Transcendent Passage: God Synthesis",
-    "description": "The God combines the deepest principles of god of destiny into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Transcendent Passage: Destiny Synthesis",
+    "description": "The God combines the deepest principles of destiny into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Heart Beyond Form: God of Destiny",
-   "description": "The God reveals the perfected expression of god of destiny. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Heart Beyond Form: Destiny",
+   "description": "The God reveals the perfected expression of destiny. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8508,35 +8508,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Colors": {
   "number": 182,
-  "concept": "God of Colors",
+  "concept": "Colors",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Colors",
-    "description": "The God gathers the signature of god of colors into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Colors",
+    "description": "The God perceives colors in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of colors, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Colors in Focus",
+    "description": "The God isolates one property or pattern of colors, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of colors as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Colors's Stewardship",
+    "description": "The God applies colors as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Colors",
-    "description": "The God coordinates several expressions of god of colors at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Colors",
+    "description": "The God coordinates several expressions of colors at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of colors into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Colors Synthesis",
+    "description": "The God combines the deepest principles of colors into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Colors",
-   "description": "The God reveals the perfected expression of god of colors. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Colors",
+   "description": "The God reveals the perfected expression of colors. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8555,35 +8555,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Story": {
   "number": 183,
-  "concept": "God of Story",
+  "concept": "Story",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Story",
-    "description": "The God gathers the signature of god of story into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Story",
+    "description": "The God connects story in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of story, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Story in Focus",
+    "description": "The God isolates one property or pattern of story, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of story as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Story's Stewardship",
+    "description": "The God applies story as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Story",
-    "description": "The God coordinates several expressions of god of story at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Story",
+    "description": "The God coordinates several expressions of story at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of story into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Story Synthesis",
+    "description": "The God combines the deepest principles of story into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Story",
-   "description": "The God reveals the perfected expression of god of story. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Story",
+   "description": "The God reveals the perfected expression of story. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8607,11 +8607,11 @@ window.GOD_TECHNIQUES = {
   "signature": [
    {
     "name": "Marked Hour: astrology and the interpretation of celestial patterns",
-    "description": "The God gathers the signature of astrology and the interpretation of celestial patterns into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "description": "The God measures astrology and the interpretation of celestial patterns in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
     "name": "Cycle Recognition: astrology in Focus",
-    "description": "The God isolates a property or pattern of astrology and the interpretation of celestial patterns, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "description": "The God isolates one property or pattern of astrology and the interpretation of celestial patterns, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
     "name": "Calendar Thread: astrology's Stewardship",
@@ -8621,7 +8621,7 @@ window.GOD_TECHNIQUES = {
   "advanced": [
    {
     "name": "Convergent Calendar: astrology and the interpretation of celestial patterns",
-    "description": "The God coordinates several expressions of astrology and the interpretation of celestial patterns at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "description": "The God coordinates several expressions of astrology and the interpretation of celestial patterns at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
     "name": "Chronicle Synchrony: astrology Synthesis",
@@ -8649,35 +8649,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Storage": {
   "number": 185,
-  "concept": "God of Storage",
+  "concept": "Storage",
   "category": "Information & Communication",
   "signature": [
    {
-    "name": "Signal Clarity: God of Storage",
-    "description": "The God gathers the signature of god of storage into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Signal Clarity: Storage",
+    "description": "The God encodes storage in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Living Archive: God in Focus",
-    "description": "The God isolates a property or pattern of god of storage, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Living Archive: Storage in Focus",
+    "description": "The God isolates one property or pattern of storage, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Meaning Bridge: God's Stewardship",
-    "description": "The God applies god of storage as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Meaning Bridge: Storage's Stewardship",
+    "description": "The God applies storage as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Perfect Transmission: God of Storage",
-    "description": "The God coordinates several expressions of god of storage at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Perfect Transmission: Storage",
+    "description": "The God coordinates several expressions of storage at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Open Archive: God Synthesis",
-    "description": "The God combines the deepest principles of god of storage into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Open Archive: Storage Synthesis",
+    "description": "The God combines the deepest principles of storage into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Unlost Word: God of Storage",
-   "description": "The God reveals the perfected expression of god of storage. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Unlost Word: Storage",
+   "description": "The God reveals the perfected expression of storage. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8696,35 +8696,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Emotion": {
   "number": 186,
-  "concept": "God of Emotion",
+  "concept": "Emotion",
   "category": "Mind & Cognition",
   "signature": [
    {
-    "name": "Clear Thought: God of Emotion",
-    "description": "The God gathers the signature of god of emotion into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Clear Thought: Emotion",
+    "description": "The God perceives emotion in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Quiet Recall: God in Focus",
-    "description": "The God isolates a property or pattern of god of emotion, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Quiet Recall: Emotion in Focus",
+    "description": "The God isolates one property or pattern of emotion, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Insight Thread: God's Stewardship",
-    "description": "The God applies god of emotion as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Insight Thread: Emotion's Stewardship",
+    "description": "The God applies emotion as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Cognitive Harmony: God of Emotion",
-    "description": "The God coordinates several expressions of god of emotion at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Cognitive Harmony: Emotion",
+    "description": "The God coordinates several expressions of emotion at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Understanding: God Synthesis",
-    "description": "The God combines the deepest principles of god of emotion into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Understanding: Emotion Synthesis",
+    "description": "The God combines the deepest principles of emotion into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "Mind's Unclouded Summit: God of Emotion",
-   "description": "The God reveals the perfected expression of god of emotion. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "Mind's Unclouded Summit: Emotion",
+   "description": "The God reveals the perfected expression of emotion. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8743,35 +8743,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Beauty": {
   "number": 187,
-  "concept": "God of Beauty",
+  "concept": "Beauty",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Beauty",
-    "description": "The God gathers the signature of god of beauty into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Beauty",
+    "description": "The God connects beauty in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of beauty, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Beauty in Focus",
+    "description": "The God isolates one property or pattern of beauty, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of beauty as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Beauty's Stewardship",
+    "description": "The God applies beauty as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Beauty",
-    "description": "The God coordinates several expressions of god of beauty at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Beauty",
+    "description": "The God coordinates several expressions of beauty at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of beauty into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Beauty Synthesis",
+    "description": "The God combines the deepest principles of beauty into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Beauty",
-   "description": "The God reveals the perfected expression of god of beauty. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Beauty",
+   "description": "The God reveals the perfected expression of beauty. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8790,35 +8790,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Sex": {
   "number": 188,
-  "concept": "God of Sex",
+  "concept": "Sex",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Sex",
-    "description": "The God gathers the signature of god of sex into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Sex",
+    "description": "The God connects sex in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of sex, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Sex in Focus",
+    "description": "The God isolates one property or pattern of sex, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of sex as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Sex's Stewardship",
+    "description": "The God applies sex as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Sex",
-    "description": "The God coordinates several expressions of god of sex at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Sex",
+    "description": "The God coordinates several expressions of sex at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of sex into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Sex Synthesis",
+    "description": "The God combines the deepest principles of sex into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Sex",
-   "description": "The God reveals the perfected expression of god of sex. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Sex",
+   "description": "The God reveals the perfected expression of sex. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8837,35 +8837,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Birch": {
   "number": 189,
-  "concept": "God of Birch",
+  "concept": "Birch",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Birch",
-    "description": "The God gathers the signature of god of birch into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Birch",
+    "description": "The God cultivates birch in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of birch, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Birch in Focus",
+    "description": "The God isolates one property or pattern of birch, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of birch as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Birch's Stewardship",
+    "description": "The God applies birch as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Birch",
-    "description": "The God coordinates several expressions of god of birch at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Birch",
+    "description": "The God coordinates several expressions of birch at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of birch into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Birch Synthesis",
+    "description": "The God combines the deepest principles of birch into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Birch",
-   "description": "The God reveals the perfected expression of god of birch. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Birch",
+   "description": "The God reveals the perfected expression of birch. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8884,35 +8884,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Rowan": {
   "number": 190,
-  "concept": "God of Rowan",
+  "concept": "Rowan",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Rowan",
-    "description": "The God gathers the signature of god of rowan into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Rowan",
+    "description": "The God cultivates rowan in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of rowan, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Rowan in Focus",
+    "description": "The God isolates one property or pattern of rowan, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of rowan as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Rowan's Stewardship",
+    "description": "The God applies rowan as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Rowan",
-    "description": "The God coordinates several expressions of god of rowan at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Rowan",
+    "description": "The God coordinates several expressions of rowan at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of rowan into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Rowan Synthesis",
+    "description": "The God combines the deepest principles of rowan into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Rowan",
-   "description": "The God reveals the perfected expression of god of rowan. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Rowan",
+   "description": "The God reveals the perfected expression of rowan. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8931,35 +8931,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Ash": {
   "number": 191,
-  "concept": "God of Ash",
+  "concept": "Ash",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Ash",
-    "description": "The God gathers the signature of god of ash into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Ash",
+    "description": "The God cultivates ash in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of ash, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Ash in Focus",
+    "description": "The God isolates one property or pattern of ash, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of ash as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Ash's Stewardship",
+    "description": "The God applies ash as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Ash",
-    "description": "The God coordinates several expressions of god of ash at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Ash",
+    "description": "The God coordinates several expressions of ash at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of ash into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Ash Synthesis",
+    "description": "The God combines the deepest principles of ash into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Ash",
-   "description": "The God reveals the perfected expression of god of ash. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Ash",
+   "description": "The God reveals the perfected expression of ash. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -8978,35 +8978,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Alder": {
   "number": 192,
-  "concept": "God of Alder",
+  "concept": "Alder",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Alder",
-    "description": "The God gathers the signature of god of alder into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Alder",
+    "description": "The God cultivates alder in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of alder, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Alder in Focus",
+    "description": "The God isolates one property or pattern of alder, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of alder as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Alder's Stewardship",
+    "description": "The God applies alder as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Alder",
-    "description": "The God coordinates several expressions of god of alder at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Alder",
+    "description": "The God coordinates several expressions of alder at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of alder into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Alder Synthesis",
+    "description": "The God combines the deepest principles of alder into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Alder",
-   "description": "The God reveals the perfected expression of god of alder. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Alder",
+   "description": "The God reveals the perfected expression of alder. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9025,35 +9025,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Willow": {
   "number": 193,
-  "concept": "God of Willow",
+  "concept": "Willow",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Willow",
-    "description": "The God gathers the signature of god of willow into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Willow",
+    "description": "The God cultivates willow in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of willow, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Willow in Focus",
+    "description": "The God isolates one property or pattern of willow, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of willow as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Willow's Stewardship",
+    "description": "The God applies willow as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Willow",
-    "description": "The God coordinates several expressions of god of willow at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Willow",
+    "description": "The God coordinates several expressions of willow at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of willow into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Willow Synthesis",
+    "description": "The God combines the deepest principles of willow into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Willow",
-   "description": "The God reveals the perfected expression of god of willow. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Willow",
+   "description": "The God reveals the perfected expression of willow. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9072,35 +9072,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Hawthorn": {
   "number": 194,
-  "concept": "God of Hawthorn",
+  "concept": "Hawthorn",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Hawthorn",
-    "description": "The God gathers the signature of god of hawthorn into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Hawthorn",
+    "description": "The God cultivates hawthorn in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of hawthorn, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Hawthorn in Focus",
+    "description": "The God isolates one property or pattern of hawthorn, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of hawthorn as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Hawthorn's Stewardship",
+    "description": "The God applies hawthorn as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Hawthorn",
-    "description": "The God coordinates several expressions of god of hawthorn at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Hawthorn",
+    "description": "The God coordinates several expressions of hawthorn at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of hawthorn into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Hawthorn Synthesis",
+    "description": "The God combines the deepest principles of hawthorn into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Hawthorn",
-   "description": "The God reveals the perfected expression of god of hawthorn. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Hawthorn",
+   "description": "The God reveals the perfected expression of hawthorn. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9119,35 +9119,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Oak": {
   "number": 195,
-  "concept": "God of Oak",
+  "concept": "Oak",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Oak",
-    "description": "The God gathers the signature of god of oak into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Oak",
+    "description": "The God cultivates oak in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of oak, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Oak in Focus",
+    "description": "The God isolates one property or pattern of oak, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of oak as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Oak's Stewardship",
+    "description": "The God applies oak as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Oak",
-    "description": "The God coordinates several expressions of god of oak at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Oak",
+    "description": "The God coordinates several expressions of oak at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of oak into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Oak Synthesis",
+    "description": "The God combines the deepest principles of oak into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Oak",
-   "description": "The God reveals the perfected expression of god of oak. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Oak",
+   "description": "The God reveals the perfected expression of oak. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9166,35 +9166,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Holly": {
   "number": 196,
-  "concept": "God of Holly",
+  "concept": "Holly",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Holly",
-    "description": "The God gathers the signature of god of holly into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Holly",
+    "description": "The God cultivates holly in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of holly, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Holly in Focus",
+    "description": "The God isolates one property or pattern of holly, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of holly as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Holly's Stewardship",
+    "description": "The God applies holly as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Holly",
-    "description": "The God coordinates several expressions of god of holly at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Holly",
+    "description": "The God coordinates several expressions of holly at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of holly into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Holly Synthesis",
+    "description": "The God combines the deepest principles of holly into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Holly",
-   "description": "The God reveals the perfected expression of god of holly. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Holly",
+   "description": "The God reveals the perfected expression of holly. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9213,35 +9213,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Hazel": {
   "number": 197,
-  "concept": "God of Hazel",
+  "concept": "Hazel",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Hazel",
-    "description": "The God gathers the signature of god of hazel into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Hazel",
+    "description": "The God cultivates hazel in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of hazel, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Hazel in Focus",
+    "description": "The God isolates one property or pattern of hazel, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of hazel as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Hazel's Stewardship",
+    "description": "The God applies hazel as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Hazel",
-    "description": "The God coordinates several expressions of god of hazel at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Hazel",
+    "description": "The God coordinates several expressions of hazel at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of hazel into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Hazel Synthesis",
+    "description": "The God combines the deepest principles of hazel into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Hazel",
-   "description": "The God reveals the perfected expression of god of hazel. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Hazel",
+   "description": "The God reveals the perfected expression of hazel. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9260,35 +9260,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Vine": {
   "number": 198,
-  "concept": "God of Vine",
+  "concept": "Vine",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Vine",
-    "description": "The God gathers the signature of god of vine into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Vine",
+    "description": "The God cultivates vine in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of vine, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Vine in Focus",
+    "description": "The God isolates one property or pattern of vine, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of vine as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Vine's Stewardship",
+    "description": "The God applies vine as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Vine",
-    "description": "The God coordinates several expressions of god of vine at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Vine",
+    "description": "The God coordinates several expressions of vine at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of vine into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Vine Synthesis",
+    "description": "The God combines the deepest principles of vine into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Vine",
-   "description": "The God reveals the perfected expression of god of vine. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Vine",
+   "description": "The God reveals the perfected expression of vine. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9307,35 +9307,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Ivy": {
   "number": 199,
-  "concept": "God of Ivy",
+  "concept": "Ivy",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Ivy",
-    "description": "The God gathers the signature of god of ivy into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Ivy",
+    "description": "The God cultivates ivy in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of ivy, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Ivy in Focus",
+    "description": "The God isolates one property or pattern of ivy, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of ivy as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Ivy's Stewardship",
+    "description": "The God applies ivy as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Ivy",
-    "description": "The God coordinates several expressions of god of ivy at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Ivy",
+    "description": "The God coordinates several expressions of ivy at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of ivy into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Ivy Synthesis",
+    "description": "The God combines the deepest principles of ivy into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Ivy",
-   "description": "The God reveals the perfected expression of god of ivy. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Ivy",
+   "description": "The God reveals the perfected expression of ivy. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9354,35 +9354,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Reed": {
   "number": 200,
-  "concept": "God of Reed",
+  "concept": "Reed",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Reed",
-    "description": "The God gathers the signature of god of reed into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Reed",
+    "description": "The God cultivates reed in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of reed, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Reed in Focus",
+    "description": "The God isolates one property or pattern of reed, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of reed as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Reed's Stewardship",
+    "description": "The God applies reed as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Reed",
-    "description": "The God coordinates several expressions of god of reed at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Reed",
+    "description": "The God coordinates several expressions of reed at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of reed into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Reed Synthesis",
+    "description": "The God combines the deepest principles of reed into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Reed",
-   "description": "The God reveals the perfected expression of god of reed. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Reed",
+   "description": "The God reveals the perfected expression of reed. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9401,35 +9401,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Elder": {
   "number": 201,
-  "concept": "God of Elder",
+  "concept": "Elder",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Elder",
-    "description": "The God gathers the signature of god of elder into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Elder",
+    "description": "The God cultivates elder in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of elder, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Elder in Focus",
+    "description": "The God isolates one property or pattern of elder, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of elder as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Elder's Stewardship",
+    "description": "The God applies elder as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Elder",
-    "description": "The God coordinates several expressions of god of elder at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Elder",
+    "description": "The God coordinates several expressions of elder at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of elder into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Elder Synthesis",
+    "description": "The God combines the deepest principles of elder into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Elder",
-   "description": "The God reveals the perfected expression of god of elder. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Elder",
+   "description": "The God reveals the perfected expression of elder. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9448,35 +9448,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Freedom": {
   "number": 202,
-  "concept": "God of Freedom",
+  "concept": "Freedom",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Freedom",
-    "description": "The God gathers the signature of god of freedom into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Freedom",
+    "description": "The God connects freedom in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of freedom, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Freedom in Focus",
+    "description": "The God isolates one property or pattern of freedom, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of freedom as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Freedom's Stewardship",
+    "description": "The God applies freedom as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Freedom",
-    "description": "The God coordinates several expressions of god of freedom at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Freedom",
+    "description": "The God coordinates several expressions of freedom at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of freedom into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Freedom Synthesis",
+    "description": "The God combines the deepest principles of freedom into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Freedom",
-   "description": "The God reveals the perfected expression of god of freedom. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Freedom",
+   "description": "The God reveals the perfected expression of freedom. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9495,35 +9495,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Power": {
   "number": 203,
-  "concept": "God of Power",
+  "concept": "Power",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Power",
-    "description": "The God gathers the signature of god of power into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Power",
+    "description": "The God connects power in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of power, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Power in Focus",
+    "description": "The God isolates one property or pattern of power, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of power as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Power's Stewardship",
+    "description": "The God applies power as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Power",
-    "description": "The God coordinates several expressions of god of power at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Power",
+    "description": "The God coordinates several expressions of power at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of power into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Power Synthesis",
+    "description": "The God combines the deepest principles of power into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Power",
-   "description": "The God reveals the perfected expression of god of power. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Power",
+   "description": "The God reveals the perfected expression of power. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9542,35 +9542,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Plant": {
   "number": 204,
-  "concept": "God of Plant",
+  "concept": "Plant",
   "category": "Natural Ecosystems",
   "signature": [
    {
-    "name": "Wildheart Call: God of Plant",
-    "description": "The God gathers the signature of god of plant into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Wildheart Call: Plant",
+    "description": "The God cultivates plant in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Habitat Weave: God in Focus",
-    "description": "The God isolates a property or pattern of god of plant, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Habitat Weave: Plant in Focus",
+    "description": "The God isolates one property or pattern of plant, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Seasonal Bond: God's Stewardship",
-    "description": "The God applies god of plant as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Seasonal Bond: Plant's Stewardship",
+    "description": "The God applies plant as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Living Biome Accord: God of Plant",
-    "description": "The God coordinates several expressions of god of plant at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Living Biome Accord: Plant",
+    "description": "The God coordinates several expressions of plant at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "The Great Regrowth: God Synthesis",
-    "description": "The God combines the deepest principles of god of plant into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "The Great Regrowth: Plant Synthesis",
+    "description": "The God combines the deepest principles of plant into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Edenic Crown: God of Plant",
-   "description": "The God reveals the perfected expression of god of plant. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Edenic Crown: Plant",
+   "description": "The God reveals the perfected expression of plant. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9589,35 +9589,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Red": {
   "number": 205,
-  "concept": "God of Red",
+  "concept": "Red",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Red",
-    "description": "The God gathers the signature of god of red into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Red",
+    "description": "The God perceives red in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of red, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Red in Focus",
+    "description": "The God isolates one property or pattern of red, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of red as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Red's Stewardship",
+    "description": "The God applies red as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Red",
-    "description": "The God coordinates several expressions of god of red at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Red",
+    "description": "The God coordinates several expressions of red at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of red into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Red Synthesis",
+    "description": "The God combines the deepest principles of red into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Red",
-   "description": "The God reveals the perfected expression of god of red. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Red",
+   "description": "The God reveals the perfected expression of red. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9636,35 +9636,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Blue": {
   "number": 206,
-  "concept": "God of Blue",
+  "concept": "Blue",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Blue",
-    "description": "The God gathers the signature of god of blue into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Blue",
+    "description": "The God perceives blue in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of blue, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Blue in Focus",
+    "description": "The God isolates one property or pattern of blue, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of blue as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Blue's Stewardship",
+    "description": "The God applies blue as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Blue",
-    "description": "The God coordinates several expressions of god of blue at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Blue",
+    "description": "The God coordinates several expressions of blue at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of blue into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Blue Synthesis",
+    "description": "The God combines the deepest principles of blue into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Blue",
-   "description": "The God reveals the perfected expression of god of blue. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Blue",
+   "description": "The God reveals the perfected expression of blue. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9683,35 +9683,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of White": {
   "number": 207,
-  "concept": "God of White",
+  "concept": "White",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of White",
-    "description": "The God gathers the signature of god of white into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: White",
+    "description": "The God perceives white in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of white, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: White in Focus",
+    "description": "The God isolates one property or pattern of white, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of white as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: White's Stewardship",
+    "description": "The God applies white as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of White",
-    "description": "The God coordinates several expressions of god of white at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: White",
+    "description": "The God coordinates several expressions of white at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of white into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: White Synthesis",
+    "description": "The God combines the deepest principles of white into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of White",
-   "description": "The God reveals the perfected expression of god of white. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: White",
+   "description": "The God reveals the perfected expression of white. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9730,35 +9730,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Purple": {
   "number": 208,
-  "concept": "God of Purple",
+  "concept": "Purple",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Purple",
-    "description": "The God gathers the signature of god of purple into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Purple",
+    "description": "The God perceives purple in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of purple, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Purple in Focus",
+    "description": "The God isolates one property or pattern of purple, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of purple as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Purple's Stewardship",
+    "description": "The God applies purple as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Purple",
-    "description": "The God coordinates several expressions of god of purple at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Purple",
+    "description": "The God coordinates several expressions of purple at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of purple into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Purple Synthesis",
+    "description": "The God combines the deepest principles of purple into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Purple",
-   "description": "The God reveals the perfected expression of god of purple. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Purple",
+   "description": "The God reveals the perfected expression of purple. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9777,35 +9777,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Violet": {
   "number": 209,
-  "concept": "God of Violet",
+  "concept": "Violet",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Violet",
-    "description": "The God gathers the signature of god of violet into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Violet",
+    "description": "The God perceives violet in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of violet, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Violet in Focus",
+    "description": "The God isolates one property or pattern of violet, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of violet as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Violet's Stewardship",
+    "description": "The God applies violet as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Violet",
-    "description": "The God coordinates several expressions of god of violet at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Violet",
+    "description": "The God coordinates several expressions of violet at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of violet into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Violet Synthesis",
+    "description": "The God combines the deepest principles of violet into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Violet",
-   "description": "The God reveals the perfected expression of god of violet. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Violet",
+   "description": "The God reveals the perfected expression of violet. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9824,35 +9824,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Green": {
   "number": 210,
-  "concept": "God of Green",
+  "concept": "Green",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Green",
-    "description": "The God gathers the signature of god of green into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Green",
+    "description": "The God perceives green in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of green, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Green in Focus",
+    "description": "The God isolates one property or pattern of green, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of green as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Green's Stewardship",
+    "description": "The God applies green as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Green",
-    "description": "The God coordinates several expressions of god of green at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Green",
+    "description": "The God coordinates several expressions of green at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of green into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Green Synthesis",
+    "description": "The God combines the deepest principles of green into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Green",
-   "description": "The God reveals the perfected expression of god of green. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Green",
+   "description": "The God reveals the perfected expression of green. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9871,35 +9871,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Brown": {
   "number": 211,
-  "concept": "God of Brown",
+  "concept": "Brown",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Brown",
-    "description": "The God gathers the signature of god of brown into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Brown",
+    "description": "The God perceives brown in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of brown, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Brown in Focus",
+    "description": "The God isolates one property or pattern of brown, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of brown as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Brown's Stewardship",
+    "description": "The God applies brown as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Brown",
-    "description": "The God coordinates several expressions of god of brown at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Brown",
+    "description": "The God coordinates several expressions of brown at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of brown into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Brown Synthesis",
+    "description": "The God combines the deepest principles of brown into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Brown",
-   "description": "The God reveals the perfected expression of god of brown. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Brown",
+   "description": "The God reveals the perfected expression of brown. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9918,35 +9918,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Orange": {
   "number": 212,
-  "concept": "God of Orange",
+  "concept": "Orange",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Orange",
-    "description": "The God gathers the signature of god of orange into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Orange",
+    "description": "The God perceives orange in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of orange, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Orange in Focus",
+    "description": "The God isolates one property or pattern of orange, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of orange as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Orange's Stewardship",
+    "description": "The God applies orange as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Orange",
-    "description": "The God coordinates several expressions of god of orange at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Orange",
+    "description": "The God coordinates several expressions of orange at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of orange into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Orange Synthesis",
+    "description": "The God combines the deepest principles of orange into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Orange",
-   "description": "The God reveals the perfected expression of god of orange. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Orange",
+   "description": "The God reveals the perfected expression of orange. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -9965,35 +9965,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Pink": {
   "number": 213,
-  "concept": "God of Pink",
+  "concept": "Pink",
   "category": "Sensory & Aesthetic Domains",
   "signature": [
    {
-    "name": "Spectrum Touch: God of Pink",
-    "description": "The God gathers the signature of god of pink into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Spectrum Touch: Pink",
+    "description": "The God perceives pink in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Resonant Palette: God in Focus",
-    "description": "The God isolates a property or pattern of god of pink, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Resonant Palette: Pink in Focus",
+    "description": "The God isolates one property or pattern of pink, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Form and Feeling: God's Stewardship",
-    "description": "The God applies god of pink as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Form and Feeling: Pink's Stewardship",
+    "description": "The God applies pink as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Synesthetic Weave: God of Pink",
-    "description": "The God coordinates several expressions of god of pink at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Synesthetic Weave: Pink",
+    "description": "The God coordinates several expressions of pink at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Perfect Expression: God Synthesis",
-    "description": "The God combines the deepest principles of god of pink into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Perfect Expression: Pink Synthesis",
+    "description": "The God combines the deepest principles of pink into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Infinite Canvas: God of Pink",
-   "description": "The God reveals the perfected expression of god of pink. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Infinite Canvas: Pink",
+   "description": "The God reveals the perfected expression of pink. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10012,35 +10012,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Reward": {
   "number": 214,
-  "concept": "God of Reward",
+  "concept": "Reward",
   "category": "Economics & Exchange",
   "signature": [
    {
-    "name": "Fair Measure: God of Reward",
-    "description": "The God gathers the signature of god of reward into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Fair Measure: Reward",
+    "description": "The God assesss reward in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Ledger: God in Focus",
-    "description": "The God isolates a property or pattern of god of reward, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Ledger: Reward in Focus",
+    "description": "The God isolates one property or pattern of reward, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Balanced Exchange: God's Stewardship",
-    "description": "The God applies god of reward as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Balanced Exchange: Reward's Stewardship",
+    "description": "The God applies reward as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Common Prosperity Engine: God of Reward",
-    "description": "The God coordinates several expressions of god of reward at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Common Prosperity Engine: Reward",
+    "description": "The God coordinates several expressions of reward at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Equitable Distribution: God Synthesis",
-    "description": "The God combines the deepest principles of god of reward into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Equitable Distribution: Reward Synthesis",
+    "description": "The God combines the deepest principles of reward into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Abundant Balance: God of Reward",
-   "description": "The God reveals the perfected expression of god of reward. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Abundant Balance: Reward",
+   "description": "The God reveals the perfected expression of reward. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10059,35 +10059,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Option": {
   "number": 215,
-  "concept": "God of Option",
+  "concept": "Option",
   "category": "Possibility & Reality",
   "signature": [
    {
-    "name": "Boundary of Being: God of Option",
-    "description": "The God gathers the signature of god of option into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Boundary of Being: Option",
+    "description": "The God defines option in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Open Branch: God in Focus",
-    "description": "The God isolates a property or pattern of god of option, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Open Branch: Option in Focus",
+    "description": "The God isolates one property or pattern of option, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Proof of Presence: God's Stewardship",
-    "description": "The God applies god of option as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Proof of Presence: Option's Stewardship",
+    "description": "The God applies option as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Potential Actualization: God of Option",
-    "description": "The God coordinates several expressions of god of option at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Potential Actualization: Option",
+    "description": "The God coordinates several expressions of option at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Reality's Framework: God Synthesis",
-    "description": "The God combines the deepest principles of god of option into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Reality's Framework: Option Synthesis",
+    "description": "The God combines the deepest principles of option into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The One Certain World: God of Option",
-   "description": "The God reveals the perfected expression of god of option. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The One Certain World: Option",
+   "description": "The God reveals the perfected expression of option. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10106,35 +10106,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Love": {
   "number": 216,
-  "concept": "God of Love",
+  "concept": "Love",
   "category": "Human Society & Relationships",
   "signature": [
    {
-    "name": "Common Ground: God of Love",
-    "description": "The God gathers the signature of god of love into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Common Ground: Love",
+    "description": "The God connects love in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Trust-Building Thread: God in Focus",
-    "description": "The God isolates a property or pattern of god of love, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Trust-Building Thread: Love in Focus",
+    "description": "The God isolates one property or pattern of love, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Shared Voice: God's Stewardship",
-    "description": "The God applies god of love as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Shared Voice: Love's Stewardship",
+    "description": "The God applies love as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Community Weave: God of Love",
-    "description": "The God coordinates several expressions of god of love at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Community Weave: Love",
+    "description": "The God coordinates several expressions of love at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Concord of Many: God Synthesis",
-    "description": "The God combines the deepest principles of god of love into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Concord of Many: Love Synthesis",
+    "description": "The God combines the deepest principles of love into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Great Human Accord: God of Love",
-   "description": "The God reveals the perfected expression of god of love. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Great Human Accord: Love",
+   "description": "The God reveals the perfected expression of love. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10153,35 +10153,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Aries": {
   "number": 217,
-  "concept": "God of Aries",
+  "concept": "Aries",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Aries",
-    "description": "The God gathers the signature of god of aries into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Aries",
+    "description": "The God measures aries in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of aries, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Aries in Focus",
+    "description": "The God isolates one property or pattern of aries, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of aries as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Aries's Stewardship",
+    "description": "The God applies aries as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Aries",
-    "description": "The God coordinates several expressions of god of aries at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Aries",
+    "description": "The God coordinates several expressions of aries at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of aries into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Aries Synthesis",
+    "description": "The God combines the deepest principles of aries into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Aries",
-   "description": "The God reveals the perfected expression of god of aries. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Aries",
+   "description": "The God reveals the perfected expression of aries. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10200,35 +10200,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Taurus": {
   "number": 218,
-  "concept": "God of Taurus",
+  "concept": "Taurus",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Taurus",
-    "description": "The God gathers the signature of god of taurus into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Taurus",
+    "description": "The God measures taurus in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of taurus, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Taurus in Focus",
+    "description": "The God isolates one property or pattern of taurus, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of taurus as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Taurus's Stewardship",
+    "description": "The God applies taurus as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Taurus",
-    "description": "The God coordinates several expressions of god of taurus at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Taurus",
+    "description": "The God coordinates several expressions of taurus at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of taurus into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Taurus Synthesis",
+    "description": "The God combines the deepest principles of taurus into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Taurus",
-   "description": "The God reveals the perfected expression of god of taurus. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Taurus",
+   "description": "The God reveals the perfected expression of taurus. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10247,35 +10247,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Gemini": {
   "number": 219,
-  "concept": "God of Gemini",
+  "concept": "Gemini",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Gemini",
-    "description": "The God gathers the signature of god of gemini into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Gemini",
+    "description": "The God measures gemini in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of gemini, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Gemini in Focus",
+    "description": "The God isolates one property or pattern of gemini, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of gemini as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Gemini's Stewardship",
+    "description": "The God applies gemini as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Gemini",
-    "description": "The God coordinates several expressions of god of gemini at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Gemini",
+    "description": "The God coordinates several expressions of gemini at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of gemini into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Gemini Synthesis",
+    "description": "The God combines the deepest principles of gemini into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Gemini",
-   "description": "The God reveals the perfected expression of god of gemini. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Gemini",
+   "description": "The God reveals the perfected expression of gemini. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10294,35 +10294,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Cancer": {
   "number": 220,
-  "concept": "God of Cancer",
+  "concept": "Cancer",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Cancer",
-    "description": "The God gathers the signature of god of cancer into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Cancer",
+    "description": "The God measures cancer in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of cancer, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Cancer in Focus",
+    "description": "The God isolates one property or pattern of cancer, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of cancer as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Cancer's Stewardship",
+    "description": "The God applies cancer as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Cancer",
-    "description": "The God coordinates several expressions of god of cancer at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Cancer",
+    "description": "The God coordinates several expressions of cancer at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of cancer into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Cancer Synthesis",
+    "description": "The God combines the deepest principles of cancer into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Cancer",
-   "description": "The God reveals the perfected expression of god of cancer. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Cancer",
+   "description": "The God reveals the perfected expression of cancer. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10341,35 +10341,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Leo": {
   "number": 221,
-  "concept": "God of Leo",
+  "concept": "Leo",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Leo",
-    "description": "The God gathers the signature of god of leo into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Leo",
+    "description": "The God measures leo in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of leo, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Leo in Focus",
+    "description": "The God isolates one property or pattern of leo, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of leo as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Leo's Stewardship",
+    "description": "The God applies leo as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Leo",
-    "description": "The God coordinates several expressions of god of leo at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Leo",
+    "description": "The God coordinates several expressions of leo at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of leo into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Leo Synthesis",
+    "description": "The God combines the deepest principles of leo into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Leo",
-   "description": "The God reveals the perfected expression of god of leo. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Leo",
+   "description": "The God reveals the perfected expression of leo. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10388,35 +10388,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Virgo": {
   "number": 222,
-  "concept": "God of Virgo",
+  "concept": "Virgo",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Virgo",
-    "description": "The God gathers the signature of god of virgo into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Virgo",
+    "description": "The God measures virgo in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of virgo, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Virgo in Focus",
+    "description": "The God isolates one property or pattern of virgo, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of virgo as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Virgo's Stewardship",
+    "description": "The God applies virgo as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Virgo",
-    "description": "The God coordinates several expressions of god of virgo at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Virgo",
+    "description": "The God coordinates several expressions of virgo at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of virgo into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Virgo Synthesis",
+    "description": "The God combines the deepest principles of virgo into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Virgo",
-   "description": "The God reveals the perfected expression of god of virgo. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Virgo",
+   "description": "The God reveals the perfected expression of virgo. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10435,35 +10435,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Libra": {
   "number": 223,
-  "concept": "God of Libra",
+  "concept": "Libra",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Libra",
-    "description": "The God gathers the signature of god of libra into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Libra",
+    "description": "The God measures libra in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of libra, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Libra in Focus",
+    "description": "The God isolates one property or pattern of libra, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of libra as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Libra's Stewardship",
+    "description": "The God applies libra as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Libra",
-    "description": "The God coordinates several expressions of god of libra at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Libra",
+    "description": "The God coordinates several expressions of libra at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of libra into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Libra Synthesis",
+    "description": "The God combines the deepest principles of libra into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Libra",
-   "description": "The God reveals the perfected expression of god of libra. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Libra",
+   "description": "The God reveals the perfected expression of libra. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10482,35 +10482,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Scorpio": {
   "number": 224,
-  "concept": "God of Scorpio",
+  "concept": "Scorpio",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Scorpio",
-    "description": "The God gathers the signature of god of scorpio into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Scorpio",
+    "description": "The God measures scorpio in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of scorpio, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Scorpio in Focus",
+    "description": "The God isolates one property or pattern of scorpio, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of scorpio as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Scorpio's Stewardship",
+    "description": "The God applies scorpio as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Scorpio",
-    "description": "The God coordinates several expressions of god of scorpio at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Scorpio",
+    "description": "The God coordinates several expressions of scorpio at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of scorpio into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Scorpio Synthesis",
+    "description": "The God combines the deepest principles of scorpio into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Scorpio",
-   "description": "The God reveals the perfected expression of god of scorpio. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Scorpio",
+   "description": "The God reveals the perfected expression of scorpio. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10529,35 +10529,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Sagittarius": {
   "number": 225,
-  "concept": "God of Sagittarius",
+  "concept": "Sagittarius",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Sagittarius",
-    "description": "The God gathers the signature of god of sagittarius into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Sagittarius",
+    "description": "The God measures sagittarius in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of sagittarius, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Sagittarius in Focus",
+    "description": "The God isolates one property or pattern of sagittarius, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of sagittarius as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Sagittarius's Stewardship",
+    "description": "The God applies sagittarius as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Sagittarius",
-    "description": "The God coordinates several expressions of god of sagittarius at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Sagittarius",
+    "description": "The God coordinates several expressions of sagittarius at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of sagittarius into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Sagittarius Synthesis",
+    "description": "The God combines the deepest principles of sagittarius into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Sagittarius",
-   "description": "The God reveals the perfected expression of god of sagittarius. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Sagittarius",
+   "description": "The God reveals the perfected expression of sagittarius. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10576,35 +10576,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Capricorn": {
   "number": 226,
-  "concept": "God of Capricorn",
+  "concept": "Capricorn",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Capricorn",
-    "description": "The God gathers the signature of god of capricorn into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Capricorn",
+    "description": "The God measures capricorn in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of capricorn, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Capricorn in Focus",
+    "description": "The God isolates one property or pattern of capricorn, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of capricorn as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Capricorn's Stewardship",
+    "description": "The God applies capricorn as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Capricorn",
-    "description": "The God coordinates several expressions of god of capricorn at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Capricorn",
+    "description": "The God coordinates several expressions of capricorn at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of capricorn into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Capricorn Synthesis",
+    "description": "The God combines the deepest principles of capricorn into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Capricorn",
-   "description": "The God reveals the perfected expression of god of capricorn. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Capricorn",
+   "description": "The God reveals the perfected expression of capricorn. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10623,35 +10623,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Aquarius": {
   "number": 227,
-  "concept": "God of Aquarius",
+  "concept": "Aquarius",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Aquarius",
-    "description": "The God gathers the signature of god of aquarius into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Aquarius",
+    "description": "The God measures aquarius in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of aquarius, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Aquarius in Focus",
+    "description": "The God isolates one property or pattern of aquarius, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of aquarius as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Aquarius's Stewardship",
+    "description": "The God applies aquarius as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Aquarius",
-    "description": "The God coordinates several expressions of god of aquarius at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Aquarius",
+    "description": "The God coordinates several expressions of aquarius at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of aquarius into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Aquarius Synthesis",
+    "description": "The God combines the deepest principles of aquarius into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Aquarius",
-   "description": "The God reveals the perfected expression of god of aquarius. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Aquarius",
+   "description": "The God reveals the perfected expression of aquarius. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
@@ -10670,35 +10670,35 @@ window.GOD_TECHNIQUES = {
  },
  "God of Pisces": {
   "number": 228,
-  "concept": "God of Pisces",
+  "concept": "Pisces",
   "category": "Time & Calendrical Systems",
   "signature": [
    {
-    "name": "Marked Hour: God of Pisces",
-    "description": "The God gathers the signature of god of pisces into a controlled expression and directs it precisely at a chosen task. It can initiate, protect, teach, or intervene without automatically escalating into destruction."
+    "name": "Marked Hour: Pisces",
+    "description": "The God measures pisces in a controlled, recognizable expression. It can initiate, protect, teach, or intervene with precision rather than relying on indiscriminate force."
    },
    {
-    "name": "Cycle Recognition: God in Focus",
-    "description": "The God isolates a property or pattern of god of pisces, reads its condition, and adjusts it with exceptional precision. The effect is subtle, deliberate, and recognizable as this God's own craft."
+    "name": "Cycle Recognition: Pisces in Focus",
+    "description": "The God isolates one property or pattern of pisces, reads its condition, and adjusts it with exceptional precision. Subtle changes become visible to the God before they grow into larger consequences."
    },
    {
-    "name": "Calendar Thread: God's Stewardship",
-    "description": "The God applies god of pisces as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
+    "name": "Calendar Thread: Pisces's Stewardship",
+    "description": "The God applies pisces as a constructive or protective instrument, stabilizing a situation and helping neighboring domains work safely alongside it."
    }
   ],
   "advanced": [
    {
-    "name": "Convergent Calendar: God of Pisces",
-    "description": "The God coordinates several expressions of god of pisces at once, maintaining fine control while adapting to changing conditions. The effect can cover a broad field, but remains entirely within this God's concept."
+    "name": "Convergent Calendar: Pisces",
+    "description": "The God coordinates several expressions of pisces at once, maintaining fine control while adapting to changing conditions. The technique can cover a broad field, but remains entirely within this God's concept."
    },
    {
-    "name": "Chronicle Synchrony: God Synthesis",
-    "description": "The God combines the deepest principles of god of pisces into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
+    "name": "Chronicle Synchrony: Pisces Synthesis",
+    "description": "The God combines the deepest principles of pisces into one complex operation. It can reshape a difficult situation, restore a failing process, or overcome a threat through mastery rather than brute force."
    }
   ],
   "ultimate": {
-   "name": "The Eternal Almanac: God of Pisces",
-   "description": "The God reveals the perfected expression of god of pisces. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
+   "name": "The Eternal Almanac: Pisces",
+   "description": "The God reveals the perfected expression of pisces. Within the exact boundaries of this concept, every relevant property is brought into harmony: the God perceives the whole pattern, acts with exceptional precision, and establishes the most complete outcome this domain can support. It may create, protect, restore, resolve, or defeat a threat."
   },
   "limitations": [
    {
