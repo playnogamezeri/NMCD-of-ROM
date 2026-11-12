@@ -235,3 +235,11 @@ footer p{color:var(--muted)}
 .god-card-group{color:var(--gold);font-size:.75rem;letter-spacing:.02em;margin:.45rem 0 -.35rem}
 
 .ability-list{margin:.45rem 0 0;padding-left:1.25rem;color:var(--dim);line-height:1.6}.ability-list li{margin:.35rem 0}
+
+/* Divine technique compendium */
+.divine-techniques{margin-top:1.5rem}
+.technique-group{margin:1.15rem 0;padding-top:.8rem;border-top:1px solid var(--line,rgba(255,255,255,.12))}
+.technique-group>h4{margin:.1rem 0 .75rem;color:var(--gold)}
+.technique-entry{padding:.8rem 0;border-bottom:1px solid var(--line,rgba(255,255,255,.08))}
+.technique-entry h5{margin:0 0 .35rem;font-size:.98rem;color:var(--text)}
+.technique-entry p{margin:0;color:var(--dim);line-height:1.65}
